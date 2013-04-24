@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTShapeStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTShapeStyle</TokenIdentifier>
+			<Abstract type="html">Causes all layers going forward to use a particular shape.</Abstract>
+			<DeclaredIn>TTShapeStyle.h</DeclaredIn>
+			
+			<NodeRef refid="118"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShapeStyle/setShape:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShapeStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTShape *shape</Declaration>
+			
+			
+			<Anchor>//api/name/shape</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTShapeStyle/shape</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShapeStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTShape *shape</Declaration>
+			
+			
+			<Anchor>//api/name/shape</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTShapeStyle/styleWithShape:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShapeStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTShapeStyle *)styleWithShape:(TTShape *)shape next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithShape:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

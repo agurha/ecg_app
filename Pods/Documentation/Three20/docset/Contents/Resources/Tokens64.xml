@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTHighlightBorderStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTHighlightBorderStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTHighlightBorderStyle.h</DeclaredIn>
+			
+			<NodeRef refid="64"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTHighlightBorderStyle/setColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTHighlightBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTHighlightBorderStyle/color</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTHighlightBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTHighlightBorderStyle/setHighlightColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTHighlightBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *highlightColor</Declaration>
+			
+			
+			<Anchor>//api/name/highlightColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTHighlightBorderStyle/highlightColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTHighlightBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *highlightColor</Declaration>
+			
+			
+			<Anchor>//api/name/highlightColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTHighlightBorderStyle/setWidth:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTHighlightBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTHighlightBorderStyle/width</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTHighlightBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTHighlightBorderStyle/styleWithColor:highlightColor:width:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTHighlightBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTHighlightBorderStyle *)styleWithColor:(UIColor *)color highlightColor:(UIColor *)highlightColor width:(CGFloat)width next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithColor:highlightColor:width:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTCSSStyleSheet.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTCSSStyleSheet</TokenIdentifier>
+			<Abstract type="html">A general purpose CSS style sheet object for accessing a CSS style sheet&apos;s properties.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>
+			
+			<NodeRef refid="47"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/setCssStyles:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *cssStyles</Declaration>
+			
+			
+			<Anchor>//api/name/cssStyles</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSStyleSheet/cssStyles</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *cssStyles</Declaration>
+			
+			
+			<Anchor>//api/name/cssStyles</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/setCssRulesSet:</TokenIdentifier>
+			<Abstract type="html">An collection of loaded TTCSSRuleSet.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly) NSDictionary *cssRulesSet</Declaration>
+			
+			
+			<Anchor>//api/name/cssRulesSet</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSStyleSheet/cssRulesSet</TokenIdentifier>
+			<Abstract type="html">An collection of loaded TTCSSRuleSet.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly) NSDictionary *cssRulesSet</Declaration>
+			
+			
+			<Anchor>//api/name/cssRulesSet</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/loadFromFilename:</TokenIdentifier>
+			<Abstract type="html">Load the style sheet into memory from disk.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)loadFromFilename:(NSString *)filename</Declaration>
+			
+			<ReturnValue><Abstract type="html">NO if the file does not exist.</Abstract></ReturnValue>
+			<Anchor>//api/name/loadFromFilename:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/addStyleSheet:</TokenIdentifier>
+			<Abstract type="html">Add a stylesheet to this one, overriding any properties as expected.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (void)addStyleSheet:(TTCSSStyleSheet *)styleSheet</Declaration>
+			
+			
+			<Anchor>//api/name/addStyleSheet:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/colorWithCssSelector:forState:</TokenIdentifier>
+			<Abstract type="html">Get (text) color from a specific rule set, also accept an specific state.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)colorWithCssSelector:(NSString *)selector forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/colorWithCssSelector:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/colorWithCssSelector:</TokenIdentifier>
+			<Abstract type="html">Get (text) color from a specific rule set.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)colorWithCssSelector:(NSString *)selector</Declaration>
+			
+			
+			<Anchor>//api/name/colorWithCssSelector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/backgroundColorWithCssSelector:forState:</TokenIdentifier>
+			<Abstract type="html">Get background-color from a specific rule set, also accept an specific state.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)backgroundColorWithCssSelector:(NSString *)selector forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/backgroundColorWithCssSelector:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/backgroundColorWithCssSelector:</TokenIdentifier>
+			<Abstract type="html">Get background-color from a specific rule set.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)backgroundColorWithCssSelector:(NSString *)selector</Declaration>
+			
+			
+			<Anchor>//api/name/backgroundColorWithCssSelector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/fontWithCssSelector:forState:</TokenIdentifier>
+			<Abstract type="html">Get font from a specific rule set, also accept an specific state.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (UIFont *)fontWithCssSelector:(NSString *)selector forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/fontWithCssSelector:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/fontWithCssSelector:</TokenIdentifier>
+			<Abstract type="html">Get font from a specific rule set and &apos;normal&apos; state.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (UIFont *)fontWithCssSelector:(NSString *)selector</Declaration>
+			
+			
+			<Anchor>//api/name/fontWithCssSelector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/textShadowColorWithCssSelector:forState:</TokenIdentifier>
+			<Abstract type="html">Get text shadow color from a specific rule set, also accept an specific state.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)textShadowColorWithCssSelector:(NSString *)selector forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/textShadowColorWithCssSelector:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/textShadowColorWithCssSelector:</TokenIdentifier>
+			<Abstract type="html">Get text shadow color from a specific rule set.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)textShadowColorWithCssSelector:(NSString *)selector</Declaration>
+			
+			
+			<Anchor>//api/name/textShadowColorWithCssSelector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/textShadowOffsetWithCssSelector:forState:</TokenIdentifier>
+			<Abstract type="html">Get text shadow offset from a specific rule set, also accept an specific state.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (CGSize)textShadowOffsetWithCssSelector:(NSString *)selector forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/textShadowOffsetWithCssSelector:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/textShadowOffsetWithCssSelector:</TokenIdentifier>
+			<Abstract type="html">Get text shadow offset from a specific rule set.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (CGSize)textShadowOffsetWithCssSelector:(NSString *)selector</Declaration>
+			
+			
+			<Anchor>//api/name/textShadowOffsetWithCssSelector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/textShadowRadiusWithCssSelector:</TokenIdentifier>
+			<Abstract type="html">Get text shadow radius from a specific rule set.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (CGFloat)textShadowRadiusWithCssSelector:(NSString *)selector</Declaration>
+			
+			
+			<Anchor>//api/name/textShadowRadiusWithCssSelector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/textShadowRadiusWithCssSelector:forState:</TokenIdentifier>
+			<Abstract type="html">Get text shadow radius from a specific rule set, also accept an specific state.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (CGFloat)textShadowRadiusWithCssSelector:(NSString *)selector forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/textShadowRadiusWithCssSelector:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/css:</TokenIdentifier>
+			<Abstract type="html">CSS Rule Set.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (TTCSSRuleSet *)css:(NSString *)selectorName</Declaration>
+			
+			
+			<Anchor>//api/name/css:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/css:forState:</TokenIdentifier>
+			<Abstract type="html">CSS Rule Set, also accept an specific state.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (TTCSSRuleSet *)css:(NSString *)selectorName forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/css:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSStyleSheet/freeMemory</TokenIdentifier>
+			<Abstract type="html">Release all cached data.</Abstract>
+			<DeclaredIn>TTCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (void)freeMemory</Declaration>
+			
+			
+			<Anchor>//api/name/freeMemory</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

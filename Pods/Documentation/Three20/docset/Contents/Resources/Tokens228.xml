@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLXMLResponse.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLXMLResponse</TokenIdentifier>
+			<Abstract type="html">An implementation of the TTURLResponse protocal for turning XML responses into NSObjects.</Abstract>
+			<DeclaredIn>TTURLXMLResponse.h</DeclaredIn>
+			
+			<NodeRef refid="228"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLXMLResponse/setRootObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLXMLResponse.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain, readonly) id rootObject</Declaration>
+			
+			
+			<Anchor>//api/name/rootObject</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLXMLResponse/rootObject</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLXMLResponse.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain, readonly) id rootObject</Declaration>
+			
+			
+			<Anchor>//api/name/rootObject</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLXMLResponse/setIsRssFeed:</TokenIdentifier>
+			<Abstract type="html">Is this XML response an RSS feed? This distinction is necessary in order to allow duplicate
+keys in the XML objects.</Abstract>
+			<DeclaredIn>TTURLXMLResponse.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL isRssFeed</Declaration>
+			
+			
+			<Anchor>//api/name/isRssFeed</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLXMLResponse/isRssFeed</TokenIdentifier>
+			<Abstract type="html">Is this XML response an RSS feed? This distinction is necessary in order to allow duplicate
+keys in the XML objects.</Abstract>
+			<DeclaredIn>TTURLXMLResponse.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL isRssFeed</Declaration>
+			
+			
+			<Anchor>//api/name/isRssFeed</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

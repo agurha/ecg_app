@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTBoxStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTBoxStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>
+			
+			<NodeRef refid="41"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBoxStyle/setMargin:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets margin</Declaration>
+			
+			
+			<Anchor>//api/name/margin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBoxStyle/margin</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets margin</Declaration>
+			
+			
+			<Anchor>//api/name/margin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBoxStyle/setPadding:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets padding</Declaration>
+			
+			
+			<Anchor>//api/name/padding</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBoxStyle/padding</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets padding</Declaration>
+			
+			
+			<Anchor>//api/name/padding</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBoxStyle/setMinSize:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize minSize</Declaration>
+			
+			
+			<Anchor>//api/name/minSize</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBoxStyle/minSize</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize minSize</Declaration>
+			
+			
+			<Anchor>//api/name/minSize</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBoxStyle/setPosition:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) TTPosition position</Declaration>
+			
+			
+			<Anchor>//api/name/position</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBoxStyle/position</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) TTPosition position</Declaration>
+			
+			
+			<Anchor>//api/name/position</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBoxStyle/styleWithMargin:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTBoxStyle *)styleWithMargin:(UIEdgeInsets)margin next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithMargin:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBoxStyle/styleWithPadding:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTBoxStyle *)styleWithPadding:(UIEdgeInsets)padding next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithPadding:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBoxStyle/styleWithFloats:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTBoxStyle *)styleWithFloats:(TTPosition)position next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithFloats:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBoxStyle/styleWithMargin:padding:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTBoxStyle *)styleWithMargin:(UIEdgeInsets)margin padding:(UIEdgeInsets)padding next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithMargin:padding:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBoxStyle/styleWithMargin:padding:minSize:position:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBoxStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTBoxStyle *)styleWithMargin:(UIEdgeInsets)margin padding:(UIEdgeInsets)padding minSize:(CGSize)minSize position:(TTPosition)position next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithMargin:padding:minSize:position:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

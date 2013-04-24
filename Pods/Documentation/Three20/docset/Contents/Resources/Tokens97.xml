@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTPhotoViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTPhotoViewController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>
+			
+			<NodeRef refid="97"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/setPhotoSource:</TokenIdentifier>
+			<Abstract type="html">The source of a sequential photo collection that will be displayed.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhotoSource&gt; photoSource</Declaration>
+			
+			
+			<Anchor>//api/name/photoSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPhotoViewController/photoSource</TokenIdentifier>
+			<Abstract type="html">The source of a sequential photo collection that will be displayed.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhotoSource&gt; photoSource</Declaration>
+			
+			
+			<Anchor>//api/name/photoSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/setCenterPhoto:</TokenIdentifier>
+			<Abstract type="html">The photo that is currently visible and centered.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhoto&gt; centerPhoto</Declaration>
+			
+			
+			<Anchor>//api/name/centerPhoto</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPhotoViewController/centerPhoto</TokenIdentifier>
+			<Abstract type="html">The photo that is currently visible and centered.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhoto&gt; centerPhoto</Declaration>
+			
+			
+			<Anchor>//api/name/centerPhoto</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/setCenterPhotoIndex:</TokenIdentifier>
+			<Abstract type="html">The index of the currently visible photo.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger centerPhotoIndex</Declaration>
+			
+			
+			<Anchor>//api/name/centerPhotoIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPhotoViewController/centerPhotoIndex</TokenIdentifier>
+			<Abstract type="html">The index of the currently visible photo.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger centerPhotoIndex</Declaration>
+			
+			
+			<Anchor>//api/name/centerPhotoIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/setDefaultImage:</TokenIdentifier>
+			<Abstract type="html">The default image to show before a photo has been loaded.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *defaultImage</Declaration>
+			
+			
+			<Anchor>//api/name/defaultImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPhotoViewController/defaultImage</TokenIdentifier>
+			<Abstract type="html">The default image to show before a photo has been loaded.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *defaultImage</Declaration>
+			
+			
+			<Anchor>//api/name/defaultImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/setCaptionStyle:</TokenIdentifier>
+			<Abstract type="html">The style to use for the caption label.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *captionStyle</Declaration>
+			
+			
+			<Anchor>//api/name/captionStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPhotoViewController/captionStyle</TokenIdentifier>
+			<Abstract type="html">The style to use for the caption label.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *captionStyle</Declaration>
+			
+			
+			<Anchor>//api/name/captionStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/initWithPhoto:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithPhoto:(id&lt;TTPhoto&gt;)photo</Declaration>
+			
+			
+			<Anchor>//api/name/initWithPhoto:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/initWithPhotoSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithPhotoSource:(id&lt;TTPhotoSource&gt;)photoSource</Declaration>
+			
+			
+			<Anchor>//api/name/initWithPhotoSource:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/createPhotoView</TokenIdentifier>
+			<Abstract type="html">Creates a photo view for a new page.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>- (TTPhotoView *)createPhotoView</Declaration>
+			
+			
+			<Anchor>//api/name/createPhotoView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/createThumbsViewController</TokenIdentifier>
+			<Abstract type="html">Creates the thumbnail controller used by the &quot;See All&quot; button.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>- (TTThumbsViewController *)createThumbsViewController</Declaration>
+			
+			
+			<Anchor>//api/name/createThumbsViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/didMoveToPhoto:fromPhoto:</TokenIdentifier>
+			<Abstract type="html">Sent to the controller after it moves from one photo to another.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)didMoveToPhoto:(id&lt;TTPhoto&gt;)photo fromPhoto:(id&lt;TTPhoto&gt;)fromPhoto</Declaration>
+			
+			
+			<Anchor>//api/name/didMoveToPhoto:fromPhoto:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoViewController/showActivity:</TokenIdentifier>
+			<Abstract type="html">Shows or hides an activity label on top of the photo.</Abstract>
+			<DeclaredIn>TTPhotoViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)showActivity:(NSString *)title</Declaration>
+			
+			
+			<Anchor>//api/name/showActivity:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

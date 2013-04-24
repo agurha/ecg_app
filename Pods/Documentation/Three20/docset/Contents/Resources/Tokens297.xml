@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTScrollViewDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTScrollViewDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="297"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollView:didMoveToPageAtIndex:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollView:(TTScrollView *)scrollView didMoveToPageAtIndex:(NSInteger)pageIndex</Declaration>
+			
+			
+			<Anchor>//api/name/scrollView:didMoveToPageAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewWillRotate:toOrientation:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollViewWillRotate:(TTScrollView *)scrollView toOrientation:(UIInterfaceOrientation)orientation</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewWillRotate:toOrientation:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewDidRotate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollViewDidRotate:(TTScrollView *)scrollView</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewDidRotate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewWillBeginDragging:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollViewWillBeginDragging:(TTScrollView *)scrollView</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewWillBeginDragging:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewDidEndDragging:willDecelerate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollViewDidEndDragging:(TTScrollView *)scrollView willDecelerate:(BOOL)willDecelerate</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewDidEndDragging:willDecelerate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewWillBeginDecelerating:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollViewWillBeginDecelerating:(TTScrollView *)scrollView</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewWillBeginDecelerating:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewDidEndDecelerating:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollViewDidEndDecelerating:(TTScrollView *)scrollView</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewDidEndDecelerating:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewShouldZoom:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)scrollViewShouldZoom:(TTScrollView *)scrollView</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewShouldZoom:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewDidBeginZooming:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollViewDidBeginZooming:(TTScrollView *)scrollView</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewDidBeginZooming:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewDidEndZooming:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollViewDidEndZooming:(TTScrollView *)scrollView</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewDidEndZooming:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollView:touchedDown:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollView:(TTScrollView *)scrollView touchedDown:(UITouch *)touch</Declaration>
+			
+			
+			<Anchor>//api/name/scrollView:touchedDown:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollView:touchedUpInside:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollView:(TTScrollView *)scrollView touchedUpInside:(UITouch *)touch</Declaration>
+			
+			
+			<Anchor>//api/name/scrollView:touchedUpInside:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollView:tapped:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollView:(TTScrollView *)scrollView tapped:(UITouch *)touch</Declaration>
+			
+			
+			<Anchor>//api/name/scrollView:tapped:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewDidBeginHolding:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollViewDidBeginHolding:(TTScrollView *)scrollView</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewDidBeginHolding:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollViewDidEndHolding:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollViewDidEndHolding:(TTScrollView *)scrollView</Declaration>
+			
+			
+			<Anchor>//api/name/scrollViewDidEndHolding:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDelegate/scrollView:shouldAutorotateToInterfaceOrientation:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)scrollView:(TTScrollView *)scrollView shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)orientation</Declaration>
+			
+			
+			<Anchor>//api/name/scrollView:shouldAutorotateToInterfaceOrientation:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

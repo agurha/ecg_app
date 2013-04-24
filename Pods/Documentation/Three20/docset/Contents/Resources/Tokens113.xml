@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTSearchTextFieldInternal.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTSearchTextFieldInternal</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextFieldInternal.h</DeclaredIn>
+			
+			<NodeRef refid="113"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextFieldInternal/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextFieldInternal.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;UITextFieldDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchTextFieldInternal/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextFieldInternal.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;UITextFieldDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextFieldInternal/initWithTextField:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextFieldInternal.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithTextField:(TTSearchTextField *)textField</Declaration>
+			
+			
+			<Anchor>//api/name/initWithTextField:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

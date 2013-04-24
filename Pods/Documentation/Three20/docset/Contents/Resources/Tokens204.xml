@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTextBarController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTextBarController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>
+			
+			<NodeRef refid="204"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/setTextEditor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTTextEditor *textEditor</Declaration>
+			
+			
+			<Anchor>//api/name/textEditor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextBarController/textEditor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTTextEditor *textEditor</Declaration>
+			
+			
+			<Anchor>//api/name/textEditor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/setPostButton:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTButton *postButton</Declaration>
+			
+			
+			<Anchor>//api/name/postButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextBarController/postButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTButton *postButton</Declaration>
+			
+			
+			<Anchor>//api/name/postButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/setFooterBar:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *footerBar</Declaration>
+			
+			
+			<Anchor>//api/name/footerBar</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextBarController/footerBar</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *footerBar</Declaration>
+			
+			
+			<Anchor>//api/name/footerBar</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTTextBarDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextBarController/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTTextBarDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/post</TokenIdentifier>
+			<Abstract type="html">Posts the text to delegates, who have to actually do something with it.</Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>- (void)post</Declaration>
+			
+			
+			<Anchor>//api/name/post</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/cancel</TokenIdentifier>
+			<Abstract type="html">Cancels the controller, but confirms with the user if they have entered text.</Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancel</Declaration>
+			
+			
+			<Anchor>//api/name/cancel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/dismissWithResult:animated:</TokenIdentifier>
+			<Abstract type="html">Dismisses the controller with a resulting that is sent to the delegate.</Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>- (void)dismissWithResult:(id)result animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/dismissWithResult:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/failWithError:</TokenIdentifier>
+			<Abstract type="html">Notifies the user of an error and resets the editor to normal.</Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>- (void)failWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/failWithError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/willPostText:</TokenIdentifier>
+			<Abstract type="html">The users has entered text and posted it.</Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)willPostText:(NSString *)text</Declaration>
+			
+			<ReturnValue><Abstract type="html">YES if the controller should be dismissed immediately.</Abstract></ReturnValue>
+			<Anchor>//api/name/willPostText:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/titleForActivity</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)titleForActivity</Declaration>
+			
+			
+			<Anchor>//api/name/titleForActivity</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextBarController/titleForError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarController.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)titleForError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/titleForError:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

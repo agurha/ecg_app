@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTPostControllerDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTPostControllerDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostControllerDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="294"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPostControllerDelegate/postController:willPostText:</TokenIdentifier>
+			<Abstract type="html">The user has posted text and an animation is about to show the text return to its origin.</Abstract>
+			<DeclaredIn>TTPostControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)postController:(TTPostController *)postController willPostText:(NSString *)text</Declaration>
+			
+			<ReturnValue><Abstract type="html">whether to dismiss the controller or wait for the user to call dismiss.</Abstract></ReturnValue>
+			<Anchor>//api/name/postController:willPostText:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPostControllerDelegate/postController:willAnimateTowards:</TokenIdentifier>
+			<Abstract type="html">The text will animate towards a rectangle.</Abstract>
+			<DeclaredIn>TTPostControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (CGRect)postController:(TTPostController *)postController willAnimateTowards:(CGRect)rect</Declaration>
+			
+			<ReturnValue><Abstract type="html">the rect in screen coordinates where the text should animate towards.</Abstract></ReturnValue>
+			<Anchor>//api/name/postController:willAnimateTowards:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPostControllerDelegate/postController:didPostText:withResult:</TokenIdentifier>
+			<Abstract type="html">The text has been posted.</Abstract>
+			<DeclaredIn>TTPostControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)postController:(TTPostController *)postController didPostText:(NSString *)text withResult:(id)result</Declaration>
+			
+			
+			<Anchor>//api/name/postController:didPostText:withResult:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPostControllerDelegate/postControllerDidCancel:</TokenIdentifier>
+			<Abstract type="html">The controller was cancelled before posting.</Abstract>
+			<DeclaredIn>TTPostControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)postControllerDidCancel:(TTPostController *)postController</Declaration>
+			
+			
+			<Anchor>//api/name/postControllerDidCancel:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

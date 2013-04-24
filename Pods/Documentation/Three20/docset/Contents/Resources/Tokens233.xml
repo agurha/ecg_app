@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTWebController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTWebController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>
+			
+			<NodeRef refid="233"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTWebController/setURL:</TokenIdentifier>
+			<Abstract type="html">The current web view URL. If the web view is currently loading a URL, then the loading URL is
+returned instead.</Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTWebController/URL</TokenIdentifier>
+			<Abstract type="html">The current web view URL. If the web view is currently loading a URL, then the loading URL is
+returned instead.</Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTWebController/setHeaderView:</TokenIdentifier>
+			<Abstract type="html">A view that is inserted at the top of the web view, within the scroller.</Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *headerView</Declaration>
+			
+			
+			<Anchor>//api/name/headerView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTWebController/headerView</TokenIdentifier>
+			<Abstract type="html">A view that is inserted at the top of the web view, within the scroller.</Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *headerView</Declaration>
+			
+			
+			<Anchor>//api/name/headerView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTWebController/setDelegate:</TokenIdentifier>
+			<Abstract type="html">The web controller delegate</Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTWebControllerDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTWebController/delegate</TokenIdentifier>
+			<Abstract type="html">The web controller delegate</Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTWebControllerDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTWebController/openURL:</TokenIdentifier>
+			<Abstract type="html">Navigate to the given URL.</Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>- (void)openURL:(NSURL *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/openURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTWebController/openRequest:</TokenIdentifier>
+			<Abstract type="html">Load the given request using UIWebView&apos;s loadRequest:.</Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>- (void)openRequest:(NSURLRequest *)request</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>request</Name>
+					<Abstract type="html">A URL request identifying the location of the content to load.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/openRequest:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

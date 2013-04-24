@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableSubtitleItem.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableSubtitleItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>
+			
+			<NodeRef refid="186"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableSubtitleItem/setSubtitle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *subtitle</Declaration>
+			
+			
+			<Anchor>//api/name/subtitle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableSubtitleItem/subtitle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *subtitle</Declaration>
+			
+			
+			<Anchor>//api/name/subtitle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableSubtitleItem/setImageURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/imageURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableSubtitleItem/imageURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/imageURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableSubtitleItem/setDefaultImage:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *defaultImage</Declaration>
+			
+			
+			<Anchor>//api/name/defaultImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableSubtitleItem/defaultImage</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *defaultImage</Declaration>
+			
+			
+			<Anchor>//api/name/defaultImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableSubtitleItem/itemWithText:subtitle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text subtitle:(NSString *)subtitle</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:subtitle:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableSubtitleItem/itemWithText:subtitle:URL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text subtitle:(NSString *)subtitle URL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:subtitle:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableSubtitleItem/itemWithText:subtitle:URL:accessoryURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text subtitle:(NSString *)subtitle URL:(NSString *)URL accessoryURL:(NSString *)accessoryURL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:subtitle:URL:accessoryURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableSubtitleItem/itemWithText:subtitle:imageURL:URL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text subtitle:(NSString *)subtitle imageURL:(NSString *)imageURL URL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:subtitle:imageURL:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableSubtitleItem/itemWithText:subtitle:imageURL:defaultImage:URL:accessoryURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtitleItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text subtitle:(NSString *)subtitle imageURL:(NSString *)imageURL defaultImage:(UIImage *)defaultImage URL:(NSString *)URL accessoryURL:(NSString *)accessoryURL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:subtitle:imageURL:defaultImage:URL:accessoryURL:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

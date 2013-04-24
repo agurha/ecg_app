@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSObject+TTAdditions.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSObject(TTAdditions)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>NSObjectAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="252"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(TTAdditions)/performSelector:withObject:withObject:withObject:</TokenIdentifier>
+			<Abstract type="html">Additional performSelector signatures that support up to 7 arguments.</Abstract>
+			<DeclaredIn>NSObjectAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (id)performSelector:(SEL)selector withObject:(id)p1 withObject:(id)p2 withObject:(id)p3</Declaration>
+			
+			
+			<Anchor>//api/name/performSelector:withObject:withObject:withObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(TTAdditions)/performSelector:withObject:withObject:withObject:withObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>NSObjectAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (id)performSelector:(SEL)selector withObject:(id)p1 withObject:(id)p2 withObject:(id)p3 withObject:(id)p4</Declaration>
+			
+			
+			<Anchor>//api/name/performSelector:withObject:withObject:withObject:withObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(TTAdditions)/performSelector:withObject:withObject:withObject:withObject:withObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>NSObjectAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (id)performSelector:(SEL)selector withObject:(id)p1 withObject:(id)p2 withObject:(id)p3 withObject:(id)p4 withObject:(id)p5</Declaration>
+			
+			
+			<Anchor>//api/name/performSelector:withObject:withObject:withObject:withObject:withObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(TTAdditions)/performSelector:withObject:withObject:withObject:withObject:withObject:withObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>NSObjectAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (id)performSelector:(SEL)selector withObject:(id)p1 withObject:(id)p2 withObject:(id)p3 withObject:(id)p4 withObject:(id)p5 withObject:(id)p6</Declaration>
+			
+			
+			<Anchor>//api/name/performSelector:withObject:withObject:withObject:withObject:withObject:withObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(TTAdditions)/performSelector:withObject:withObject:withObject:withObject:withObject:withObject:withObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>NSObjectAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (id)performSelector:(SEL)selector withObject:(id)p1 withObject:(id)p2 withObject:(id)p3 withObject:(id)p4 withObject:(id)p5 withObject:(id)p6 withObject:(id)p7</Declaration>
+			
+			
+			<Anchor>//api/name/performSelector:withObject:withObject:withObject:withObject:withObject:withObject:withObject:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

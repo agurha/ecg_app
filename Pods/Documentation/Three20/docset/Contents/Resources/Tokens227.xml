@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLWildcard.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLWildcard</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLWildcard.h</DeclaredIn>
+			
+			<NodeRef refid="227"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLWildcard/setName:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLWildcard.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLWildcard/name</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLWildcard.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLWildcard/setArgIndex:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLWildcard.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger argIndex</Declaration>
+			
+			
+			<Anchor>//api/name/argIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLWildcard/argIndex</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLWildcard.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger argIndex</Declaration>
+			
+			
+			<Anchor>//api/name/argIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLWildcard/setArgType:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLWildcard.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) TTURLArgumentType argType</Declaration>
+			
+			
+			<Anchor>//api/name/argType</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLWildcard/argType</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLWildcard.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) TTURLArgumentType argType</Declaration>
+			
+			
+			<Anchor>//api/name/argType</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLWildcard/setSelector:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLWildcard.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTURLSelector *selector</Declaration>
+			
+			
+			<Anchor>//api/name/selector</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLWildcard/selector</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLWildcard.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTURLSelector *selector</Declaration>
+			
+			
+			<Anchor>//api/name/selector</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLWildcard/deduceSelectorForClass:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLWildcard.h</DeclaredIn>			
+			
+			<Declaration>- (void)deduceSelectorForClass:(Class)cls</Declaration>
+			
+			
+			<Anchor>//api/name/deduceSelectorForClass:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

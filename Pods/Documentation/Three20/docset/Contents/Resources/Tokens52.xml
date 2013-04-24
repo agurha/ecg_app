@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTDefaultCSSStyleSheet.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTDefaultCSSStyleSheet</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultCSSStyleSheet.h</DeclaredIn>
+			
+			<NodeRef refid="52"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultCSSStyleSheet/setStyleSheet:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTCSSStyleSheet *styleSheet</Declaration>
+			
+			
+			<Anchor>//api/name/styleSheet</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultCSSStyleSheet/styleSheet</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTCSSStyleSheet *styleSheet</Declaration>
+			
+			
+			<Anchor>//api/name/styleSheet</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultCSSStyleSheet/addStyleSheetFromDisk:</TokenIdentifier>
+			<Abstract type="html">Load an CSS Style Sheet from disk and cache his data.
+If the file is already cached no data will be loaded again,
+if you need to reload the file use addStyleSheetFromDisk:ignoreCache:</Abstract>
+			<DeclaredIn>TTDefaultCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)addStyleSheetFromDisk:(NSString *)filename</Declaration>
+			
+			
+			<Anchor>//api/name/addStyleSheetFromDisk:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultCSSStyleSheet/addStyleSheetFromDisk:ignoreCache:</TokenIdentifier>
+			<Abstract type="html">Load an CSS Style Sheet from disk and cache his data.</Abstract>
+			<DeclaredIn>TTDefaultCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)addStyleSheetFromDisk:(NSString *)filename ignoreCache:(BOOL)cache</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>cache</Name>
+					<Abstract type="html">YES will ignore if is already cached and reload the data if needed.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/addStyleSheetFromDisk:ignoreCache:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTDefaultCSSStyleSheet/globalCSSStyleSheet</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>+ (TTDefaultCSSStyleSheet *)globalCSSStyleSheet</Declaration>
+			
+			
+			<Anchor>//api/name/globalCSSStyleSheet</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultCSSStyleSheet/css:</TokenIdentifier>
+			<Abstract type="html">CSS Rule Set.</Abstract>
+			<DeclaredIn>TTDefaultCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (TTCSSRuleSet *)css:(NSString *)selectorName</Declaration>
+			
+			
+			<Anchor>//api/name/css:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultCSSStyleSheet/css:forState:</TokenIdentifier>
+			<Abstract type="html">CSS Rule Set, also accept an specific state.</Abstract>
+			<DeclaredIn>TTDefaultCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (TTCSSRuleSet *)css:(NSString *)selectorName forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/css:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultCSSStyleSheet/applyCssFromSelector:toObject:</TokenIdentifier>
+			<Abstract type="html">Apply the rules for the specified selector to the informed object. This object
+must conform with the TTCSSApplyProtocol to read and properly apply the CSS rules.</Abstract>
+			<DeclaredIn>TTDefaultCSSStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (void)applyCssFromSelector:(NSString *)selectorName toObject:(id&lt;TTCSSApplyProtocol&gt;)anObject</Declaration>
+			
+			
+			<Anchor>//api/name/applyCssFromSelector:toObject:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

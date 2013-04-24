@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/YAJLDocumentDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/YAJLDocumentDelegate</TokenIdentifier>
+			<Abstract type="html">YAJLDocument delegate notified when objects are added.</Abstract>
+			<DeclaredIn>YAJLDocument.h</DeclaredIn>
+			
+			<NodeRef refid="315"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/YAJLDocumentDelegate/document:didAddDictionary:</TokenIdentifier>
+			<Abstract type="html">Did add dictionary.</Abstract>
+			<DeclaredIn>YAJLDocument.h</DeclaredIn>			
+			
+			<Declaration>- (void)document:(YAJLDocument *)document didAddDictionary:(NSDictionary *)dict</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>document</Name>
+					<Abstract type="html">Sender</Abstract>
+				</Parameter><Parameter>
+					<Name>dict</Name>
+					<Abstract type="html">Dictionary that was added</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/document:didAddDictionary:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/YAJLDocumentDelegate/document:didAddArray:</TokenIdentifier>
+			<Abstract type="html">Did add array.</Abstract>
+			<DeclaredIn>YAJLDocument.h</DeclaredIn>			
+			
+			<Declaration>- (void)document:(YAJLDocument *)document didAddArray:(NSArray *)array</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>document</Name>
+					<Abstract type="html">Sender</Abstract>
+				</Parameter><Parameter>
+					<Name>array</Name>
+					<Abstract type="html">Array that was added</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/document:didAddArray:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/YAJLDocumentDelegate/document:didAddObject:toArray:</TokenIdentifier>
+			<Abstract type="html">Did add object to array.</Abstract>
+			<DeclaredIn>YAJLDocument.h</DeclaredIn>			
+			
+			<Declaration>- (void)document:(YAJLDocument *)document didAddObject:(id)object toArray:(NSArray *)array</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>document</Name>
+					<Abstract type="html">Sender</Abstract>
+				</Parameter><Parameter>
+					<Name>object</Name>
+					<Abstract type="html">Object added</Abstract>
+				</Parameter><Parameter>
+					<Name>array</Name>
+					<Abstract type="html">Array objct was added to</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/document:didAddObject:toArray:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/YAJLDocumentDelegate/document:didSetObject:forKey:inDictionary:</TokenIdentifier>
+			<Abstract type="html">Did set object for key on dictionary.</Abstract>
+			<DeclaredIn>YAJLDocument.h</DeclaredIn>			
+			
+			<Declaration>- (void)document:(YAJLDocument *)document didSetObject:(id)object forKey:(id)key inDictionary:(NSDictionary *)dict</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>document</Name>
+					<Abstract type="html">Sender</Abstract>
+				</Parameter><Parameter>
+					<Name>object</Name>
+					<Abstract type="html">Object that was set</Abstract>
+				</Parameter><Parameter>
+					<Name>key</Name>
+					<Abstract type="html">Key</Abstract>
+				</Parameter><Parameter>
+					<Name>dict</Name>
+					<Abstract type="html">Dictionary object was set for key on</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/document:didSetObject:forKey:inDictionary:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTSplitViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTSplitViewController</TokenIdentifier>
+			<Abstract type="html">A split view controller that implements the navigator root protocol.</Abstract>
+			<DeclaredIn>TTSplitViewController.h</DeclaredIn>
+			
+			<NodeRef refid="122"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSplitViewController/setLeftNavigator:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSplitViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTNavigator *leftNavigator</Declaration>
+			
+			
+			<Anchor>//api/name/leftNavigator</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSplitViewController/leftNavigator</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSplitViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTNavigator *leftNavigator</Declaration>
+			
+			
+			<Anchor>//api/name/leftNavigator</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSplitViewController/setRightNavigator:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSplitViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTNavigator *rightNavigator</Declaration>
+			
+			
+			<Anchor>//api/name/rightNavigator</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSplitViewController/rightNavigator</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSplitViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTNavigator *rightNavigator</Declaration>
+			
+			
+			<Anchor>//api/name/rightNavigator</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSplitViewController/setSplitViewButton:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSplitViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIBarButtonItem *splitViewButton</Declaration>
+			
+			
+			<Anchor>//api/name/splitViewButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSplitViewController/splitViewButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSplitViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIBarButtonItem *splitViewButton</Declaration>
+			
+			
+			<Anchor>//api/name/splitViewButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSplitViewController/setPopoverSplitController:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSplitViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIPopoverController *popoverSplitController</Declaration>
+			
+			
+			<Anchor>//api/name/popoverSplitController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSplitViewController/popoverSplitController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSplitViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIPopoverController *popoverSplitController</Declaration>
+			
+			
+			<Anchor>//api/name/popoverSplitController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSplitViewController/updateSplitViewButton</TokenIdentifier>
+			<Abstract type="html">Show/hide the button as the right-side navigator&apos;s root navigation item&apos;s left button.</Abstract>
+			<DeclaredIn>TTSplitViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)updateSplitViewButton</Declaration>
+			
+			
+			<Anchor>//api/name/updateSplitViewButton</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTPhotoSource.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTPhotoSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoSource.h</DeclaredIn>
+			
+			<NodeRef refid="292"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPhotoSource/setTitle:</TokenIdentifier>
+			<Abstract type="html">The title of this collection of photos.</Abstract>
+			<DeclaredIn>TTPhotoSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/TTPhotoSource/title</TokenIdentifier>
+			<Abstract type="html">The title of this collection of photos.</Abstract>
+			<DeclaredIn>TTPhotoSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPhotoSource/setNumberOfPhotos:</TokenIdentifier>
+			<Abstract type="html">The total number of photos in the source, independent of the number that have been loaded.</Abstract>
+			<DeclaredIn>TTPhotoSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger numberOfPhotos</Declaration>
+			
+			
+			<Anchor>//api/name/numberOfPhotos</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/TTPhotoSource/numberOfPhotos</TokenIdentifier>
+			<Abstract type="html">The total number of photos in the source, independent of the number that have been loaded.</Abstract>
+			<DeclaredIn>TTPhotoSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger numberOfPhotos</Declaration>
+			
+			
+			<Anchor>//api/name/numberOfPhotos</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPhotoSource/setMaxPhotoIndex:</TokenIdentifier>
+			<Abstract type="html">The maximum index of photos that have already been loaded.</Abstract>
+			<DeclaredIn>TTPhotoSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger maxPhotoIndex</Declaration>
+			
+			
+			<Anchor>//api/name/maxPhotoIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/TTPhotoSource/maxPhotoIndex</TokenIdentifier>
+			<Abstract type="html">The maximum index of photos that have already been loaded.</Abstract>
+			<DeclaredIn>TTPhotoSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger maxPhotoIndex</Declaration>
+			
+			
+			<Anchor>//api/name/maxPhotoIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPhotoSource/photoAtIndex:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoSource.h</DeclaredIn>			
+			
+			<Declaration>- (id&lt;TTPhoto&gt;)photoAtIndex:(NSInteger)index</Declaration>
+			
+			
+			<Anchor>//api/name/photoAtIndex:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

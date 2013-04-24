@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTURLRequestDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTURLRequestDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequestDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="311"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLRequestDelegate/requestDidStartLoad:</TokenIdentifier>
+			<Abstract type="html">The request has begun loading.</Abstract>
+			<DeclaredIn>TTURLRequestDelegate.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/intfm/TTURLRequestDelegate/requestDidFinishLoad:</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>- (void)requestDidStartLoad:(TTURLRequest *)request</Declaration>
+			
+			
+			<Anchor>//api/name/requestDidStartLoad:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLRequestDelegate/requestDidUploadData:</TokenIdentifier>
+			<Abstract type="html">The request has loaded some more data.</Abstract>
+			<DeclaredIn>TTURLRequestDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)requestDidUploadData:(TTURLRequest *)request</Declaration>
+			
+			
+			<Anchor>//api/name/requestDidUploadData:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLRequestDelegate/requestDidFinishLoad:</TokenIdentifier>
+			<Abstract type="html">The request has loaded data and been processed into a response.</Abstract>
+			<DeclaredIn>TTURLRequestDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)requestDidFinishLoad:(TTURLRequest *)request</Declaration>
+			
+			
+			<Anchor>//api/name/requestDidFinishLoad:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLRequestDelegate/request:didReceiveAuthenticationChallenge:</TokenIdentifier>
+			<Abstract type="html">Allows delegate to handle any authentication challenges.</Abstract>
+			<DeclaredIn>TTURLRequestDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)request:(TTURLRequest *)request didReceiveAuthenticationChallenge:(NSURLAuthenticationChallenge *)challenge</Declaration>
+			
+			
+			<Anchor>//api/name/request:didReceiveAuthenticationChallenge:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLRequestDelegate/request:didFailLoadWithError:</TokenIdentifier>
+			<Abstract type="html">The request failed to load.</Abstract>
+			<DeclaredIn>TTURLRequestDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)request:(TTURLRequest *)request didFailLoadWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/request:didFailLoadWithError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLRequestDelegate/requestDidCancelLoad:</TokenIdentifier>
+			<Abstract type="html">The request was canceled.</Abstract>
+			<DeclaredIn>TTURLRequestDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)requestDidCancelLoad:(TTURLRequest *)request</Declaration>
+			
+			
+			<Anchor>//api/name/requestDidCancelLoad:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

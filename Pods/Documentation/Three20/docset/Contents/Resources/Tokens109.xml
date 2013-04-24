@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTScrollView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTScrollView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>
+			
+			<NodeRef refid="109"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setCenterPageIndex:</TokenIdentifier>
+			<Abstract type="html">Retrieve or set the current page index.
+If you inform anew value for this page, the Scroll View will
+load this page on the center of the view.
+This operatin is not animated, you should use &lt;tt&gt;setCenterPageIndex:animated:&lt;/tt&gt;
+if you want to control the animation.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger centerPageIndex</Declaration>
+			
+			
+			<Anchor>//api/name/centerPageIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/centerPageIndex</TokenIdentifier>
+			<Abstract type="html">Retrieve or set the current page index.
+If you inform anew value for this page, the Scroll View will
+load this page on the center of the view.
+This operatin is not animated, you should use &lt;tt&gt;setCenterPageIndex:animated:&lt;/tt&gt;
+if you want to control the animation.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger centerPageIndex</Declaration>
+			
+			
+			<Anchor>//api/name/centerPageIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setCenterPageAnimationDuration:</TokenIdentifier>
+			<Abstract type="html">Set the duration for the animation performed by the &lt;tt&gt;setCenterPageIndex:animated:&lt;/tt&gt;
+method.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (assign) NSTimeInterval centerPageAnimationDuration</Declaration>
+			
+			
+			<Anchor>//api/name/centerPageAnimationDuration</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/centerPageAnimationDuration</TokenIdentifier>
+			<Abstract type="html">Set the duration for the animation performed by the &lt;tt&gt;setCenterPageIndex:animated:&lt;/tt&gt;
+method.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (assign) NSTimeInterval centerPageAnimationDuration</Declaration>
+			
+			
+			<Anchor>//api/name/centerPageAnimationDuration</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setZoomed:</TokenIdentifier>
+			<Abstract type="html">Whether or not the current page is zoomed.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL zoomed</Declaration>
+			
+			
+			<Anchor>//api/name/zoomed</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/zoomed</TokenIdentifier>
+			<Abstract type="html">Whether or not the current page is zoomed.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL zoomed</Declaration>
+			
+			
+			<Anchor>//api/name/zoomed</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setZooming:</TokenIdentifier>
+			<Abstract type="html">A Boolean value that indicates whether the content view is currently zooming in or
+out. (read-only)</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL zooming</Declaration>
+			
+			
+			<Anchor>//api/name/zooming</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/zooming</TokenIdentifier>
+			<Abstract type="html">A Boolean value that indicates whether the content view is currently zooming in or
+out. (read-only)</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL zooming</Declaration>
+			
+			
+			<Anchor>//api/name/zooming</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setIsDragging:</TokenIdentifier>
+			<Abstract type="html">A Boolean value that indicates whether the user is scrolling the
+view with his finger. If the scroll is scrolling by animation this
+value is NO. (read-only)</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly) BOOL isDragging</Declaration>
+			
+			
+			<Anchor>//api/name/isDragging</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/isDragging</TokenIdentifier>
+			<Abstract type="html">A Boolean value that indicates whether the user is scrolling the
+view with his finger. If the scroll is scrolling by animation this
+value is NO. (read-only)</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly) BOOL isDragging</Declaration>
+			
+			
+			<Anchor>//api/name/isDragging</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setHolding:</TokenIdentifier>
+			<Abstract type="html">The scroller is performing an &quot;hold&quot; action.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL holding</Declaration>
+			
+			
+			<Anchor>//api/name/holding</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/holding</TokenIdentifier>
+			<Abstract type="html">The scroller is performing an &quot;hold&quot; action.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL holding</Declaration>
+			
+			
+			<Anchor>//api/name/holding</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setDecelerating:</TokenIdentifier>
+			<Abstract type="html">Returns whether the content is moving in the scroll view after the user lifted their
+finger. (read-only)</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, getter=isDecelerating) BOOL decelerating</Declaration>
+			
+			
+			<Anchor>//api/name/decelerating</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/decelerating</TokenIdentifier>
+			<Abstract type="html">Returns whether the content is moving in the scroll view after the user lifted their
+finger. (read-only)</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, getter=isDecelerating) BOOL decelerating</Declaration>
+			
+			
+			<Anchor>//api/name/decelerating</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setScrollEnabled:</TokenIdentifier>
+			<Abstract type="html">A Boolean value that determines whether scrolling is enabled.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL scrollEnabled</Declaration>
+			
+			
+			<Anchor>//api/name/scrollEnabled</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/scrollEnabled</TokenIdentifier>
+			<Abstract type="html">A Boolean value that determines whether scrolling is enabled.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL scrollEnabled</Declaration>
+			
+			
+			<Anchor>//api/name/scrollEnabled</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setZoomEnabled:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL zoomEnabled</Declaration>
+			
+			
+			<Anchor>//api/name/zoomEnabled</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/zoomEnabled</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL zoomEnabled</Declaration>
+			
+			
+			<Anchor>//api/name/zoomEnabled</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setRotateEnabled:</TokenIdentifier>
+			<Abstract type="html">A Boolean value that determines whether rotation is enabled.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL rotateEnabled</Declaration>
+			
+			
+			<Anchor>//api/name/rotateEnabled</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/rotateEnabled</TokenIdentifier>
+			<Abstract type="html">A Boolean value that determines whether rotation is enabled.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL rotateEnabled</Declaration>
+			
+			
+			<Anchor>//api/name/rotateEnabled</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setPageSpacing:</TokenIdentifier>
+			<Abstract type="html">A &lt;tt&gt;CGFloat&lt;/tt&gt; value that determines the gap between the pages.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat pageSpacing</Declaration>
+			
+			
+			<Anchor>//api/name/pageSpacing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/pageSpacing</TokenIdentifier>
+			<Abstract type="html">A &lt;tt&gt;CGFloat&lt;/tt&gt; value that determines the gap between the pages.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat pageSpacing</Declaration>
+			
+			
+			<Anchor>//api/name/pageSpacing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setOrientation:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIInterfaceOrientation orientation</Declaration>
+			
+			
+			<Anchor>//api/name/orientation</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/orientation</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIInterfaceOrientation orientation</Declaration>
+			
+			
+			<Anchor>//api/name/orientation</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setNumberOfPages:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger numberOfPages</Declaration>
+			
+			
+			<Anchor>//api/name/numberOfPages</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/numberOfPages</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger numberOfPages</Declaration>
+			
+			
+			<Anchor>//api/name/numberOfPages</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setCenterPage:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIView *centerPage</Declaration>
+			
+			
+			<Anchor>//api/name/centerPage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/centerPage</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIView *centerPage</Declaration>
+			
+			
+			<Anchor>//api/name/centerPage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setHoldsAfterTouchingForInterval:</TokenIdentifier>
+			<Abstract type="html">The number of seconds to wait before initiating the &quot;hold&quot; action.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSTimeInterval holdsAfterTouchingForInterval</Declaration>
+			
+			
+			<Anchor>//api/name/holdsAfterTouchingForInterval</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/holdsAfterTouchingForInterval</TokenIdentifier>
+			<Abstract type="html">The number of seconds to wait before initiating the &quot;hold&quot; action.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSTimeInterval holdsAfterTouchingForInterval</Declaration>
+			
+			
+			<Anchor>//api/name/holdsAfterTouchingForInterval</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setDecelerationRate:</TokenIdentifier>
+			<Abstract type="html">A floating-point value that determines the rate of deceleration after the user lifts
+their finger.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property CGFloat decelerationRate</Declaration>
+			
+			
+			<Anchor>//api/name/decelerationRate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/decelerationRate</TokenIdentifier>
+			<Abstract type="html">A floating-point value that determines the rate of deceleration after the user lifts
+their finger.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property CGFloat decelerationRate</Declaration>
+			
+			
+			<Anchor>//api/name/decelerationRate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setZoomScale:</TokenIdentifier>
+			<Abstract type="html">A floating-point value that specifies the current scale factor applied to the scroll
+view&apos;s content.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) CGFloat zoomScale</Declaration>
+			
+			
+			<Anchor>//api/name/zoomScale</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/zoomScale</TokenIdentifier>
+			<Abstract type="html">A floating-point value that specifies the current scale factor applied to the scroll
+view&apos;s content.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) CGFloat zoomScale</Declaration>
+			
+			
+			<Anchor>//api/name/zoomScale</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setMaximumZoomScale:</TokenIdentifier>
+			<Abstract type="html">A floating-point value that specifies the maximum scale factor that
+can be applied to the scroll view&apos;s content.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat maximumZoomScale</Declaration>
+			
+			
+			<Anchor>//api/name/maximumZoomScale</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/maximumZoomScale</TokenIdentifier>
+			<Abstract type="html">A floating-point value that specifies the maximum scale factor that
+can be applied to the scroll view&apos;s content.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat maximumZoomScale</Declaration>
+			
+			
+			<Anchor>//api/name/maximumZoomScale</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTScrollViewDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTScrollViewDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setDataSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTScrollViewDataSource&gt; dataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/dataSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTScrollViewDataSource&gt; dataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setVisiblePages:</TokenIdentifier>
+			<Abstract type="html">A dictionary of visible pages keyed by the index of the page.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *visiblePages</Declaration>
+			
+			
+			<Anchor>//api/name/visiblePages</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTScrollView/visiblePages</TokenIdentifier>
+			<Abstract type="html">A dictionary of visible pages keyed by the index of the page.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *visiblePages</Declaration>
+			
+			
+			<Anchor>//api/name/visiblePages</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setOrientation:animated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (void)setOrientation:(UIInterfaceOrientation)orientation animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/setOrientation:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setZoomScale:animated:</TokenIdentifier>
+			<Abstract type="html">A floating-point value that specifies the current zoom scale.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (void)setZoomScale:(CGFloat)newScale animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/setZoomScale:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setZoomScale:withPoint:animated:</TokenIdentifier>
+			<Abstract type="html">A floating-point value that specifies the current zoom scale.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (void)setZoomScale:(CGFloat)newScale withPoint:(CGPoint)withPoint animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/setZoomScale:withPoint:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/dequeueReusablePage</TokenIdentifier>
+			<Abstract type="html">Gets a previously created page view that has been moved off screen and recycled.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (UIView *)dequeueReusablePage</Declaration>
+			
+			
+			<Anchor>//api/name/dequeueReusablePage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/reloadData</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (void)reloadData</Declaration>
+			
+			
+			<Anchor>//api/name/reloadData</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/pageAtIndex:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (UIView *)pageAtIndex:(NSInteger)pageIndex</Declaration>
+			
+			
+			<Anchor>//api/name/pageAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/zoomToFit</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (void)zoomToFit</Declaration>
+			
+			
+			<Anchor>//api/name/zoomToFit</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/zoomToDistance:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (void)zoomToDistance:(CGFloat)distance</Declaration>
+			
+			
+			<Anchor>//api/name/zoomToDistance:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/setCenterPageIndex:animated:</TokenIdentifier>
+			<Abstract type="html">Set the current center page and optionally animate the transition.
+&lt;b&gt;Only animate if the distance between the actual page and the informed
+is one. Example: If is one page 1 and you inform page 3, will not animate.&lt;/b&gt;</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (void)setCenterPageIndex:(NSInteger)centerPageIndex animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/setCenterPageIndex:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTScrollView/cancelTouches</TokenIdentifier>
+			<Abstract type="html">Cancels any active touches and resets everything to an untouched state.</Abstract>
+			<DeclaredIn>TTScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancelTouches</Declaration>
+			
+			
+			<Anchor>//api/name/cancelTouches</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

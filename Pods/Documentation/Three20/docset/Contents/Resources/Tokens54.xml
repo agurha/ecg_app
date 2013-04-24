@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTEntityTables.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTEntityTables</TokenIdentifier>
+			<Abstract type="html">Standard entity tables for use with XML parsers.</Abstract>
+			<DeclaredIn>TTEntityTables.h</DeclaredIn>
+			
+			<NodeRef refid="54"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTEntityTables/setIso88591:</TokenIdentifier>
+			<Abstract type="html">Entity table for ISO 8859-1.</Abstract>
+			<DeclaredIn>TTEntityTables.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *iso88591</Declaration>
+			
+			
+			<Anchor>//api/name/iso88591</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTEntityTables/iso88591</TokenIdentifier>
+			<Abstract type="html">Entity table for ISO 8859-1.</Abstract>
+			<DeclaredIn>TTEntityTables.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *iso88591</Declaration>
+			
+			
+			<Anchor>//api/name/iso88591</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTEntityTables/sharedInstance</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTEntityTables.h</DeclaredIn>			
+			
+			<Declaration>+ (TTEntityTables *)sharedInstance</Declaration>
+			
+			
+			<Anchor>//api/name/sharedInstance</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTEntityTables/releaseSharedInstance</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTEntityTables.h</DeclaredIn>			
+			
+			<Declaration>+ (void)releaseSharedInstance</Declaration>
+			
+			
+			<Anchor>//api/name/releaseSharedInstance</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

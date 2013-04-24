@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTTableViewDataSource.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTTableViewDataSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>
+			
+			<NodeRef refid="303"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/setModel:</TokenIdentifier>
+			<Abstract type="html">Optional method to return a model object to delegate the TTModel protocol to.</Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTModel&gt; model</Declaration>
+			
+			
+			<Anchor>//api/name/model</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/TTTableViewDataSource/model</TokenIdentifier>
+			<Abstract type="html">Optional method to return a model object to delegate the TTModel protocol to.</Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTModel&gt; model</Declaration>
+			
+			
+			<Anchor>//api/name/model</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/lettersForSectionsWithSearch:summary:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>+ (NSArray *)lettersForSectionsWithSearch:(BOOL)search summary:(BOOL)summary</Declaration>
+			
+			
+			<Anchor>//api/name/lettersForSectionsWithSearch:summary:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/tableView:objectForRowAtIndexPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (id)tableView:(UITableView *)tableView objectForRowAtIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:objectForRowAtIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/tableView:cellClassForObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (Class)tableView:(UITableView *)tableView cellClassForObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:cellClassForObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/tableView:labelForObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)tableView:(UITableView *)tableView labelForObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:labelForObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/tableView:indexPathForObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSIndexPath *)tableView:(UITableView *)tableView indexPathForObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:indexPathForObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/tableView:cell:willAppearAtIndexPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (void)tableView:(UITableView *)tableView cell:(UITableViewCell *)cell willAppearAtIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:cell:willAppearAtIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/tableViewDidLoadModel:</TokenIdentifier>
+			<Abstract type="html">Informs the data source that its model loaded.</Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (void)tableViewDidLoadModel:(UITableView *)tableView</Declaration>
+			
+			
+			<Anchor>//api/name/tableViewDidLoadModel:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/titleForLoading:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)titleForLoading:(BOOL)reloading</Declaration>
+			
+			
+			<Anchor>//api/name/titleForLoading:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/imageForEmpty</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (UIImage *)imageForEmpty</Declaration>
+			
+			
+			<Anchor>//api/name/imageForEmpty</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/titleForEmpty</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)titleForEmpty</Declaration>
+			
+			
+			<Anchor>//api/name/titleForEmpty</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/subtitleForEmpty</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)subtitleForEmpty</Declaration>
+			
+			
+			<Anchor>//api/name/subtitleForEmpty</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/reloadButtonForEmpty</TokenIdentifier>
+			<Abstract type="html">return YES to include a reload button in the TTErrorView.</Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)reloadButtonForEmpty</Declaration>
+			
+			
+			<Anchor>//api/name/reloadButtonForEmpty</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/imageForError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (UIImage *)imageForError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/imageForError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/titleForError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)titleForError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/titleForError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/subtitleForError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)subtitleForError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/subtitleForError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/tableView:willUpdateObject:atIndexPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSIndexPath *)tableView:(UITableView *)tableView willUpdateObject:(id)object atIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:willUpdateObject:atIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/tableView:willInsertObject:atIndexPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSIndexPath *)tableView:(UITableView *)tableView willInsertObject:(id)object atIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:willInsertObject:atIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/tableView:willRemoveObject:atIndexPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSIndexPath *)tableView:(UITableView *)tableView willRemoveObject:(id)object atIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:willRemoveObject:atIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTableViewDataSource/search:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (void)search:(NSString *)text</Declaration>
+			
+			
+			<Anchor>//api/name/search:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

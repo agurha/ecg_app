@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTextEditorInternal.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTextEditorInternal</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorInternal.h</DeclaredIn>
+			
+			<NodeRef refid="206"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextEditorInternal/setIgnoreBeginAndEnd:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorInternal.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL ignoreBeginAndEnd</Declaration>
+			
+			
+			<Anchor>//api/name/ignoreBeginAndEnd</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextEditorInternal/ignoreBeginAndEnd</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorInternal.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL ignoreBeginAndEnd</Declaration>
+			
+			
+			<Anchor>//api/name/ignoreBeginAndEnd</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextEditorInternal/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorInternal.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTTextEditorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextEditorInternal/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorInternal.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTTextEditorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextEditorInternal/initWithTextEditor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorInternal.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithTextEditor:(TTTextEditor *)textEditor</Declaration>
+			
+			
+			<Anchor>//api/name/initWithTextEditor:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

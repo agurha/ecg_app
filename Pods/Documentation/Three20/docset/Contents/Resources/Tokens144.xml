@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyledTextLabel.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyledTextLabel</TokenIdentifier>
+			<Abstract type="html">A view that can display styled text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>
+			
+			<NodeRef refid="144"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextLabel/setText:</TokenIdentifier>
+			<Abstract type="html">The styled text displayed by the label.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledText *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextLabel/text</TokenIdentifier>
+			<Abstract type="html">The styled text displayed by the label.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledText *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextLabel/setHtml:</TokenIdentifier>
+			<Abstract type="html">A shortcut for setting the text property to an HTML string.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *html</Declaration>
+			
+			
+			<Anchor>//api/name/html</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextLabel/html</TokenIdentifier>
+			<Abstract type="html">A shortcut for setting the text property to an HTML string.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *html</Declaration>
+			
+			
+			<Anchor>//api/name/html</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextLabel/setFont:</TokenIdentifier>
+			<Abstract type="html">The font of the text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextLabel/font</TokenIdentifier>
+			<Abstract type="html">The font of the text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextLabel/setTextColor:</TokenIdentifier>
+			<Abstract type="html">The color of the text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *textColor</Declaration>
+			
+			
+			<Anchor>//api/name/textColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextLabel/textColor</TokenIdentifier>
+			<Abstract type="html">The color of the text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *textColor</Declaration>
+			
+			
+			<Anchor>//api/name/textColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextLabel/setHighlightedTextColor:</TokenIdentifier>
+			<Abstract type="html">The highlight color applied to the text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *highlightedTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/highlightedTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextLabel/highlightedTextColor</TokenIdentifier>
+			<Abstract type="html">The highlight color applied to the text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *highlightedTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/highlightedTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextLabel/setTextAlignment:</TokenIdentifier>
+			<Abstract type="html">The alignment of the text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UITextAlignment textAlignment</Declaration>
+			
+			
+			<Anchor>//api/name/textAlignment</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextLabel/textAlignment</TokenIdentifier>
+			<Abstract type="html">The alignment of the text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UITextAlignment textAlignment</Declaration>
+			
+			
+			<Anchor>//api/name/textAlignment</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextLabel/setContentInset:</TokenIdentifier>
+			<Abstract type="html">The inset of the edges around the text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets contentInset</Declaration>
+			
+			
+			<Anchor>//api/name/contentInset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextLabel/contentInset</TokenIdentifier>
+			<Abstract type="html">The inset of the edges around the text.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets contentInset</Declaration>
+			
+			
+			<Anchor>//api/name/contentInset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextLabel/setHighlighted:</TokenIdentifier>
+			<Abstract type="html">A Boolean value indicating whether the receiver should be drawn with a highlight.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL highlighted</Declaration>
+			
+			
+			<Anchor>//api/name/highlighted</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextLabel/highlighted</TokenIdentifier>
+			<Abstract type="html">A Boolean value indicating whether the receiver should be drawn with a highlight.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL highlighted</Declaration>
+			
+			
+			<Anchor>//api/name/highlighted</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextLabel/setHighlightedNode:</TokenIdentifier>
+			<Abstract type="html">The link node which is being touched and highlighted by the user.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledElement *highlightedNode</Declaration>
+			
+			
+			<Anchor>//api/name/highlightedNode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextLabel/highlightedNode</TokenIdentifier>
+			<Abstract type="html">The link node which is being touched and highlighted by the user.</Abstract>
+			<DeclaredIn>TTStyledTextLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledElement *highlightedNode</Declaration>
+			
+			
+			<Anchor>//api/name/highlightedNode</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

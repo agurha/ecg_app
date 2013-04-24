@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTMessageField.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTMessageField</TokenIdentifier>
+			<Abstract type="html">The base class for all fields used by the TTMessageController.</Abstract>
+			<DeclaredIn>TTMessageField.h</DeclaredIn>
+			
+			<NodeRef refid="84"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageField/setTitle:</TokenIdentifier>
+			<Abstract type="html">The title of this field, which will be rendered along with the field&apos;s
+contents.</Abstract>
+			<DeclaredIn>TTMessageField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageField/title</TokenIdentifier>
+			<Abstract type="html">The title of this field, which will be rendered along with the field&apos;s
+contents.</Abstract>
+			<DeclaredIn>TTMessageField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageField/setRequired:</TokenIdentifier>
+			<Abstract type="html">If true, the user must supply a value for this field before they will be
+able to send their message.</Abstract>
+			<DeclaredIn>TTMessageField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL required</Declaration>
+			
+			
+			<Anchor>//api/name/required</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageField/required</TokenIdentifier>
+			<Abstract type="html">If true, the user must supply a value for this field before they will be
+able to send their message.</Abstract>
+			<DeclaredIn>TTMessageField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL required</Declaration>
+			
+			
+			<Anchor>//api/name/required</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageField/initWithTitle:required:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMessageField.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithTitle:(NSString *)title required:(BOOL)required</Declaration>
+			
+			
+			<Anchor>//api/name/initWithTitle:required:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageField/createViewForController:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMessageField.h</DeclaredIn>			
+			
+			<Declaration>- (TTPickerTextField *)createViewForController:(TTMessageController *)controller</Declaration>
+			
+			
+			<Anchor>//api/name/createViewForController:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageField/persistField:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMessageField.h</DeclaredIn>			
+			
+			<Declaration>- (id)persistField:(UITextField *)textField</Declaration>
+			
+			
+			<Anchor>//api/name/persistField:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageField/restoreField:withData:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMessageField.h</DeclaredIn>			
+			
+			<Declaration>- (void)restoreField:(UITextField *)textField withData:(id)data</Declaration>
+			
+			
+			<Anchor>//api/name/restoreField:withData:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

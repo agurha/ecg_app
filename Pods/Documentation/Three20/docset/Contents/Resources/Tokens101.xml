@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTPostController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTPostController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>
+			
+			<NodeRef refid="101"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/setResult:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id result</Declaration>
+			
+			
+			<Anchor>//api/name/result</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPostController/result</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id result</Declaration>
+			
+			
+			<Anchor>//api/name/result</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/setTextView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITextView *textView</Declaration>
+			
+			
+			<Anchor>//api/name/textView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPostController/textView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITextView *textView</Declaration>
+			
+			
+			<Anchor>//api/name/textView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/setNavigatorBar:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UINavigationBar *navigatorBar</Declaration>
+			
+			
+			<Anchor>//api/name/navigatorBar</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPostController/navigatorBar</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UINavigationBar *navigatorBar</Declaration>
+			
+			
+			<Anchor>//api/name/navigatorBar</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/setOriginView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *originView</Declaration>
+			
+			
+			<Anchor>//api/name/originView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPostController/originView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *originView</Declaration>
+			
+			
+			<Anchor>//api/name/originView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTPostControllerDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPostController/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTPostControllerDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/post</TokenIdentifier>
+			<Abstract type="html">Posts the text to delegates, who have to actually do something with it.</Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>- (void)post</Declaration>
+			
+			
+			<Anchor>//api/name/post</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/cancel</TokenIdentifier>
+			<Abstract type="html">Cancels the controller, but confirms with the user if they have entered text.</Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancel</Declaration>
+			
+			
+			<Anchor>//api/name/cancel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/dismissWithResult:animated:</TokenIdentifier>
+			<Abstract type="html">Dismisses the controller with a resulting that is sent to the delegate.</Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>- (void)dismissWithResult:(id)result animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/dismissWithResult:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/failWithError:</TokenIdentifier>
+			<Abstract type="html">Notifies the user of an error and resets the editor to normal.</Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>- (void)failWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/failWithError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/willPostText:</TokenIdentifier>
+			<Abstract type="html">The users has entered text and posted it.</Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)willPostText:(NSString *)text</Declaration>
+			
+			<ReturnValue><Abstract type="html">YES if the controller should be dismissed immediately.</Abstract></ReturnValue>
+			<Anchor>//api/name/willPostText:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/titleForActivity</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)titleForActivity</Declaration>
+			
+			
+			<Anchor>//api/name/titleForActivity</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPostController/titleForError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPostController.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)titleForError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/titleForError:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

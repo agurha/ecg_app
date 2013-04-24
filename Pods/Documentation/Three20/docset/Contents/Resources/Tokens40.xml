@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTBlendStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTBlendStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBlendStyle.h</DeclaredIn>
+			
+			<NodeRef refid="40"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBlendStyle/setBlendMode:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBlendStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGBlendMode blendMode</Declaration>
+			
+			
+			<Anchor>//api/name/blendMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBlendStyle/blendMode</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBlendStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGBlendMode blendMode</Declaration>
+			
+			
+			<Anchor>//api/name/blendMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBlendStyle/styleWithBlend:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBlendStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTBlendStyle *)styleWithBlend:(CGBlendMode)blendMode next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithBlend:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableViewGroupedVarHeightDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableViewGroupedVarHeightDelegate</TokenIdentifier>
+			<Abstract type="html">A table view delegate for grouped table views that provides the header size.</Abstract>
+			<DeclaredIn>TTTableViewGroupedVarHeightDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="197"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

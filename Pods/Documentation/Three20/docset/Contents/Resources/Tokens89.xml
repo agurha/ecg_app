@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTModelViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTModelViewController</TokenIdentifier>
+			<Abstract type="html">A view controller that manages a model in addition to a view.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>
+			
+			<NodeRef refid="89"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/setModel:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTModel&gt; model</Declaration>
+			
+			
+			<Anchor>//api/name/model</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTModelViewController/model</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTModel&gt; model</Declaration>
+			
+			
+			<Anchor>//api/name/model</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/setModelError:</TokenIdentifier>
+			<Abstract type="html">An error that occurred while trying to load content.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSError *modelError</Declaration>
+			
+			
+			<Anchor>//api/name/modelError</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTModelViewController/modelError</TokenIdentifier>
+			<Abstract type="html">An error that occurred while trying to load content.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSError *modelError</Declaration>
+			
+			
+			<Anchor>//api/name/modelError</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/createModel</TokenIdentifier>
+			<Abstract type="html">Creates the model that the controller manages.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)createModel</Declaration>
+			
+			
+			<Anchor>//api/name/createModel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/invalidateModel</TokenIdentifier>
+			<Abstract type="html">Releases the current model and forces the creation of a new model.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)invalidateModel</Declaration>
+			
+			
+			<Anchor>//api/name/invalidateModel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/isModelCreated</TokenIdentifier>
+			<Abstract type="html">Indicates whether the model has been created.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)isModelCreated</Declaration>
+			
+			
+			<Anchor>//api/name/isModelCreated</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/shouldLoad</TokenIdentifier>
+			<Abstract type="html">Indicates that data should be loaded from the model.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)shouldLoad</Declaration>
+			
+			
+			<Anchor>//api/name/shouldLoad</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/shouldReload</TokenIdentifier>
+			<Abstract type="html">Indicates that data should be reloaded from the model.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)shouldReload</Declaration>
+			
+			
+			<Anchor>//api/name/shouldReload</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/shouldLoadMore</TokenIdentifier>
+			<Abstract type="html">Indicates that more data should be loaded from the model.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)shouldLoadMore</Declaration>
+			
+			
+			<Anchor>//api/name/shouldLoadMore</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/canShowModel</TokenIdentifier>
+			<Abstract type="html">Tests if it is possible to show the model.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)canShowModel</Declaration>
+			
+			
+			<Anchor>//api/name/canShowModel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/reload</TokenIdentifier>
+			<Abstract type="html">Reloads data from the model.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)reload</Declaration>
+			
+			
+			<Anchor>//api/name/reload</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/reloadIfNeeded</TokenIdentifier>
+			<Abstract type="html">Reloads data from the model if it has become out of date.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)reloadIfNeeded</Declaration>
+			
+			
+			<Anchor>//api/name/reloadIfNeeded</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/refresh</TokenIdentifier>
+			<Abstract type="html">Refreshes the model state and loads new data if necessary.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)refresh</Declaration>
+			
+			
+			<Anchor>//api/name/refresh</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/beginUpdates</TokenIdentifier>
+			<Abstract type="html">Begins a multi-stage update.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)beginUpdates</Declaration>
+			
+			
+			<Anchor>//api/name/beginUpdates</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/endUpdates</TokenIdentifier>
+			<Abstract type="html">Ends a multi-stage model update and updates the view to reflect the model.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)endUpdates</Declaration>
+			
+			
+			<Anchor>//api/name/endUpdates</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/invalidateView</TokenIdentifier>
+			<Abstract type="html">Indicates that the model has changed and schedules the view to be updated to reflect it.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)invalidateView</Declaration>
+			
+			
+			<Anchor>//api/name/invalidateView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/updateView</TokenIdentifier>
+			<Abstract type="html">Immediately creates, loads, and displays the model (if it was not already).</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)updateView</Declaration>
+			
+			
+			<Anchor>//api/name/updateView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/didRefreshModel</TokenIdentifier>
+			<Abstract type="html">Called when the model is refreshed.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)didRefreshModel</Declaration>
+			
+			
+			<Anchor>//api/name/didRefreshModel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/willLoadModel</TokenIdentifier>
+			<Abstract type="html">Called before the model is asked to load itself.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)willLoadModel</Declaration>
+			
+			
+			<Anchor>//api/name/willLoadModel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/didLoadModel:</TokenIdentifier>
+			<Abstract type="html">Called after the model has loaded, just before it is to be displayed.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)didLoadModel:(BOOL)firstTime</Declaration>
+			
+			
+			<Anchor>//api/name/didLoadModel:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/didShowModel:</TokenIdentifier>
+			<Abstract type="html">Called just after a model has been loaded and displayed.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)didShowModel:(BOOL)firstTime</Declaration>
+			
+			
+			<Anchor>//api/name/didShowModel:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/showModel:</TokenIdentifier>
+			<Abstract type="html">Shows views to represent the loaded model&apos;s content.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)showModel:(BOOL)show</Declaration>
+			
+			
+			<Anchor>//api/name/showModel:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/showLoading:</TokenIdentifier>
+			<Abstract type="html">Shows views to represent the model loading.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)showLoading:(BOOL)show</Declaration>
+			
+			
+			<Anchor>//api/name/showLoading:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/showEmpty:</TokenIdentifier>
+			<Abstract type="html">Shows views to represent an empty model.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)showEmpty:(BOOL)show</Declaration>
+			
+			
+			<Anchor>//api/name/showEmpty:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModelViewController/showError:</TokenIdentifier>
+			<Abstract type="html">Shows views to represent an error that occurred while loading the model.</Abstract>
+			<DeclaredIn>TTModelViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)showError:(BOOL)show</Declaration>
+			
+			
+			<Anchor>//api/name/showError:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTPartStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTPartStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPartStyle.h</DeclaredIn>
+			
+			<NodeRef refid="95"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPartStyle/setName:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPartStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPartStyle/name</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPartStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPartStyle/setStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPartStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *style</Declaration>
+			
+			
+			<Anchor>//api/name/style</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPartStyle/style</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPartStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *style</Declaration>
+			
+			
+			<Anchor>//api/name/style</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTPartStyle/styleWithName:style:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPartStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTPartStyle *)styleWithName:(NSString *)name style:(TTStyle *)style next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithName:style:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPartStyle/drawPart:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPartStyle.h</DeclaredIn>			
+			
+			<Declaration>- (void)drawPart:(TTStyleContext *)context</Declaration>
+			
+			
+			<Anchor>//api/name/drawPart:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

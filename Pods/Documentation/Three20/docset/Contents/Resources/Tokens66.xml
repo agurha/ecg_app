@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTImageStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTImageStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>
+			
+			<NodeRef refid="66"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageStyle/setImageURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/imageURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageStyle/imageURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/imageURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageStyle/setImage:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *image</Declaration>
+			
+			
+			<Anchor>//api/name/image</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageStyle/image</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *image</Declaration>
+			
+			
+			<Anchor>//api/name/image</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageStyle/setDefaultImage:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *defaultImage</Declaration>
+			
+			
+			<Anchor>//api/name/defaultImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageStyle/defaultImage</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *defaultImage</Declaration>
+			
+			
+			<Anchor>//api/name/defaultImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageStyle/setSize:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageStyle/size</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageStyle/setContentMode:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIViewContentMode contentMode</Declaration>
+			
+			
+			<Anchor>//api/name/contentMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageStyle/contentMode</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIViewContentMode contentMode</Declaration>
+			
+			
+			<Anchor>//api/name/contentMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTImageStyle/styleWithImageURL:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTImageStyle *)styleWithImageURL:(NSString *)imageURL next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithImageURL:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTImageStyle/styleWithImageURL:defaultImage:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTImageStyle *)styleWithImageURL:(NSString *)imageURL defaultImage:(UIImage *)defaultImage next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithImageURL:defaultImage:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTImageStyle/styleWithImageURL:defaultImage:contentMode:size:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTImageStyle *)styleWithImageURL:(NSString *)imageURL defaultImage:(UIImage *)defaultImage contentMode:(UIViewContentMode)contentMode size:(CGSize)size next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithImageURL:defaultImage:contentMode:size:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTImageStyle/styleWithImage:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTImageStyle *)styleWithImage:(UIImage *)image next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithImage:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTImageStyle/styleWithImage:defaultImage:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTImageStyle *)styleWithImage:(UIImage *)image defaultImage:(UIImage *)defaultImage next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithImage:defaultImage:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTImageStyle/styleWithImage:defaultImage:contentMode:size:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTImageStyle *)styleWithImage:(UIImage *)image defaultImage:(UIImage *)defaultImage contentMode:(UIViewContentMode)contentMode size:(CGSize)size next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithImage:defaultImage:contentMode:size:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

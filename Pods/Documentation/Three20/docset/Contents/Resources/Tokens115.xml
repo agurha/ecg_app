@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTSectionedDataSource.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTSectionedDataSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>
+			
+			<NodeRef refid="115"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSectionedDataSource/setItems:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *items</Declaration>
+			
+			
+			<Anchor>//api/name/items</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSectionedDataSource/items</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *items</Declaration>
+			
+			
+			<Anchor>//api/name/items</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSectionedDataSource/setSections:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *sections</Declaration>
+			
+			
+			<Anchor>//api/name/sections</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSectionedDataSource/sections</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSMutableArray *sections</Declaration>
+			
+			
+			<Anchor>//api/name/sections</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTSectionedDataSource/dataSourceWithObjects:</TokenIdentifier>
+			<Abstract type="html">Objects should be in this format:</Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>+ (TTSectionedDataSource *)dataSourceWithObjects:(id)object, ...</Declaration>
+			
+			
+			<Anchor>//api/name/dataSourceWithObjects:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTSectionedDataSource/dataSourceWithArrays:</TokenIdentifier>
+			<Abstract type="html">Objects should be in this format:</Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>+ (TTSectionedDataSource *)dataSourceWithArrays:(id)object, ...</Declaration>
+			
+			
+			<Anchor>//api/name/dataSourceWithArrays:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTSectionedDataSource/dataSourceWithItems:sections:</TokenIdentifier>
+			<Abstract type="html">@param items</Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>+ (TTSectionedDataSource *)dataSourceWithItems:(NSArray *)items sections:(NSArray *)sections</Declaration>
+			
+			
+			<Anchor>//api/name/dataSourceWithItems:sections:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSectionedDataSource/initWithItems:sections:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithItems:(NSArray *)items sections:(NSArray *)sections</Declaration>
+			
+			
+			<Anchor>//api/name/initWithItems:sections:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSectionedDataSource/indexPathOfItemWithUserInfo:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSIndexPath *)indexPathOfItemWithUserInfo:(id)userInfo</Declaration>
+			
+			
+			<Anchor>//api/name/indexPathOfItemWithUserInfo:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSectionedDataSource/removeItemAtIndexPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeItemAtIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/removeItemAtIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSectionedDataSource/removeItemAtIndexPath:andSectionIfEmpty:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSectionedDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)removeItemAtIndexPath:(NSIndexPath *)indexPath andSectionIfEmpty:(BOOL)andSection</Declaration>
+			
+			
+			<Anchor>//api/name/removeItemAtIndexPath:andSectionIfEmpty:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

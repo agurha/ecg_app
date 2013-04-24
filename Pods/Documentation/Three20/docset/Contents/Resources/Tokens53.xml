@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTDefaultStyleSheet.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTDefaultStyleSheet</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>
+			
+			<NodeRef refid="53"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *textColor</Declaration>
+			
+			
+			<Anchor>//api/name/textColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/textColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *textColor</Declaration>
+			
+			
+			<Anchor>//api/name/textColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setHighlightedTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *highlightedTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/highlightedTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/highlightedTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *highlightedTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/highlightedTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setBackgroundTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *backgroundTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/backgroundTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/backgroundTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *backgroundTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/backgroundTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/font</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setBackgroundColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *backgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/backgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/backgroundColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *backgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/backgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setNavigationBarTintColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *navigationBarTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/navigationBarTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/navigationBarTintColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *navigationBarTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/navigationBarTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setToolbarTintColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *toolbarTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/toolbarTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/toolbarTintColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *toolbarTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/toolbarTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setSearchBarTintColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *searchBarTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/searchBarTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/searchBarTintColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *searchBarTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/searchBarTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTablePlainBackgroundColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tablePlainBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/tablePlainBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tablePlainBackgroundColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tablePlainBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/tablePlainBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTablePlainCellSeparatorColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tablePlainCellSeparatorColor</Declaration>
+			
+			
+			<Anchor>//api/name/tablePlainCellSeparatorColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tablePlainCellSeparatorColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tablePlainCellSeparatorColor</Declaration>
+			
+			
+			<Anchor>//api/name/tablePlainCellSeparatorColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTablePlainCellSeparatorStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITableViewCellSeparatorStyle tablePlainCellSeparatorStyle</Declaration>
+			
+			
+			<Anchor>//api/name/tablePlainCellSeparatorStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tablePlainCellSeparatorStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITableViewCellSeparatorStyle tablePlainCellSeparatorStyle</Declaration>
+			
+			
+			<Anchor>//api/name/tablePlainCellSeparatorStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableGroupedBackgroundColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableGroupedBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableGroupedBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableGroupedBackgroundColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableGroupedBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableGroupedBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableGroupedCellSeparatorColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableGroupedCellSeparatorColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableGroupedCellSeparatorColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableGroupedCellSeparatorColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableGroupedCellSeparatorColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableGroupedCellSeparatorColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableGroupedCellSeparatorStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITableViewCellSeparatorStyle tableGroupedCellSeparatorStyle</Declaration>
+			
+			
+			<Anchor>//api/name/tableGroupedCellSeparatorStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableGroupedCellSeparatorStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITableViewCellSeparatorStyle tableGroupedCellSeparatorStyle</Declaration>
+			
+			
+			<Anchor>//api/name/tableGroupedCellSeparatorStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setSearchTableBackgroundColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *searchTableBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/searchTableBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/searchTableBackgroundColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *searchTableBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/searchTableBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setSearchTableSeparatorColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *searchTableSeparatorColor</Declaration>
+			
+			
+			<Anchor>//api/name/searchTableSeparatorColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/searchTableSeparatorColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *searchTableSeparatorColor</Declaration>
+			
+			
+			<Anchor>//api/name/searchTableSeparatorColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableHeaderTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableHeaderTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableHeaderTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableHeaderTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableHeaderShadowColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableHeaderShadowColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderShadowColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableHeaderShadowColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableHeaderShadowColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderShadowColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableHeaderShadowOffset:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGSize tableHeaderShadowOffset</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderShadowOffset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableHeaderShadowOffset</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGSize tableHeaderShadowOffset</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderShadowOffset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableHeaderTintColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableHeaderTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableHeaderTintColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableHeaderTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setPhotoCaptionTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *photoCaptionTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/photoCaptionTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/photoCaptionTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *photoCaptionTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/photoCaptionTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setPhotoCaptionTextShadowColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *photoCaptionTextShadowColor</Declaration>
+			
+			
+			<Anchor>//api/name/photoCaptionTextShadowColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/photoCaptionTextShadowColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *photoCaptionTextShadowColor</Declaration>
+			
+			
+			<Anchor>//api/name/photoCaptionTextShadowColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setPhotoCaptionTextShadowOffset:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGSize photoCaptionTextShadowOffset</Declaration>
+			
+			
+			<Anchor>//api/name/photoCaptionTextShadowOffset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/photoCaptionTextShadowOffset</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGSize photoCaptionTextShadowOffset</Declaration>
+			
+			
+			<Anchor>//api/name/photoCaptionTextShadowOffset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTimestampTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *timestampTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/timestampTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/timestampTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *timestampTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/timestampTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setLinkTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *linkTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/linkTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/linkTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *linkTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/linkTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setMoreLinkTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *moreLinkTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/moreLinkTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/moreLinkTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *moreLinkTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/moreLinkTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setScreenBackgroundColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *screenBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/screenBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/screenBackgroundColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *screenBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/screenBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableActivityTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableActivityTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableActivityTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableActivityTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableActivityTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableActivityTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableErrorTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableErrorTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableErrorTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableErrorTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableErrorTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableErrorTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableSubTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableSubTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableSubTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableSubTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableSubTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableSubTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableTitleTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableTitleTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableTitleTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableTitleTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableTitleTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableTitleTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTabTintColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tabTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/tabTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tabTintColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tabTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/tabTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTabBarTintColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tabBarTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/tabBarTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tabBarTintColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tabBarTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/tabBarTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setMessageFieldTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *messageFieldTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/messageFieldTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/messageFieldTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *messageFieldTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/messageFieldTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setMessageFieldSeparatorColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *messageFieldSeparatorColor</Declaration>
+			
+			
+			<Anchor>//api/name/messageFieldSeparatorColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/messageFieldSeparatorColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *messageFieldSeparatorColor</Declaration>
+			
+			
+			<Anchor>//api/name/messageFieldSeparatorColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setThumbnailBackgroundColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *thumbnailBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/thumbnailBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/thumbnailBackgroundColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *thumbnailBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/thumbnailBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setPostButtonColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *postButtonColor</Declaration>
+			
+			
+			<Anchor>//api/name/postButtonColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/postButtonColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *postButtonColor</Declaration>
+			
+			
+			<Anchor>//api/name/postButtonColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setButtonFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *buttonFont</Declaration>
+			
+			
+			<Anchor>//api/name/buttonFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/buttonFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *buttonFont</Declaration>
+			
+			
+			<Anchor>//api/name/buttonFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableSmallFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableSmallFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableSmallFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableSmallFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableSmallFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableSmallFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableTitleFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableTitleFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableTitleFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableTitleFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableTitleFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableTitleFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableTimestampFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableTimestampFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableTimestampFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableTimestampFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableTimestampFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableTimestampFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableButtonFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableButtonFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableButtonFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableButtonFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableButtonFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableButtonFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableSummaryFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableSummaryFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableSummaryFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableSummaryFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableSummaryFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableSummaryFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableHeaderPlainFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableHeaderPlainFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderPlainFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableHeaderPlainFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableHeaderPlainFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderPlainFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableHeaderGroupedFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableHeaderGroupedFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderGroupedFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableHeaderGroupedFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableHeaderGroupedFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableHeaderGroupedFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableBannerViewHeight:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat tableBannerViewHeight</Declaration>
+			
+			
+			<Anchor>//api/name/tableBannerViewHeight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableBannerViewHeight</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat tableBannerViewHeight</Declaration>
+			
+			
+			<Anchor>//api/name/tableBannerViewHeight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setPhotoCaptionFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *photoCaptionFont</Declaration>
+			
+			
+			<Anchor>//api/name/photoCaptionFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/photoCaptionFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *photoCaptionFont</Declaration>
+			
+			
+			<Anchor>//api/name/photoCaptionFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setMessageFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *messageFont</Declaration>
+			
+			
+			<Anchor>//api/name/messageFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/messageFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *messageFont</Declaration>
+			
+			
+			<Anchor>//api/name/messageFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setErrorTitleFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *errorTitleFont</Declaration>
+			
+			
+			<Anchor>//api/name/errorTitleFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/errorTitleFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *errorTitleFont</Declaration>
+			
+			
+			<Anchor>//api/name/errorTitleFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setErrorSubtitleFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *errorSubtitleFont</Declaration>
+			
+			
+			<Anchor>//api/name/errorSubtitleFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/errorSubtitleFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *errorSubtitleFont</Declaration>
+			
+			
+			<Anchor>//api/name/errorSubtitleFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setActivityLabelFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *activityLabelFont</Declaration>
+			
+			
+			<Anchor>//api/name/activityLabelFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/activityLabelFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *activityLabelFont</Declaration>
+			
+			
+			<Anchor>//api/name/activityLabelFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setActivityBannerFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *activityBannerFont</Declaration>
+			
+			
+			<Anchor>//api/name/activityBannerFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/activityBannerFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *activityBannerFont</Declaration>
+			
+			
+			<Anchor>//api/name/activityBannerFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableSelectionStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITableViewCellSelectionStyle tableSelectionStyle</Declaration>
+			
+			
+			<Anchor>//api/name/tableSelectionStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableSelectionStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITableViewCellSelectionStyle tableSelectionStyle</Declaration>
+			
+			
+			<Anchor>//api/name/tableSelectionStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/selectionFillStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (TTStyle *)selectionFillStyle:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/selectionFillStyle:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/toolbarButtonForState:shape:tintColor:font:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (TTStyle *)toolbarButtonForState:(UIControlState)state shape:(TTShape *)shape tintColor:(UIColor *)tintColor font:(UIFont *)font</Declaration>
+			
+			
+			<Anchor>//api/name/toolbarButtonForState:shape:tintColor:font:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/pageDotWithColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (TTStyle *)pageDotWithColor:(UIColor *)color</Declaration>
+			
+			
+			<Anchor>//api/name/pageDotWithColor:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableRefreshHeaderLastUpdatedFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableRefreshHeaderLastUpdatedFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderLastUpdatedFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableRefreshHeaderLastUpdatedFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableRefreshHeaderLastUpdatedFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderLastUpdatedFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableRefreshHeaderStatusFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableRefreshHeaderStatusFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderStatusFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableRefreshHeaderStatusFont</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIFont *tableRefreshHeaderStatusFont</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderStatusFont</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableRefreshHeaderBackgroundColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableRefreshHeaderBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableRefreshHeaderBackgroundColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableRefreshHeaderBackgroundColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderBackgroundColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableRefreshHeaderTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableRefreshHeaderTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableRefreshHeaderTextColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableRefreshHeaderTextColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderTextColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableRefreshHeaderTextShadowColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableRefreshHeaderTextShadowColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderTextShadowColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableRefreshHeaderTextShadowColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIColor *tableRefreshHeaderTextShadowColor</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderTextShadowColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableRefreshHeaderTextShadowOffset:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGSize tableRefreshHeaderTextShadowOffset</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderTextShadowOffset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableRefreshHeaderTextShadowOffset</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGSize tableRefreshHeaderTextShadowOffset</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderTextShadowOffset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDefaultStyleSheet/setTableRefreshHeaderArrowImage:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIImage *tableRefreshHeaderArrowImage</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderArrowImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDefaultStyleSheet/tableRefreshHeaderArrowImage</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDefaultStyleSheet+DragRefreshHeader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIImage *tableRefreshHeaderArrowImage</Declaration>
+			
+			
+			<Anchor>//api/name/tableRefreshHeaderArrowImage</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

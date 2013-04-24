@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableStyledTextItem.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableStyledTextItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableStyledTextItem.h</DeclaredIn>
+			
+			<NodeRef refid="183"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableStyledTextItem/setText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableStyledTextItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledText *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableStyledTextItem/text</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableStyledTextItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledText *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableStyledTextItem/setMargin:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableStyledTextItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets margin</Declaration>
+			
+			
+			<Anchor>//api/name/margin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableStyledTextItem/margin</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableStyledTextItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets margin</Declaration>
+			
+			
+			<Anchor>//api/name/margin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableStyledTextItem/setPadding:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableStyledTextItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets padding</Declaration>
+			
+			
+			<Anchor>//api/name/padding</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableStyledTextItem/padding</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableStyledTextItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets padding</Declaration>
+			
+			
+			<Anchor>//api/name/padding</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableStyledTextItem/itemWithText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableStyledTextItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(TTStyledText *)text</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableStyledTextItem/itemWithText:URL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableStyledTextItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(TTStyledText *)text URL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableStyledTextItem/itemWithText:URL:accessoryURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableStyledTextItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(TTStyledText *)text URL:(NSString *)URL accessoryURL:(NSString *)accessoryURL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:URL:accessoryURL:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

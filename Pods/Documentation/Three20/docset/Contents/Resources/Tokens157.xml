@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableCaptionItem.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableCaptionItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableCaptionItem.h</DeclaredIn>
+			
+			<NodeRef refid="157"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableCaptionItem/setCaption:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableCaptionItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *caption</Declaration>
+			
+			
+			<Anchor>//api/name/caption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableCaptionItem/caption</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableCaptionItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *caption</Declaration>
+			
+			
+			<Anchor>//api/name/caption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableCaptionItem/itemWithText:caption:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableCaptionItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text caption:(NSString *)caption</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:caption:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableCaptionItem/itemWithText:caption:URL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableCaptionItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text caption:(NSString *)caption URL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:caption:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableCaptionItem/itemWithText:caption:URL:accessoryURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableCaptionItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text caption:(NSString *)caption URL:(NSString *)URL accessoryURL:(NSString *)accessoryURL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:caption:URL:accessoryURL:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

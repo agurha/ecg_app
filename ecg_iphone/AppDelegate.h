@@ -7,9 +7,35 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "HomeViewController.h"
+#import "LoginViewController.h"
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface ECGAppWindow : UIWindow {
+    
+}
+@end
 
-@property (strong, nonatomic) UIWindow *window;
+@interface AppDelegate : UIResponder <UIApplicationDelegate, UIActionSheetDelegate> {
+    IBOutlet ECGAppWindow *window;
+    
+    LoginViewController *loginViewController;
+    
+    UIView *_mainView;
+    
+    IBOutlet UIView *_loadingView;
+    IBOutlet UIImageView *_loadingViewLogo;
+
+    HomeViewController *rootViewController;
+    
+    
+}
+
+
+@property (strong, nonatomic) ECGAppWindow *window;
+@property (readonly) LoginViewController *loginViewController;
+@property (readonly) HomeViewController *homeViewController;
+
+-(BOOL)hasNetworkConnection;
+-(BOOL)hasWiFiConnection;
 
 @end

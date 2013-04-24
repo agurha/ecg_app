@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTImageViewDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTImageViewDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTImageViewDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="284"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTImageViewDelegate/imageViewDidStartLoad:</TokenIdentifier>
+			<Abstract type="html">Called when the image begins loading asynchronously.</Abstract>
+			<DeclaredIn>TTImageViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)imageViewDidStartLoad:(TTImageView *)imageView</Declaration>
+			
+			
+			<Anchor>//api/name/imageViewDidStartLoad:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTImageViewDelegate/imageView:didLoadImage:</TokenIdentifier>
+			<Abstract type="html">Called when the image finishes loading asynchronously.</Abstract>
+			<DeclaredIn>TTImageViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)imageView:(TTImageView *)imageView didLoadImage:(UIImage *)image</Declaration>
+			
+			
+			<Anchor>//api/name/imageView:didLoadImage:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTImageViewDelegate/imageView:didFailLoadWithError:</TokenIdentifier>
+			<Abstract type="html">Called when the image failed to load asynchronously.
+If error is nil then the request was cancelled.</Abstract>
+			<DeclaredIn>TTImageViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)imageView:(TTImageView *)imageView didFailLoadWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/imageView:didFailLoadWithError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTImageViewDelegate/imageView:willSendARequest:</TokenIdentifier>
+			<Abstract type="html">Called before the image view send a network request.
+At this point we have the opportunity to configure the requester
+with some custom options (to use ETAGs, for example).</Abstract>
+			<DeclaredIn>TTImageViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)imageView:(TTImageView *)imageView willSendARequest:(TTURLRequest *)requester</Declaration>
+			
+			
+			<Anchor>//api/name/imageView:willSendARequest:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

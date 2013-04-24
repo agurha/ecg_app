@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTCSSParser.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTCSSParser</TokenIdentifier>
+			<Abstract type="html">CSS Jargon:</Abstract>
+			<DeclaredIn>TTCSSParser.h</DeclaredIn>
+			
+			<NodeRef refid="45"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSParser/parseFilename:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSParser.h</DeclaredIn>			
+			
+			<Declaration>- (NSDictionary *)parseFilename:(NSString *)filename</Declaration>
+			
+			
+			<Anchor>//api/name/parseFilename:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

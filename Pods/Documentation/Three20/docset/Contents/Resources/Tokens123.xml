@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>
+			
+			<NodeRef refid="123"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/setNext:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *next</Declaration>
+			
+			
+			<Anchor>//api/name/next</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyle/next</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *next</Declaration>
+			
+			
+			<Anchor>//api/name/next</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/initWithNext:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithNext:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/initWithNext:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>			
+			
+			<Declaration>- (TTStyle *)next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/draw:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>			
+			
+			<Declaration>- (void)draw:(TTStyleContext *)context</Declaration>
+			
+			
+			<Anchor>//api/name/draw:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/addToInsets:forSize:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>			
+			
+			<Declaration>- (UIEdgeInsets)addToInsets:(UIEdgeInsets)insets forSize:(CGSize)size</Declaration>
+			
+			
+			<Anchor>//api/name/addToInsets:forSize:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/addToSize:context:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>			
+			
+			<Declaration>- (CGSize)addToSize:(CGSize)size context:(TTStyleContext *)context</Declaration>
+			
+			
+			<Anchor>//api/name/addToSize:context:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/addStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>			
+			
+			<Declaration>- (void)addStyle:(TTStyle *)style</Declaration>
+			
+			
+			<Anchor>//api/name/addStyle:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/firstStyleOfClass:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>			
+			
+			<Declaration>- (id)firstStyleOfClass:(Class)cls</Declaration>
+			
+			
+			<Anchor>//api/name/firstStyleOfClass:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/styleForPart:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyle.h</DeclaredIn>			
+			
+			<Declaration>- (id)styleForPart:(NSString *)name</Declaration>
+			
+			
+			<Anchor>//api/name/styleForPart:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/newGradientWithColors:locations:count:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleInternal.h</DeclaredIn>			
+			
+			<Declaration>- (CGGradientRef)newGradientWithColors:(UIColor **)colors locations:(CGFloat *)locations count:(int)count</Declaration>
+			
+			
+			<Anchor>//api/name/newGradientWithColors:locations:count:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyle/newGradientWithColors:count:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleInternal.h</DeclaredIn>			
+			
+			<Declaration>- (CGGradientRef)newGradientWithColors:(UIColor **)colors count:(int)count</Declaration>
+			
+			
+			<Anchor>//api/name/newGradientWithColors:count:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

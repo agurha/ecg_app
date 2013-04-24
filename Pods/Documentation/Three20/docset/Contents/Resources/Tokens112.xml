@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTSearchTextField.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTSearchTextField</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>
+			
+			<NodeRef refid="112"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/setTableView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITableView *tableView</Declaration>
+			
+			
+			<Anchor>//api/name/tableView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchTextField/tableView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITableView *tableView</Declaration>
+			
+			
+			<Anchor>//api/name/tableView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/setRowHeight:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat rowHeight</Declaration>
+			
+			
+			<Anchor>//api/name/rowHeight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchTextField/rowHeight</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat rowHeight</Declaration>
+			
+			
+			<Anchor>//api/name/rowHeight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/setHasText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL hasText</Declaration>
+			
+			
+			<Anchor>//api/name/hasText</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchTextField/hasText</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL hasText</Declaration>
+			
+			
+			<Anchor>//api/name/hasText</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/setSearchesAutomatically:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL searchesAutomatically</Declaration>
+			
+			
+			<Anchor>//api/name/searchesAutomatically</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchTextField/searchesAutomatically</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL searchesAutomatically</Declaration>
+			
+			
+			<Anchor>//api/name/searchesAutomatically</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/setShowsDoneButton:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsDoneButton</Declaration>
+			
+			
+			<Anchor>//api/name/showsDoneButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchTextField/showsDoneButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsDoneButton</Declaration>
+			
+			
+			<Anchor>//api/name/showsDoneButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/setShowsDarkScreen:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsDarkScreen</Declaration>
+			
+			
+			<Anchor>//api/name/showsDarkScreen</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchTextField/showsDarkScreen</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsDarkScreen</Declaration>
+			
+			
+			<Anchor>//api/name/showsDarkScreen</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/setDataSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTTableViewDataSource&gt; dataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchTextField/dataSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTTableViewDataSource&gt; dataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/search</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>- (void)search</Declaration>
+			
+			
+			<Anchor>//api/name/search</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/showSearchResults:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>- (void)showSearchResults:(BOOL)show</Declaration>
+			
+			
+			<Anchor>//api/name/showSearchResults:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/superviewForSearchResults</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>- (UIView *)superviewForSearchResults</Declaration>
+			
+			
+			<Anchor>//api/name/superviewForSearchResults</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/rectForSearchResults:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>- (CGRect)rectForSearchResults:(BOOL)withKeyboard</Declaration>
+			
+			
+			<Anchor>//api/name/rectForSearchResults:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchTextField/shouldUpdate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchTextField.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)shouldUpdate:(BOOL)emptyText</Declaration>
+			
+			
+			<Anchor>//api/name/shouldUpdate:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLPattern.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLPattern</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>
+			
+			<NodeRef refid="222"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLPattern/setURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLPattern/URL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLPattern/setScheme:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *scheme</Declaration>
+			
+			
+			<Anchor>//api/name/scheme</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLPattern/scheme</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *scheme</Declaration>
+			
+			
+			<Anchor>//api/name/scheme</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLPattern/setSpecificity:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger specificity</Declaration>
+			
+			
+			<Anchor>//api/name/specificity</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLPattern/specificity</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger specificity</Declaration>
+			
+			
+			<Anchor>//api/name/specificity</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLPattern/setClassForInvocation:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) Class classForInvocation</Declaration>
+			
+			
+			<Anchor>//api/name/classForInvocation</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLPattern/classForInvocation</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) Class classForInvocation</Declaration>
+			
+			
+			<Anchor>//api/name/classForInvocation</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLPattern/setSelector:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) SEL selector</Declaration>
+			
+			
+			<Anchor>//api/name/selector</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLPattern/selector</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) SEL selector</Declaration>
+			
+			
+			<Anchor>//api/name/selector</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLPattern/setSelectorIfPossible:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>- (void)setSelectorIfPossible:(SEL)selector</Declaration>
+			
+			
+			<Anchor>//api/name/setSelectorIfPossible:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLPattern/compileURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPattern.h</DeclaredIn>			
+			
+			<Declaration>- (void)compileURL</Declaration>
+			
+			
+			<Anchor>//api/name/compileURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLPattern/setSelectorWithNames:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPatternInternal.h</DeclaredIn>			
+			
+			<Declaration>- (void)setSelectorWithNames:(NSArray *)names</Declaration>
+			
+			
+			<Anchor>//api/name/setSelectorWithNames:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

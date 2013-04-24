@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/Three20.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/Three20</TokenIdentifier>
+			<Abstract type="html">General-purpose information about the Three20 ecosystem.</Abstract>
+			<DeclaredIn>Three20.h</DeclaredIn>
+			
+			<NodeRef refid="237"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/Three20/version</TokenIdentifier>
+			<Abstract type="html">Three20Version</Abstract>
+			<DeclaredIn>Three20.h</DeclaredIn>			
+			
+			<Declaration>+ (NSString *)version</Declaration>
+			
+			
+			<Anchor>//api/name/version</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/Three20/majorVersion</TokenIdentifier>
+			<Abstract type="html">Major release number.</Abstract>
+			<DeclaredIn>Three20.h</DeclaredIn>			
+			
+			<Declaration>+ (NSInteger)majorVersion</Declaration>
+			
+			
+			<Anchor>//api/name/majorVersion</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/Three20/minorVersion</TokenIdentifier>
+			<Abstract type="html">Minor release number.</Abstract>
+			<DeclaredIn>Three20.h</DeclaredIn>			
+			
+			<Declaration>+ (NSInteger)minorVersion</Declaration>
+			
+			
+			<Anchor>//api/name/minorVersion</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/Three20/bugfixVersion</TokenIdentifier>
+			<Abstract type="html">Bugfix release number.</Abstract>
+			<DeclaredIn>Three20.h</DeclaredIn>			
+			
+			<Declaration>+ (NSInteger)bugfixVersion</Declaration>
+			
+			
+			<Anchor>//api/name/bugfixVersion</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/Three20/hotfixVersion</TokenIdentifier>
+			<Abstract type="html">Hotfix release number.</Abstract>
+			<DeclaredIn>Three20.h</DeclaredIn>			
+			
+			<Declaration>+ (NSInteger)hotfixVersion</Declaration>
+			
+			
+			<Anchor>//api/name/hotfixVersion</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

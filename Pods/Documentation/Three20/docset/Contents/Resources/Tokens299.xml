@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTStyleDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTStyleDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="299"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTStyleDelegate/textForLayerWithStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)textForLayerWithStyle:(TTStyle *)style</Declaration>
+			
+			
+			<Anchor>//api/name/textForLayerWithStyle:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTStyleDelegate/imageForLayerWithStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (UIImage *)imageForLayerWithStyle:(TTStyle *)style</Declaration>
+			
+			
+			<Anchor>//api/name/imageForLayerWithStyle:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTStyleDelegate/drawLayer:withStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)drawLayer:(TTStyleContext *)context withStyle:(TTStyle *)style</Declaration>
+			
+			
+			<Anchor>//api/name/drawLayer:withStyle:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

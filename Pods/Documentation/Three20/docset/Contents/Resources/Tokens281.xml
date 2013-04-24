@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTAlertViewControllerDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTAlertViewControllerDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTAlertViewControllerDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="281"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTAlertViewControllerDelegate/alertViewController:didDismissWithButtonIndex:URL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTAlertViewControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)alertViewController:(TTAlertViewController *)controller didDismissWithButtonIndex:(NSInteger)buttonIndex URL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/alertViewController:didDismissWithButtonIndex:URL:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

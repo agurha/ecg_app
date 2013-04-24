@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTExtensionLoader.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTExtensionLoader</TokenIdentifier>
+			<Abstract type="html">The extension loader provides basic utility methods to load extensions once an application
+has started running.</Abstract>
+			<DeclaredIn>TTExtensionLoader.h</DeclaredIn>
+			
+			<NodeRef refid="59"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTExtensionLoader/loadAllExtensions</TokenIdentifier>
+			<Abstract type="html">Load all extensions that provide a method of the following signature:
+- (BOOL)loadExtensionNamed&lt;extension name&gt;</Abstract>
+			<DeclaredIn>TTExtensionLoader.h</DeclaredIn>			
+			
+			<Declaration>+ (void)loadAllExtensions</Declaration>
+			
+			
+			<Anchor>//api/name/loadAllExtensions</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTExtensionLoader/availableExtensions</TokenIdentifier>
+			<Abstract type="html">Retrieve the map of available extensions.</Abstract>
+			<DeclaredIn>TTExtensionLoader.h</DeclaredIn>			
+			
+			<Declaration>+ (NSDictionary *)availableExtensions</Declaration>
+			
+			
+			<Anchor>//api/name/availableExtensions</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTExtensionLoader/loadedExtensions</TokenIdentifier>
+			<Abstract type="html">Retrieve the map of loaded extensions.</Abstract>
+			<DeclaredIn>TTExtensionLoader.h</DeclaredIn>			
+			
+			<Declaration>+ (NSDictionary *)loadedExtensions</Declaration>
+			
+			
+			<Anchor>//api/name/loadedExtensions</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTExtensionLoader/failedExtensions</TokenIdentifier>
+			<Abstract type="html">Retrieve the map of extensions that failed to load.</Abstract>
+			<DeclaredIn>TTExtensionLoader.h</DeclaredIn>			
+			
+			<Declaration>+ (NSDictionary *)failedExtensions</Declaration>
+			
+			
+			<Anchor>//api/name/failedExtensions</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

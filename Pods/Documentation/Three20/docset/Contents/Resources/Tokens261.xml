@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UIImage+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UIImage(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIImageAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="261"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIImage(TTCategory)/transformWidth:height:rotate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIImageAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIImage *)transformWidth:(CGFloat)width height:(CGFloat)height rotate:(BOOL)rotate</Declaration>
+			
+			
+			<Anchor>//api/name/transformWidth:height:rotate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIImage(TTCategory)/convertRect:withContentMode:</TokenIdentifier>
+			<Abstract type="html">Returns a CGRect positioned within rect given the contentMode.</Abstract>
+			<DeclaredIn>UIImageAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (CGRect)convertRect:(CGRect)rect withContentMode:(UIViewContentMode)contentMode</Declaration>
+			
+			
+			<Anchor>//api/name/convertRect:withContentMode:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIImage(TTCategory)/drawInRect:contentMode:</TokenIdentifier>
+			<Abstract type="html">Draws the image using content mode rules.</Abstract>
+			<DeclaredIn>UIImageAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)drawInRect:(CGRect)rect contentMode:(UIViewContentMode)contentMode</Declaration>
+			
+			
+			<Anchor>//api/name/drawInRect:contentMode:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIImage(TTCategory)/drawInRect:radius:</TokenIdentifier>
+			<Abstract type="html">Draws the image as a rounded rectangle.</Abstract>
+			<DeclaredIn>UIImageAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)drawInRect:(CGRect)rect radius:(CGFloat)radius</Declaration>
+			
+			
+			<Anchor>//api/name/drawInRect:radius:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIImage(TTCategory)/drawInRect:radius:contentMode:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIImageAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)drawInRect:(CGRect)rect radius:(CGFloat)radius contentMode:(UIViewContentMode)contentMode</Declaration>
+			
+			
+			<Anchor>//api/name/drawInRect:radius:contentMode:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

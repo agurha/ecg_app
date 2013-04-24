@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTNavigatorWindow.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTNavigatorWindow</TokenIdentifier>
+			<Abstract type="html">Provides support for shake gestures. Sends off a reload request to the global navigator
+when the user shakes their device.</Abstract>
+			<DeclaredIn>TTNavigatorWindow.h</DeclaredIn>
+			
+			<NodeRef refid="93"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

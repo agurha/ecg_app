@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSData+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSData(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>NSDataAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="245"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSData(TTCategory)/setMd5Hash:</TokenIdentifier>
+			<Abstract type="html">Calculate the md5 hash of this data using CC_MD5.</Abstract>
+			<DeclaredIn>NSDataAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *md5Hash</Declaration>
+			
+			<ReturnValue><Abstract type="html">md5 hash of this data</Abstract></ReturnValue>
+			<Anchor>//api/name/md5Hash</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/NSData(TTCategory)/md5Hash</TokenIdentifier>
+			<Abstract type="html">Calculate the md5 hash of this data using CC_MD5.</Abstract>
+			<DeclaredIn>NSDataAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *md5Hash</Declaration>
+			
+			<ReturnValue><Abstract type="html">md5 hash of this data</Abstract></ReturnValue>
+			<Anchor>//api/name/md5Hash</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSData(TTCategory)/setSha1Hash:</TokenIdentifier>
+			<Abstract type="html">Calculate the SHA1 hash of this data using CC_SHA1.</Abstract>
+			<DeclaredIn>NSDataAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *sha1Hash</Declaration>
+			
+			<ReturnValue><Abstract type="html">SHA1 hash of this data</Abstract></ReturnValue>
+			<Anchor>//api/name/sha1Hash</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/NSData(TTCategory)/sha1Hash</TokenIdentifier>
+			<Abstract type="html">Calculate the SHA1 hash of this data using CC_SHA1.</Abstract>
+			<DeclaredIn>NSDataAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *sha1Hash</Declaration>
+			
+			<ReturnValue><Abstract type="html">SHA1 hash of this data</Abstract></ReturnValue>
+			<Anchor>//api/name/sha1Hash</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSData(TTCategory)/dataWithBase64EncodedString:</TokenIdentifier>
+			<Abstract type="html">Create an NSData from a base64 encoded representation
+Padding &apos;=&apos; characters are optional. Whitespace is ignored.</Abstract>
+			<DeclaredIn>NSDataAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (id)dataWithBase64EncodedString:(NSString *)string</Declaration>
+			
+			<ReturnValue><Abstract type="html">the NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/dataWithBase64EncodedString:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSData(TTCategory)/base64Encoding</TokenIdentifier>
+			<Abstract type="html">Marshal the data into a base64 encoded representation</Abstract>
+			<DeclaredIn>NSDataAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)base64Encoding</Declaration>
+			
+			<ReturnValue><Abstract type="html">the base64 encoded string</Abstract></ReturnValue>
+			<Anchor>//api/name/base64Encoding</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

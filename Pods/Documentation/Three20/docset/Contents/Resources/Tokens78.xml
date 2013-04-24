@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTLinearGradientFillStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTLinearGradientFillStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientFillStyle.h</DeclaredIn>
+			
+			<NodeRef refid="78"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLinearGradientFillStyle/setColor1:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientFillStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color1</Declaration>
+			
+			
+			<Anchor>//api/name/color1</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLinearGradientFillStyle/color1</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientFillStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color1</Declaration>
+			
+			
+			<Anchor>//api/name/color1</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLinearGradientFillStyle/setColor2:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientFillStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color2</Declaration>
+			
+			
+			<Anchor>//api/name/color2</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLinearGradientFillStyle/color2</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientFillStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color2</Declaration>
+			
+			
+			<Anchor>//api/name/color2</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTLinearGradientFillStyle/styleWithColor1:color2:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientFillStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTLinearGradientFillStyle *)styleWithColor1:(UIColor *)color1 color2:(UIColor *)color2 next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithColor1:color2:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

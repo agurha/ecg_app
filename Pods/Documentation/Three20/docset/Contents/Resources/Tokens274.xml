@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UIViewController+TTNavigatorGarbageCollection.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UIViewController(TTNavigatorGarbageCollection)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIViewController+TTNavigatorGarbageCollection.h</DeclaredIn>
+			
+			<NodeRef refid="274"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTNavigatorGarbageCollection)/ttAddNavigatorController:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIViewController+TTNavigatorGarbageCollection.h</DeclaredIn>			
+			
+			<Declaration>+ (void)ttAddNavigatorController:(UIViewController *)controller</Declaration>
+			
+			
+			<Anchor>//api/name/ttAddNavigatorController:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTNavigatorGarbageCollection)/unsetNavigatorProperties</TokenIdentifier>
+			<Abstract type="html">What used to the &quot;swizzled&quot; deallocation of UIViewControllers is now accomplished here.
+This garbage collection method is called on controllers that have been completely released.</Abstract>
+			<DeclaredIn>UIViewController+TTNavigatorGarbageCollection.h</DeclaredIn>			
+			
+			<Declaration>- (void)unsetNavigatorProperties</Declaration>
+			
+			
+			<Anchor>//api/name/unsetNavigatorProperties</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

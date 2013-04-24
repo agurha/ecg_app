@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableMessageItemCell.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableMessageItemCell</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItemCell.h</DeclaredIn>
+			
+			<NodeRef refid="174"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableMessageItemCell/setTitleLabel:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItemCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) UILabel *titleLabel</Declaration>
+			
+			
+			<Anchor>//api/name/titleLabel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableMessageItemCell/titleLabel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItemCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) UILabel *titleLabel</Declaration>
+			
+			
+			<Anchor>//api/name/titleLabel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableMessageItemCell/setCaptionLabel:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItemCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UILabel *captionLabel</Declaration>
+			
+			
+			<Anchor>//api/name/captionLabel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableMessageItemCell/captionLabel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItemCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UILabel *captionLabel</Declaration>
+			
+			
+			<Anchor>//api/name/captionLabel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableMessageItemCell/setTimestampLabel:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItemCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) UILabel *timestampLabel</Declaration>
+			
+			
+			<Anchor>//api/name/timestampLabel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableMessageItemCell/timestampLabel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItemCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) UILabel *timestampLabel</Declaration>
+			
+			
+			<Anchor>//api/name/timestampLabel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableMessageItemCell/setImageView2:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItemCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) TTImageView *imageView2</Declaration>
+			
+			
+			<Anchor>//api/name/imageView2</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableMessageItemCell/imageView2</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItemCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) TTImageView *imageView2</Declaration>
+			
+			
+			<Anchor>//api/name/imageView2</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

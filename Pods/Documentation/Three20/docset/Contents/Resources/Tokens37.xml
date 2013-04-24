@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTBaseNavigator.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTBaseNavigator</TokenIdentifier>
+			<Abstract type="html">A URL-based navigation system with built-in persistence.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>
+			
+			<NodeRef refid="37"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setURLMap:</TokenIdentifier>
+			<Abstract type="html">The URL map used to translate between URLs and view controllers.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLMap</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>@property (nonatomic, readonly) TTURLMap *URLMap</Declaration>
+			
+			
+			<Anchor>//api/name/URLMap</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/URLMap</TokenIdentifier>
+			<Abstract type="html">The URL map used to translate between URLs and view controllers.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLMap</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>@property (nonatomic, readonly) TTURLMap *URLMap</Declaration>
+			
+			
+			<Anchor>//api/name/URLMap</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setWindow:</TokenIdentifier>
+			<Abstract type="html">The window that contains the view controller hierarchy.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIWindow *window</Declaration>
+			
+			
+			<Anchor>//api/name/window</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/window</TokenIdentifier>
+			<Abstract type="html">The window that contains the view controller hierarchy.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIWindow *window</Declaration>
+			
+			
+			<Anchor>//api/name/window</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setRootContainer:</TokenIdentifier>
+			<Abstract type="html">A container that holds the root view controller.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTNavigatorRootContainer&gt; rootContainer</Declaration>
+			
+			
+			<Anchor>//api/name/rootContainer</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/rootContainer</TokenIdentifier>
+			<Abstract type="html">A container that holds the root view controller.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTNavigatorRootContainer&gt; rootContainer</Declaration>
+			
+			
+			<Anchor>//api/name/rootContainer</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setRootViewController:</TokenIdentifier>
+			<Abstract type="html">The controller that is at the root of the view controller hierarchy.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIViewController *rootViewController</Declaration>
+			
+			
+			<Anchor>//api/name/rootViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/rootViewController</TokenIdentifier>
+			<Abstract type="html">The controller that is at the root of the view controller hierarchy.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIViewController *rootViewController</Declaration>
+			
+			
+			<Anchor>//api/name/rootViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setVisibleViewController:</TokenIdentifier>
+			<Abstract type="html">The currently visible view controller.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIViewController *visibleViewController</Declaration>
+			
+			
+			<Anchor>//api/name/visibleViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/visibleViewController</TokenIdentifier>
+			<Abstract type="html">The currently visible view controller.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIViewController *visibleViewController</Declaration>
+			
+			
+			<Anchor>//api/name/visibleViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setTopViewController:</TokenIdentifier>
+			<Abstract type="html">The view controller that is currently on top of the navigation stack.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIViewController *topViewController</Declaration>
+			
+			
+			<Anchor>//api/name/topViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/topViewController</TokenIdentifier>
+			<Abstract type="html">The view controller that is currently on top of the navigation stack.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIViewController *topViewController</Declaration>
+			
+			
+			<Anchor>//api/name/topViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setURL:</TokenIdentifier>
+			<Abstract type="html">The URL of the currently visible view controller;</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/URL</TokenIdentifier>
+			<Abstract type="html">The URL of the currently visible view controller;</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setPersistenceKey:</TokenIdentifier>
+			<Abstract type="html">The key to use for storing persistence information.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *persistenceKey</Declaration>
+			
+			
+			<Anchor>//api/name/persistenceKey</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/persistenceKey</TokenIdentifier>
+			<Abstract type="html">The key to use for storing persistence information.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *persistenceKey</Declaration>
+			
+			
+			<Anchor>//api/name/persistenceKey</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setPersistenceMode:</TokenIdentifier>
+			<Abstract type="html">How view controllers are automatically persisted on termination and restored on launch.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) TTNavigatorPersistenceMode persistenceMode</Declaration>
+			
+			
+			<Anchor>//api/name/persistenceMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/persistenceMode</TokenIdentifier>
+			<Abstract type="html">How view controllers are automatically persisted on termination and restored on launch.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) TTNavigatorPersistenceMode persistenceMode</Declaration>
+			
+			
+			<Anchor>//api/name/persistenceMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setPersistenceExpirationAge:</TokenIdentifier>
+			<Abstract type="html">The age at which persisted view controllers are too old to be restored.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSTimeInterval persistenceExpirationAge</Declaration>
+			
+			
+			<Anchor>//api/name/persistenceExpirationAge</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/persistenceExpirationAge</TokenIdentifier>
+			<Abstract type="html">The age at which persisted view controllers are too old to be restored.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSTimeInterval persistenceExpirationAge</Declaration>
+			
+			
+			<Anchor>//api/name/persistenceExpirationAge</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setSupportsShakeToReload:</TokenIdentifier>
+			<Abstract type="html">Causes the current view controller to be reloaded when shaking the phone.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL supportsShakeToReload</Declaration>
+			
+			
+			<Anchor>//api/name/supportsShakeToReload</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/supportsShakeToReload</TokenIdentifier>
+			<Abstract type="html">Causes the current view controller to be reloaded when shaking the phone.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL supportsShakeToReload</Declaration>
+			
+			
+			<Anchor>//api/name/supportsShakeToReload</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setOpensExternalURLs:</TokenIdentifier>
+			<Abstract type="html">Allows URLs to be opened externally if they don&apos;t match any patterns.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL opensExternalURLs</Declaration>
+			
+			
+			<Anchor>//api/name/opensExternalURLs</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/opensExternalURLs</TokenIdentifier>
+			<Abstract type="html">Allows URLs to be opened externally if they don&apos;t match any patterns.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL opensExternalURLs</Declaration>
+			
+			
+			<Anchor>//api/name/opensExternalURLs</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setIsDelayed:</TokenIdentifier>
+			<Abstract type="html">Indicates that we are asking controllers to delay heavy operations until a later time.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isDelayed</Declaration>
+			
+			
+			<Anchor>//api/name/isDelayed</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/isDelayed</TokenIdentifier>
+			<Abstract type="html">Indicates that we are asking controllers to delay heavy operations until a later time.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isDelayed</Declaration>
+			
+			
+			<Anchor>//api/name/isDelayed</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTNavigatorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseNavigator/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTNavigatorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBaseNavigator/navigatorForView:</TokenIdentifier>
+			<Abstract type="html">Determines the navigator that contains this view.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>+ (TTBaseNavigator *)navigatorForView:(UIView *)view</Declaration>
+			
+			
+			<Anchor>//api/name/navigatorForView:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBaseNavigator/globalNavigator</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>+ (TTBaseNavigator *)globalNavigator</Declaration>
+			
+			
+			<Anchor>//api/name/globalNavigator</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBaseNavigator/setGlobalNavigator:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>+ (void)setGlobalNavigator:(TTBaseNavigator *)navigator</Declaration>
+			
+			
+			<Anchor>//api/name/setGlobalNavigator:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/openURLAction:</TokenIdentifier>
+			<Abstract type="html">Load and display the view controller with a pattern that matches the URL.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)openURLAction:(TTURLAction *)URLAction</Declaration>
+			
+			
+			<Anchor>//api/name/openURLAction:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/openURLs:</TokenIdentifier>
+			<Abstract type="html">Opens a sequence of URLs.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)openURLs:(NSString *)URL, ...</Declaration>
+			
+			<ReturnValue><Abstract type="html">The view controller of the last opened URL.</Abstract></ReturnValue>
+			<Anchor>//api/name/openURLs:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/viewControllerForURL:</TokenIdentifier>
+			<Abstract type="html">Gets a view controller for the URL without opening it.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)viewControllerForURL:(NSString *)URL</Declaration>
+			
+			<ReturnValue><Abstract type="html">The view controller mapped to URL.</Abstract></ReturnValue>
+			<Anchor>//api/name/viewControllerForURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/viewControllerForURL:query:</TokenIdentifier>
+			<Abstract type="html">Gets a view controller for the URL without opening it.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)viewControllerForURL:(NSString *)URL query:(NSDictionary *)query</Declaration>
+			
+			<ReturnValue><Abstract type="html">The view controller mapped to URL.</Abstract></ReturnValue>
+			<Anchor>//api/name/viewControllerForURL:query:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/viewControllerForURL:query:pattern:</TokenIdentifier>
+			<Abstract type="html">Gets a view controller for the URL without opening it.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)viewControllerForURL:(NSString *)URL query:(NSDictionary *)query pattern:(TTURLPattern **)pattern</Declaration>
+			
+			<ReturnValue><Abstract type="html">The view controller mapped to URL.</Abstract></ReturnValue>
+			<Anchor>//api/name/viewControllerForURL:query:pattern:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/beginDelay</TokenIdentifier>
+			<Abstract type="html">Tells the navigator to delay heavy operations.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (void)beginDelay</Declaration>
+			
+			
+			<Anchor>//api/name/beginDelay</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/endDelay</TokenIdentifier>
+			<Abstract type="html">Tells controllers that were created during the delay to finish what they were planning to do.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (void)endDelay</Declaration>
+			
+			
+			<Anchor>//api/name/endDelay</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/cancelDelay</TokenIdentifier>
+			<Abstract type="html">Cancels the delay without notifying delayed controllers.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancelDelay</Declaration>
+			
+			
+			<Anchor>//api/name/cancelDelay</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/persistViewControllers</TokenIdentifier>
+			<Abstract type="html">Persists all view controllers to user defaults.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (void)persistViewControllers</Declaration>
+			
+			
+			<Anchor>//api/name/persistViewControllers</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/restoreViewControllers</TokenIdentifier>
+			<Abstract type="html">Restores all view controllers from user defaults and returns the last one.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)restoreViewControllers</Declaration>
+			
+			
+			<Anchor>//api/name/restoreViewControllers</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/persistController:path:</TokenIdentifier>
+			<Abstract type="html">Persists a view controller&apos;s state and recursively persists the next view controller after it.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (void)persistController:(UIViewController *)controller path:(NSMutableArray *)path</Declaration>
+			
+			
+			<Anchor>//api/name/persistController:path:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/removeAllViewControllers</TokenIdentifier>
+			<Abstract type="html">Removes all view controllers from the window and releases them.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeAllViewControllers</Declaration>
+			
+			
+			<Anchor>//api/name/removeAllViewControllers</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/pathForObject:</TokenIdentifier>
+			<Abstract type="html">Gets a navigation path which can be used to locate an object.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)pathForObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/pathForObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/objectForPath:</TokenIdentifier>
+			<Abstract type="html">Finds an object using its navigation path.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (id)objectForPath:(NSString *)path</Declaration>
+			
+			
+			<Anchor>//api/name/objectForPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/resetDefaults</TokenIdentifier>
+			<Abstract type="html">Erases all data stored in user defaults.</Abstract>
+			<DeclaredIn>TTBaseNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (void)resetDefaults</Declaration>
+			
+			
+			<Anchor>//api/name/resetDefaults</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/presentDependantController:parentController:mode:action:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBaseNavigatorInternal.h</DeclaredIn>			
+			
+			<Declaration>- (void)presentDependantController:(UIViewController *)controller parentController:(UIViewController *)parentController mode:(TTNavigationMode)mode action:(TTURLAction *)action</Declaration>
+			
+			
+			<Anchor>//api/name/presentDependantController:parentController:mode:action:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/getVisibleChildController:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBaseNavigatorInternal.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)getVisibleChildController:(UIViewController *)controller</Declaration>
+			
+			
+			<Anchor>//api/name/getVisibleChildController:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigator/navigationControllerClass</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBaseNavigatorInternal.h</DeclaredIn>			
+			
+			<Declaration>- (Class)navigationControllerClass</Declaration>
+			
+			
+			<Anchor>//api/name/navigationControllerClass</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

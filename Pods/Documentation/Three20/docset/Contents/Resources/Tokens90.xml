@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTNavigationController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTNavigationController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTNavigationController.h</DeclaredIn>
+			
+			<NodeRef refid="90"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTNavigationController/pushViewController:animatedWithTransition:</TokenIdentifier>
+			<Abstract type="html">Pushes a view controller with a transition other than the standard sliding animation.</Abstract>
+			<DeclaredIn>TTNavigationController.h</DeclaredIn>			
+			
+			<Declaration>- (void)pushViewController:(UIViewController *)controller animatedWithTransition:(UIViewAnimationTransition)transition</Declaration>
+			
+			
+			<Anchor>//api/name/pushViewController:animatedWithTransition:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTNavigationController/popViewControllerAnimatedWithTransition:</TokenIdentifier>
+			<Abstract type="html">Pops a view controller with a transition other than the standard sliding animation.</Abstract>
+			<DeclaredIn>TTNavigationController.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)popViewControllerAnimatedWithTransition:(UIViewAnimationTransition)transition</Declaration>
+			
+			
+			<Anchor>//api/name/popViewControllerAnimatedWithTransition:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

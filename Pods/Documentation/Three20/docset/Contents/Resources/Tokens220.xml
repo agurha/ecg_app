@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLMap.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLMap</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>
+			
+			<NodeRef refid="220"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toObject:</TokenIdentifier>
+			<Abstract type="html">Adds a URL pattern which will perform a selector on an object when loaded.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/from:toObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toObject:selector:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toObject:(id)object selector:(SEL)selector</Declaration>
+			
+			
+			<Anchor>//api/name/from:toObject:selector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toViewController:</TokenIdentifier>
+			<Abstract type="html">Adds a URL pattern which will create and present a view controller when loaded.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toViewController:(id)target</Declaration>
+			
+			
+			<Anchor>//api/name/from:toViewController:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toViewController:selector:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toViewController:(id)target selector:(SEL)selector</Declaration>
+			
+			
+			<Anchor>//api/name/from:toViewController:selector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toViewController:transition:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toViewController:(id)target transition:(NSInteger)transition</Declaration>
+			
+			
+			<Anchor>//api/name/from:toViewController:transition:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:parent:toViewController:selector:transition:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL parent:(NSString *)parentURL toViewController:(id)target selector:(SEL)selector transition:(NSInteger)transition</Declaration>
+			
+			
+			<Anchor>//api/name/from:parent:toViewController:selector:transition:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toSharedViewController:</TokenIdentifier>
+			<Abstract type="html">Adds a URL pattern which will create and present a share view controller when loaded.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toSharedViewController:(id)target</Declaration>
+			
+			
+			<Anchor>//api/name/from:toSharedViewController:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toSharedViewController:selector:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toSharedViewController:(id)target selector:(SEL)selector</Declaration>
+			
+			
+			<Anchor>//api/name/from:toSharedViewController:selector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:parent:toSharedViewController:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL parent:(NSString *)parentURL toSharedViewController:(id)target</Declaration>
+			
+			
+			<Anchor>//api/name/from:parent:toSharedViewController:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:parent:toSharedViewController:selector:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL parent:(NSString *)parentURL toSharedViewController:(id)target selector:(SEL)selector</Declaration>
+			
+			
+			<Anchor>//api/name/from:parent:toSharedViewController:selector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toModalViewController:</TokenIdentifier>
+			<Abstract type="html">Adds a URL pattern which will create and present a modal view controller when loaded.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toModalViewController:(id)target</Declaration>
+			
+			
+			<Anchor>//api/name/from:toModalViewController:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toModalViewController:selector:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toModalViewController:(id)target selector:(SEL)selector</Declaration>
+			
+			
+			<Anchor>//api/name/from:toModalViewController:selector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toModalViewController:transition:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toModalViewController:(id)target transition:(NSInteger)transition</Declaration>
+			
+			
+			<Anchor>//api/name/from:toModalViewController:transition:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:parent:toModalViewController:selector:transition:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL parent:(NSString *)parentURL toModalViewController:(id)target selector:(SEL)selector transition:(NSInteger)transition</Declaration>
+			
+			
+			<Anchor>//api/name/from:parent:toModalViewController:selector:transition:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toPopoverViewController:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toPopoverViewController:(id)target</Declaration>
+			
+			
+			<Anchor>//api/name/from:toPopoverViewController:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toPopoverViewController:selector:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(NSString *)URL toPopoverViewController:(id)target selector:(SEL)selector</Declaration>
+			
+			
+			<Anchor>//api/name/from:toPopoverViewController:selector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:toURL:</TokenIdentifier>
+			<Abstract type="html">Adds a mapping from a class to a generated URL.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(Class)cls toURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/from:toURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/from:name:toURL:</TokenIdentifier>
+			<Abstract type="html">Adds a mapping from a class and a special name to a generated URL.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)from:(Class)cls name:(NSString *)name toURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/from:name:toURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/setObject:forURL:</TokenIdentifier>
+			<Abstract type="html">Adds a direct mapping from a literal URL to an object.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)setObject:(id)object forURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/setObject:forURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/removeURL:</TokenIdentifier>
+			<Abstract type="html">Removes all objects and patterns mapped to a URL.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/removeURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/removeObject:</TokenIdentifier>
+			<Abstract type="html">Removes all URLs bound to an object.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/removeObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/removeObjectForURL:</TokenIdentifier>
+			<Abstract type="html">Removes objects bound literally to the URL.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeObjectForURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/removeObjectForURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/removeAllObjects</TokenIdentifier>
+			<Abstract type="html">Removes all bound objects;</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeAllObjects</Declaration>
+			
+			
+			<Anchor>//api/name/removeAllObjects</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/objectForURL:</TokenIdentifier>
+			<Abstract type="html">Gets or creates the object with a pattern that matches the URL.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (id)objectForURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/objectForURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/objectForURL:query:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (id)objectForURL:(NSString *)URL query:(NSDictionary *)query</Declaration>
+			
+			
+			<Anchor>//api/name/objectForURL:query:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/objectForURL:query:pattern:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (id)objectForURL:(NSString *)URL query:(NSDictionary *)query pattern:(TTURLNavigatorPattern **)pattern</Declaration>
+			
+			
+			<Anchor>//api/name/objectForURL:query:pattern:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/dispatchURL:toTarget:query:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (id)dispatchURL:(NSString *)URL toTarget:(id)target query:(NSDictionary *)query</Declaration>
+			
+			
+			<Anchor>//api/name/dispatchURL:toTarget:query:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/navigationModeForURL:</TokenIdentifier>
+			<Abstract type="html">Tests if there is a pattern that matches the URL and if so returns its navigation mode.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (TTNavigationMode)navigationModeForURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/navigationModeForURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/transitionForURL:</TokenIdentifier>
+			<Abstract type="html">Tests if there is a pattern that matches the URL and if so returns its transition.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (NSInteger)transitionForURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/transitionForURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/isSchemeSupported:</TokenIdentifier>
+			<Abstract type="html">Returns YES if there is a registered pattern with the URL scheme.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)isSchemeSupported:(NSString *)scheme</Declaration>
+			
+			
+			<Anchor>//api/name/isSchemeSupported:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/isAppURL:</TokenIdentifier>
+			<Abstract type="html">Returns YES if the URL is destined for an external app.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)isAppURL:(NSURL *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/isAppURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/URLForObject:</TokenIdentifier>
+			<Abstract type="html">Gets a URL that has been mapped to the object.</Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)URLForObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/URLForObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLMap/URLForObject:withName:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLMap.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)URLForObject:(id)object withName:(NSString *)name</Declaration>
+			
+			
+			<Anchor>//api/name/URLForObject:withName:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

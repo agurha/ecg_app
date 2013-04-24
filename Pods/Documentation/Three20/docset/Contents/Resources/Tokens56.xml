@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTExtensionAuthor.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTExtensionAuthor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>
+			
+			<NodeRef refid="56"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTExtensionAuthor/setName:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTExtensionAuthor/name</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTExtensionAuthor/setGithub:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *github</Declaration>
+			
+			
+			<Anchor>//api/name/github</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTExtensionAuthor/github</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *github</Declaration>
+			
+			
+			<Anchor>//api/name/github</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTExtensionAuthor/setTwitter:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *twitter</Declaration>
+			
+			
+			<Anchor>//api/name/twitter</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTExtensionAuthor/twitter</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *twitter</Declaration>
+			
+			
+			<Anchor>//api/name/twitter</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTExtensionAuthor/setWebsite:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *website</Declaration>
+			
+			
+			<Anchor>//api/name/website</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTExtensionAuthor/website</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *website</Declaration>
+			
+			
+			<Anchor>//api/name/website</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTExtensionAuthor/authorWithName:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>+ (id)authorWithName:(NSString *)name</Declaration>
+			
+			
+			<Anchor>//api/name/authorWithName:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTExtensionAuthor/authorWithName:github:twitter:website:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>+ (id)authorWithName:(NSString *)name github:(NSString *)github twitter:(NSString *)twitter website:(NSString *)website</Declaration>
+			
+			
+			<Anchor>//api/name/authorWithName:github:twitter:website:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTExtensionAuthor/initWithName:github:twitter:website:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTExtensionAuthor.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithName:(NSString *)name github:(NSString *)github twitter:(NSString *)twitter website:(NSString *)website</Declaration>
+			
+			
+			<Anchor>//api/name/initWithName:github:twitter:website:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

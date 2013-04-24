@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/YAJLParser.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/YAJLParser</TokenIdentifier>
+			<Abstract type="html">JSON parser.</Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>
+			
+			<NodeRef refid="240"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLParser/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>@property (assign, nonatomic) __weak id&lt;YAJLParserDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/YAJLParser/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>@property (assign, nonatomic) __weak id&lt;YAJLParserDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLParser/setParserError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly, retain, nonatomic) NSError *parserError</Declaration>
+			
+			
+			<Anchor>//api/name/parserError</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/YAJLParser/parserError</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly, retain, nonatomic) NSError *parserError</Declaration>
+			
+			
+			<Anchor>//api/name/parserError</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLParser/setParserOptions:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly, nonatomic) YAJLParserOptions parserOptions</Declaration>
+			
+			
+			<Anchor>//api/name/parserOptions</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/YAJLParser/parserOptions</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly, nonatomic) YAJLParserOptions parserOptions</Declaration>
+			
+			
+			<Anchor>//api/name/parserOptions</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLParser/initWithParserOptions:</TokenIdentifier>
+			<Abstract type="html">Create parser with data and options.</Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithParserOptions:(YAJLParserOptions)parserOptions</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>parserOptions</Name>
+					<Abstract type="html">Parser options
+  - YAJLParserOptionsNone: No options
+  - YAJLParserOptionsAllowComments: Javascript style comments will be allowed in the input (both /&amp;amp;asterisk; &amp;amp;asterisk;/ and //)
+  - YAJLParserOptionsCheckUTF8: Invalid UTF8 strings will cause a parse error
+  - YAJLParserOptionsStrictPrecision: If YES will force strict precision and return integer overflow error</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/initWithParserOptions:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLParser/parse:</TokenIdentifier>
+			<Abstract type="html">Parse data.</Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>- (YAJLParserStatus)parse:(NSData *)data</Declaration>
+			
+			<ReturnValue><Abstract type="html">Parser status
+  - YAJLParserStatusNone: No status
+  - YAJLParserStatusOK: Parsed OK
+  - YAJLParserStatusInsufficientData: There was insufficient data
+  - YAJLParserStatusError: Parser errored</Abstract></ReturnValue>
+			<Anchor>//api/name/parse:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

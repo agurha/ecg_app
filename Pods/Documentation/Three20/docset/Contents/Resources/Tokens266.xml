@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UITableView+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UITableView(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="266"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UITableView(TTCategory)/setIndexView:</TokenIdentifier>
+			<Abstract type="html">The view that contains the &quot;index&quot; along the right side of the table.</Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIView *indexView</Declaration>
+			
+			
+			<Anchor>//api/name/indexView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UITableView(TTCategory)/indexView</TokenIdentifier>
+			<Abstract type="html">The view that contains the &quot;index&quot; along the right side of the table.</Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIView *indexView</Declaration>
+			
+			
+			<Anchor>//api/name/indexView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UITableView(TTCategory)/setTableCellMargin:</TokenIdentifier>
+			<Abstract type="html">Returns the margin used to inset table cells.</Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat tableCellMargin</Declaration>
+			
+			
+			<Anchor>//api/name/tableCellMargin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UITableView(TTCategory)/tableCellMargin</TokenIdentifier>
+			<Abstract type="html">Returns the margin used to inset table cells.</Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat tableCellMargin</Declaration>
+			
+			
+			<Anchor>//api/name/tableCellMargin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UITableView(TTCategory)/scrollToTop:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollToTop:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/scrollToTop:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UITableView(TTCategory)/scrollToBottom:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollToBottom:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/scrollToBottom:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UITableView(TTCategory)/scrollToFirstRow:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollToFirstRow:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/scrollToFirstRow:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UITableView(TTCategory)/scrollToLastRow:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollToLastRow:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/scrollToLastRow:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UITableView(TTCategory)/scrollFirstResponderIntoView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollFirstResponderIntoView</Declaration>
+			
+			
+			<Anchor>//api/name/scrollFirstResponderIntoView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UITableView(TTCategory)/touchRowAtIndexPath:animated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UITableViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)touchRowAtIndexPath:(NSIndexPath *)indexPath animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/touchRowAtIndexPath:animated:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

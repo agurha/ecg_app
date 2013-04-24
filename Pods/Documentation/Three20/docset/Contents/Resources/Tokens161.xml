@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableFlushViewCell.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableFlushViewCell</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableFlushViewCell.h</DeclaredIn>
+			
+			<NodeRef refid="161"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableFlushViewCell/setItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableFlushViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) TTTableViewItem *item</Declaration>
+			
+			
+			<Anchor>//api/name/item</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableFlushViewCell/item</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableFlushViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) TTTableViewItem *item</Declaration>
+			
+			
+			<Anchor>//api/name/item</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableFlushViewCell/setView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableFlushViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) UIView *view</Declaration>
+			
+			
+			<Anchor>//api/name/view</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableFlushViewCell/view</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableFlushViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) UIView *view</Declaration>
+			
+			
+			<Anchor>//api/name/view</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTMaskStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTMaskStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMaskStyle.h</DeclaredIn>
+			
+			<NodeRef refid="82"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMaskStyle/setMask:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMaskStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *mask</Declaration>
+			
+			
+			<Anchor>//api/name/mask</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMaskStyle/mask</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMaskStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *mask</Declaration>
+			
+			
+			<Anchor>//api/name/mask</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTMaskStyle/styleWithMask:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMaskStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTMaskStyle *)styleWithMask:(UIImage *)mask next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithMask:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

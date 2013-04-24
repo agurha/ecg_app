@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTInsetStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTInsetStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTInsetStyle.h</DeclaredIn>
+			
+			<NodeRef refid="69"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTInsetStyle/setInset:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTInsetStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets inset</Declaration>
+			
+			
+			<Anchor>//api/name/inset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTInsetStyle/inset</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTInsetStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIEdgeInsets inset</Declaration>
+			
+			
+			<Anchor>//api/name/inset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTInsetStyle/styleWithInset:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTInsetStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTInsetStyle *)styleWithInset:(UIEdgeInsets)inset next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithInset:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

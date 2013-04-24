@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyledTextNode.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyledTextNode</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledTextNode.h</DeclaredIn>
+			
+			<NodeRef refid="145"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextNode/setText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledTextNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextNode/text</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledTextNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextNode/initWithText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledTextNode.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithText:(NSString *)text</Declaration>
+			
+			
+			<Anchor>//api/name/initWithText:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextNode/initWithText:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledTextNode.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithText:(NSString *)text next:(TTStyledNode *)nextSibling</Declaration>
+			
+			
+			<Anchor>//api/name/initWithText:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

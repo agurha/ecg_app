@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTLabel.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTLabel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLabel.h</DeclaredIn>
+			
+			<NodeRef refid="70"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLabel/setText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLabel/text</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLabel/setFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLabel/font</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLabel/initWithText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLabel.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithText:(NSString *)text</Declaration>
+			
+			
+			<Anchor>//api/name/initWithText:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UIView+TTUICommon.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UIView(TTUICommon)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIView+TTUICommon.h</DeclaredIn>
+			
+			<NodeRef refid="270"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTUICommon)/viewController</TokenIdentifier>
+			<Abstract type="html">The view controller whose view contains this view.</Abstract>
+			<DeclaredIn>UIView+TTUICommon.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)viewController</Declaration>
+			
+			
+			<Anchor>//api/name/viewController</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

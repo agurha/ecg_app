@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTDataConverter.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTDataConverter</TokenIdentifier>
+			<Abstract type="html">\nosubgrouping
+This class contains an collection of methods to convert different Objective C objects.
+This is a little versio of this class with a small subset of useful methods to
+use with &apos;TTCSS&apos; Classes. See JUMP Framework to retrieve the full version.</Abstract>
+			<DeclaredIn>TTDataConverter.h</DeclaredIn>
+			
+			<NodeRef refid="50"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTDataConverter/convertToNSNumberThisObject:</TokenIdentifier>
+			<Abstract type="html">Take an &lt;b&gt;NSString&lt;/b&gt; Object and try to convert to &lt;b&gt;NSNumber&lt;/b&gt;.</Abstract>
+			<DeclaredIn>TTDataConverter.h</DeclaredIn>			
+			
+			<Declaration>+ (NSNumber *)convertToNSNumberThisObject:(id)anObject</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>anObject</Name>
+					<Abstract type="html">An &lt;b&gt;NSString&lt;/b&gt; to try to convert.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">Converted object or if an conversion isn&apos;t possible will return &lt;b&gt;nil&lt;/b&gt;.</Abstract></ReturnValue>
+			<Anchor>//api/name/convertToNSNumberThisObject:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

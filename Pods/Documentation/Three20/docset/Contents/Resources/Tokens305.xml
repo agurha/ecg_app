@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTTextBarDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTTextBarDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="305"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextBarDelegate/textBarDidBeginEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)textBarDidBeginEditing:(TTTextBarController *)textBar</Declaration>
+			
+			
+			<Anchor>//api/name/textBarDidBeginEditing:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextBarDelegate/textBarDidEndEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextBarDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)textBarDidEndEditing:(TTTextBarController *)textBar</Declaration>
+			
+			
+			<Anchor>//api/name/textBarDidEndEditing:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextBarDelegate/textBar:willPostText:</TokenIdentifier>
+			<Abstract type="html">The user has posted text and an animation is about to show the text return to its origin.</Abstract>
+			<DeclaredIn>TTTextBarDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)textBar:(TTTextBarController *)textBar willPostText:(NSString *)text</Declaration>
+			
+			<ReturnValue><Abstract type="html">whether to dismiss the controller or wait for the user to call dismiss.</Abstract></ReturnValue>
+			<Anchor>//api/name/textBar:willPostText:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextBarDelegate/textBar:didPostText:withResult:</TokenIdentifier>
+			<Abstract type="html">The text has been posted.</Abstract>
+			<DeclaredIn>TTTextBarDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)textBar:(TTTextBarController *)textBar didPostText:(NSString *)text withResult:(id)result</Declaration>
+			
+			
+			<Anchor>//api/name/textBar:didPostText:withResult:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextBarDelegate/textBarDidCancel:</TokenIdentifier>
+			<Abstract type="html">The controller was cancelled before posting.</Abstract>
+			<DeclaredIn>TTTextBarDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)textBarDidCancel:(TTTextBarController *)textBar</Declaration>
+			
+			
+			<Anchor>//api/name/textBarDidCancel:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

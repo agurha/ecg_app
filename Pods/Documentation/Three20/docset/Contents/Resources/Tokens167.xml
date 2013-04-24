@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableImageItemCell.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableImageItemCell</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItemCell.h</DeclaredIn>
+			
+			<NodeRef refid="167"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableImageItemCell/setImageView2:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItemCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) TTImageView *imageView2</Declaration>
+			
+			
+			<Anchor>//api/name/imageView2</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableImageItemCell/imageView2</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItemCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) TTImageView *imageView2</Declaration>
+			
+			
+			<Anchor>//api/name/imageView2</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

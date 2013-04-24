@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableViewPlainDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableViewPlainDelegate</TokenIdentifier>
+			<Abstract type="html">The most basic delegate. No size calculations are made.</Abstract>
+			<DeclaredIn>TTTableViewPlainDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="201"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

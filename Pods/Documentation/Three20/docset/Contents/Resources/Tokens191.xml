@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableView</TokenIdentifier>
+			<Abstract type="html">TTTableView enhances UITableView to provide support for various Three20 services.</Abstract>
+			<DeclaredIn>TTTableView.h</DeclaredIn>
+			
+			<NodeRef refid="191"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableView/setHighlightedLabel:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledTextLabel *highlightedLabel</Declaration>
+			
+			
+			<Anchor>//api/name/highlightedLabel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableView/highlightedLabel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledTextLabel *highlightedLabel</Declaration>
+			
+			
+			<Anchor>//api/name/highlightedLabel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableView/setContentOrigin:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat contentOrigin</Declaration>
+			
+			
+			<Anchor>//api/name/contentOrigin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableView/contentOrigin</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat contentOrigin</Declaration>
+			
+			
+			<Anchor>//api/name/contentOrigin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableView/setShowShadows:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showShadows</Declaration>
+			
+			
+			<Anchor>//api/name/showShadows</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableView/showShadows</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showShadows</Declaration>
+			
+			
+			<Anchor>//api/name/showShadows</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

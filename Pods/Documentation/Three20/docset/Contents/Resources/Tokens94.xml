@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTPageControl.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTPageControl</TokenIdentifier>
+			<Abstract type="html">TTPageControl is a version of UIPageControl which allows you to style the dots.</Abstract>
+			<DeclaredIn>TTPageControl.h</DeclaredIn>
+			
+			<NodeRef refid="94"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPageControl/setNumberOfPages:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPageControl.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger numberOfPages</Declaration>
+			
+			
+			<Anchor>//api/name/numberOfPages</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPageControl/numberOfPages</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPageControl.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger numberOfPages</Declaration>
+			
+			
+			<Anchor>//api/name/numberOfPages</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPageControl/setCurrentPage:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPageControl.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger currentPage</Declaration>
+			
+			
+			<Anchor>//api/name/currentPage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPageControl/currentPage</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPageControl.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger currentPage</Declaration>
+			
+			
+			<Anchor>//api/name/currentPage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPageControl/setDotStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPageControl.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *dotStyle</Declaration>
+			
+			
+			<Anchor>//api/name/dotStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPageControl/dotStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPageControl.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *dotStyle</Declaration>
+			
+			
+			<Anchor>//api/name/dotStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPageControl/setHidesForSinglePage:</TokenIdentifier>
+			<Abstract type="html">Set to YES to hide the pagecontrol if only one page is present</Abstract>
+			<DeclaredIn>TTPageControl.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL hidesForSinglePage</Declaration>
+			
+			
+			<Anchor>//api/name/hidesForSinglePage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPageControl/hidesForSinglePage</TokenIdentifier>
+			<Abstract type="html">Set to YES to hide the pagecontrol if only one page is present</Abstract>
+			<DeclaredIn>TTPageControl.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL hidesForSinglePage</Declaration>
+			
+			
+			<Anchor>//api/name/hidesForSinglePage</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

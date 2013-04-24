@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTRoundedLeftArrowShape.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTRoundedLeftArrowShape</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedLeftArrowShape.h</DeclaredIn>
+			
+			<NodeRef refid="106"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRoundedLeftArrowShape/setRadius:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedLeftArrowShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat radius</Declaration>
+			
+			
+			<Anchor>//api/name/radius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRoundedLeftArrowShape/radius</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedLeftArrowShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat radius</Declaration>
+			
+			
+			<Anchor>//api/name/radius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTRoundedLeftArrowShape/shapeWithRadius:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedLeftArrowShape.h</DeclaredIn>			
+			
+			<Declaration>+ (TTRoundedLeftArrowShape *)shapeWithRadius:(CGFloat)radius</Declaration>
+			
+			
+			<Anchor>//api/name/shapeWithRadius:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

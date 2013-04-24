@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTThumbsDataSource.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTThumbsDataSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsDataSource.h</DeclaredIn>
+			
+			<NodeRef refid="210"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsDataSource/setPhotoSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsDataSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhotoSource&gt; photoSource</Declaration>
+			
+			
+			<Anchor>//api/name/photoSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTThumbsDataSource/photoSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsDataSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhotoSource&gt; photoSource</Declaration>
+			
+			
+			<Anchor>//api/name/photoSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsDataSource/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsDataSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTThumbsTableViewCellDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTThumbsDataSource/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsDataSource.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTThumbsTableViewCellDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsDataSource/initWithPhotoSource:delegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithPhotoSource:(id&lt;TTPhotoSource&gt;)photoSource delegate:(id&lt;TTThumbsTableViewCellDelegate&gt;)delegate</Declaration>
+			
+			
+			<Anchor>//api/name/initWithPhotoSource:delegate:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

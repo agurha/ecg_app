@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTSolidFillStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTSolidFillStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSolidFillStyle.h</DeclaredIn>
+			
+			<NodeRef refid="120"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSolidFillStyle/setColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSolidFillStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSolidFillStyle/color</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSolidFillStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTSolidFillStyle/styleWithColor:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSolidFillStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTSolidFillStyle *)styleWithColor:(UIColor *)color next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithColor:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

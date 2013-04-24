@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLRequestModel.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLRequestModel</TokenIdentifier>
+			<Abstract type="html">An implementation of TTModel which is built to work with TTURLRequests.</Abstract>
+			<DeclaredIn>TTURLRequestModel.h</DeclaredIn>
+			
+			<NodeRef refid="224"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestModel/setLoadedTime:</TokenIdentifier>
+			<Abstract type="html">Valid upon completion of the URL request. Represents the timestamp of the completed request.</Abstract>
+			<DeclaredIn>TTURLRequestModel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSDate *loadedTime</Declaration>
+			
+			
+			<Anchor>//api/name/loadedTime</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequestModel/loadedTime</TokenIdentifier>
+			<Abstract type="html">Valid upon completion of the URL request. Represents the timestamp of the completed request.</Abstract>
+			<DeclaredIn>TTURLRequestModel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSDate *loadedTime</Declaration>
+			
+			
+			<Anchor>//api/name/loadedTime</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestModel/setCacheKey:</TokenIdentifier>
+			<Abstract type="html">Valid upon completion of the URL request. Represents the request&apos;s cache key.</Abstract>
+			<DeclaredIn>TTURLRequestModel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *cacheKey</Declaration>
+			
+			
+			<Anchor>//api/name/cacheKey</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequestModel/cacheKey</TokenIdentifier>
+			<Abstract type="html">Valid upon completion of the URL request. Represents the request&apos;s cache key.</Abstract>
+			<DeclaredIn>TTURLRequestModel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *cacheKey</Declaration>
+			
+			
+			<Anchor>//api/name/cacheKey</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestModel/setHasNoMore:</TokenIdentifier>
+			<Abstract type="html">Not used internally, but intended for book-keeping purposes when making requests.</Abstract>
+			<DeclaredIn>TTURLRequestModel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL hasNoMore</Declaration>
+			
+			
+			<Anchor>//api/name/hasNoMore</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequestModel/hasNoMore</TokenIdentifier>
+			<Abstract type="html">Not used internally, but intended for book-keeping purposes when making requests.</Abstract>
+			<DeclaredIn>TTURLRequestModel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL hasNoMore</Declaration>
+			
+			
+			<Anchor>//api/name/hasNoMore</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestModel/reset</TokenIdentifier>
+			<Abstract type="html">Resets the model to its original state before any data was loaded.</Abstract>
+			<DeclaredIn>TTURLRequestModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)reset</Declaration>
+			
+			
+			<Anchor>//api/name/reset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestModel/downloadProgress</TokenIdentifier>
+			<Abstract type="html">Valid while loading. Returns download progress as between 0 and 1.</Abstract>
+			<DeclaredIn>TTURLRequestModel.h</DeclaredIn>			
+			
+			<Declaration>- (float)downloadProgress</Declaration>
+			
+			
+			<Anchor>//api/name/downloadProgress</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

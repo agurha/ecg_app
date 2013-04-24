@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableControlCell.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableControlCell</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlCell.h</DeclaredIn>
+			
+			<NodeRef refid="159"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableControlCell/setItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) TTTableControlItem *item</Declaration>
+			
+			
+			<Anchor>//api/name/item</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableControlCell/item</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) TTTableControlItem *item</Declaration>
+			
+			
+			<Anchor>//api/name/item</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableControlCell/setControl:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) UIControl *control</Declaration>
+			
+			
+			<Anchor>//api/name/control</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableControlCell/control</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly, retain) UIControl *control</Declaration>
+			
+			
+			<Anchor>//api/name/control</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTFourBorderStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTFourBorderStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>
+			
+			<NodeRef refid="62"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTFourBorderStyle/setTop:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *top</Declaration>
+			
+			
+			<Anchor>//api/name/top</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTFourBorderStyle/top</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *top</Declaration>
+			
+			
+			<Anchor>//api/name/top</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTFourBorderStyle/setRight:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *right</Declaration>
+			
+			
+			<Anchor>//api/name/right</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTFourBorderStyle/right</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *right</Declaration>
+			
+			
+			<Anchor>//api/name/right</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTFourBorderStyle/setBottom:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *bottom</Declaration>
+			
+			
+			<Anchor>//api/name/bottom</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTFourBorderStyle/bottom</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *bottom</Declaration>
+			
+			
+			<Anchor>//api/name/bottom</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTFourBorderStyle/setLeft:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *left</Declaration>
+			
+			
+			<Anchor>//api/name/left</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTFourBorderStyle/left</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *left</Declaration>
+			
+			
+			<Anchor>//api/name/left</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTFourBorderStyle/setWidth:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTFourBorderStyle/width</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTFourBorderStyle/styleWithTop:right:bottom:left:width:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTFourBorderStyle *)styleWithTop:(UIColor *)top right:(UIColor *)right bottom:(UIColor *)bottom left:(UIColor *)left width:(CGFloat)width next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithTop:right:bottom:left:width:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTFourBorderStyle/styleWithTop:width:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTFourBorderStyle *)styleWithTop:(UIColor *)top width:(CGFloat)width next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithTop:width:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTFourBorderStyle/styleWithRight:width:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTFourBorderStyle *)styleWithRight:(UIColor *)right width:(CGFloat)width next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithRight:width:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTFourBorderStyle/styleWithBottom:width:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTFourBorderStyle *)styleWithBottom:(UIColor *)bottom width:(CGFloat)width next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithBottom:width:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTFourBorderStyle/styleWithLeft:width:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFourBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTFourBorderStyle *)styleWithLeft:(UIColor *)left width:(CGFloat)width next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithLeft:width:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

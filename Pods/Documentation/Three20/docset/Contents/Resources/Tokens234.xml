@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTXMLParser.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTXMLParser</TokenIdentifier>
+			<Abstract type="html">An implementation of the NSXMLParser object that turns XML into NSObjects.</Abstract>
+			<DeclaredIn>TTXMLParser.h</DeclaredIn>
+			
+			<NodeRef refid="234"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTXMLParser/setRootObject:</TokenIdentifier>
+			<Abstract type="html">Only valid after [parser parse] has been called.</Abstract>
+			<DeclaredIn>TTXMLParser.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) id rootObject</Declaration>
+			
+			
+			<Anchor>//api/name/rootObject</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTXMLParser/rootObject</TokenIdentifier>
+			<Abstract type="html">Only valid after [parser parse] has been called.</Abstract>
+			<DeclaredIn>TTXMLParser.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) id rootObject</Declaration>
+			
+			
+			<Anchor>//api/name/rootObject</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTXMLParser/setTreatDuplicateKeysAsArrayItems:</TokenIdentifier>
+			<Abstract type="html">When a duplicate key is encountered, the key&apos;s value is turned into an array and both
+the original item and the new duplicate item are added to the array. Any subsequent duplicates
+are also added to this array.
+This is useful for RSS feeds, where feed items are presented inline (and not as array items).</Abstract>
+			<DeclaredIn>TTXMLParser.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL treatDuplicateKeysAsArrayItems</Declaration>
+			
+			
+			<Anchor>//api/name/treatDuplicateKeysAsArrayItems</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTXMLParser/treatDuplicateKeysAsArrayItems</TokenIdentifier>
+			<Abstract type="html">When a duplicate key is encountered, the key&apos;s value is turned into an array and both
+the original item and the new duplicate item are added to the array. Any subsequent duplicates
+are also added to this array.
+This is useful for RSS feeds, where feed items are presented inline (and not as array items).</Abstract>
+			<DeclaredIn>TTXMLParser.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL treatDuplicateKeysAsArrayItems</Declaration>
+			
+			
+			<Anchor>//api/name/treatDuplicateKeysAsArrayItems</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

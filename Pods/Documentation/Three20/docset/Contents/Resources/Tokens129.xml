@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyledButtonNode.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyledButtonNode</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledButtonNode.h</DeclaredIn>
+			
+			<NodeRef refid="129"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledButtonNode/setHighlighted:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledButtonNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL highlighted</Declaration>
+			
+			
+			<Anchor>//api/name/highlighted</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledButtonNode/highlighted</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledButtonNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL highlighted</Declaration>
+			
+			
+			<Anchor>//api/name/highlighted</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledButtonNode/setURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledButtonNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledButtonNode/URL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledButtonNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledButtonNode/initWithURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledButtonNode.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/initWithURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledButtonNode/initWithURL:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledButtonNode.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithURL:(NSString *)URL next:(TTStyledNode *)nextSibling</Declaration>
+			
+			
+			<Anchor>//api/name/initWithURL:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledButtonNode/initWithText:URL:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledButtonNode.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithText:(NSString *)text URL:(NSString *)URL next:(TTStyledNode *)nextSibling</Declaration>
+			
+			
+			<Anchor>//api/name/initWithText:URL:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

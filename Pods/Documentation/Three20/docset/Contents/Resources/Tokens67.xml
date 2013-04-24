@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTImageView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTImageView</TokenIdentifier>
+			<Abstract type="html">A view that asynchronously loads an image and subsequently displays it.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>
+			
+			<NodeRef refid="67"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/setUrlPath:</TokenIdentifier>
+			<Abstract type="html">The path of the image. This may be a web path (http://path/to/image.gif) or a local bundle
+path (bundle://path/to/image.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/urlPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageView/urlPath</TokenIdentifier>
+			<Abstract type="html">The path of the image. This may be a web path (http://path/to/image.gif) or a local bundle
+path (bundle://path/to/image.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/urlPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/setDefaultImage:</TokenIdentifier>
+			<Abstract type="html">The default image that is displayed until the image has been downloaded. If no urlPath is
+specified, this image will be displayed indefinitely.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *defaultImage</Declaration>
+			
+			
+			<Anchor>//api/name/defaultImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageView/defaultImage</TokenIdentifier>
+			<Abstract type="html">The default image that is displayed until the image has been downloaded. If no urlPath is
+specified, this image will be displayed indefinitely.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *defaultImage</Declaration>
+			
+			
+			<Anchor>//api/name/defaultImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/setImage:</TokenIdentifier>
+			<Abstract type="html">The image that is currently being displayed.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIImage *image</Declaration>
+			
+			
+			<Anchor>//api/name/image</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageView/image</TokenIdentifier>
+			<Abstract type="html">The image that is currently being displayed.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIImage *image</Declaration>
+			
+			
+			<Anchor>//api/name/image</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/setAutoresizesToImage:</TokenIdentifier>
+			<Abstract type="html">Override the default sizing operation and resize the frame of this view with the size of
+the image.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL autoresizesToImage</Declaration>
+			
+			
+			<Anchor>//api/name/autoresizesToImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageView/autoresizesToImage</TokenIdentifier>
+			<Abstract type="html">Override the default sizing operation and resize the frame of this view with the size of
+the image.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL autoresizesToImage</Declaration>
+			
+			
+			<Anchor>//api/name/autoresizesToImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/setIsLoading:</TokenIdentifier>
+			<Abstract type="html">Is an asynchronous request currently active?</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isLoading</Declaration>
+			
+			
+			<Anchor>//api/name/isLoading</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageView/isLoading</TokenIdentifier>
+			<Abstract type="html">Is an asynchronous request currently active?</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isLoading</Declaration>
+			
+			
+			<Anchor>//api/name/isLoading</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/setIsLoaded:</TokenIdentifier>
+			<Abstract type="html">Has the image been successfully loaded?</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isLoaded</Declaration>
+			
+			
+			<Anchor>//api/name/isLoaded</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageView/isLoaded</TokenIdentifier>
+			<Abstract type="html">Has the image been successfully loaded?</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isLoaded</Declaration>
+			
+			
+			<Anchor>//api/name/isLoaded</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/setDelegate:</TokenIdentifier>
+			<Abstract type="html">A delegate that notifies you when the image has started and finished loading.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTImageViewDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageView/delegate</TokenIdentifier>
+			<Abstract type="html">A delegate that notifies you when the image has started and finished loading.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTImageViewDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/setRequest:</TokenIdentifier>
+			<Abstract type="html">The TTURLRequest requester used to load this image.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTURLRequest *request</Declaration>
+			
+			
+			<Anchor>//api/name/request</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTImageView/request</TokenIdentifier>
+			<Abstract type="html">The TTURLRequest requester used to load this image.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTURLRequest *request</Declaration>
+			
+			
+			<Anchor>//api/name/request</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/unsetImage</TokenIdentifier>
+			<Abstract type="html">Cancel any pending request, remove the image, and redraw the view.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>- (void)unsetImage</Declaration>
+			
+			
+			<Anchor>//api/name/unsetImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/reload</TokenIdentifier>
+			<Abstract type="html">Force the image to be reloaded. If the image is not in the cache, an asynchronous request is
+sent off to fetch the image.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>- (void)reload</Declaration>
+			
+			
+			<Anchor>//api/name/reload</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/stopLoading</TokenIdentifier>
+			<Abstract type="html">Cancel this image views&apos; active asynchronous requests.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>- (void)stopLoading</Declaration>
+			
+			
+			<Anchor>//api/name/stopLoading</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/imageViewDidStartLoad</TokenIdentifier>
+			<Abstract type="html">Called when the image begins loading asynchronously.
+Overridable method.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>- (void)imageViewDidStartLoad</Declaration>
+			
+			
+			<Anchor>//api/name/imageViewDidStartLoad</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/imageViewDidLoadImage:</TokenIdentifier>
+			<Abstract type="html">Called when the image finishes loading asynchronously.
+Overridable method.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>- (void)imageViewDidLoadImage:(UIImage *)image</Declaration>
+			
+			
+			<Anchor>//api/name/imageViewDidLoadImage:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/imageViewDidFailLoadWithError:</TokenIdentifier>
+			<Abstract type="html">Called when the image failed to load asynchronously.
+Overridable method.</Abstract>
+			<DeclaredIn>TTImageView.h</DeclaredIn>			
+			
+			<Declaration>- (void)imageViewDidFailLoadWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/imageViewDidFailLoadWithError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTImageView/setImage:</TokenIdentifier>
+			<Abstract type="html">Useful when overriding the TTImageView class&apos;s setImage method.</Abstract>
+			<DeclaredIn>TTImageViewInternal.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTPhotoView</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>- (void)setImage:(UIImage *)image</Declaration>
+			
+			
+			<Anchor>//api/name/setImage:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

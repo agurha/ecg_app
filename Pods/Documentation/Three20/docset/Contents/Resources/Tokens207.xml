@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTextStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTextStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>
+			
+			<NodeRef refid="207"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextStyle/setFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextStyle/font</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextStyle/setColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextStyle/color</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextStyle/setShadowColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *shadowColor</Declaration>
+			
+			
+			<Anchor>//api/name/shadowColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextStyle/shadowColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *shadowColor</Declaration>
+			
+			
+			<Anchor>//api/name/shadowColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextStyle/setShadowOffset:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize shadowOffset</Declaration>
+			
+			
+			<Anchor>//api/name/shadowOffset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextStyle/shadowOffset</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize shadowOffset</Declaration>
+			
+			
+			<Anchor>//api/name/shadowOffset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextStyle/setMinimumFontSize:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat minimumFontSize</Declaration>
+			
+			
+			<Anchor>//api/name/minimumFontSize</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextStyle/minimumFontSize</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat minimumFontSize</Declaration>
+			
+			
+			<Anchor>//api/name/minimumFontSize</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextStyle/setNumberOfLines:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger numberOfLines</Declaration>
+			
+			
+			<Anchor>//api/name/numberOfLines</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextStyle/numberOfLines</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger numberOfLines</Declaration>
+			
+			
+			<Anchor>//api/name/numberOfLines</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextStyle/setTextAlignment:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UITextAlignment textAlignment</Declaration>
+			
+			
+			<Anchor>//api/name/textAlignment</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextStyle/textAlignment</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UITextAlignment textAlignment</Declaration>
+			
+			
+			<Anchor>//api/name/textAlignment</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextStyle/setVerticalAlignment:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIControlContentVerticalAlignment verticalAlignment</Declaration>
+			
+			
+			<Anchor>//api/name/verticalAlignment</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextStyle/verticalAlignment</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIControlContentVerticalAlignment verticalAlignment</Declaration>
+			
+			
+			<Anchor>//api/name/verticalAlignment</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextStyle/setLineBreakMode:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UILineBreakMode lineBreakMode</Declaration>
+			
+			
+			<Anchor>//api/name/lineBreakMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextStyle/lineBreakMode</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UILineBreakMode lineBreakMode</Declaration>
+			
+			
+			<Anchor>//api/name/lineBreakMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithFont:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithFont:(UIFont *)font next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithFont:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithColor:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithColor:(UIColor *)color next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithColor:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithFont:color:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithFont:(UIFont *)font color:(UIColor *)color next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithFont:color:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithFont:color:textAlignment:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithFont:(UIFont *)font color:(UIColor *)color textAlignment:(UITextAlignment)textAlignment next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithFont:color:textAlignment:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithFont:color:shadowColor:shadowOffset:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithFont:(UIFont *)font color:(UIColor *)color shadowColor:(UIColor *)shadowColor shadowOffset:(CGSize)shadowOffset next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithFont:color:shadowColor:shadowOffset:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithFont:color:minimumFontSize:shadowColor:shadowOffset:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithFont:(UIFont *)font color:(UIColor *)color minimumFontSize:(CGFloat)minimumFontSize shadowColor:(UIColor *)shadowColor shadowOffset:(CGSize)shadowOffset next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithFont:color:minimumFontSize:shadowColor:shadowOffset:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithFont:color:minimumFontSize:shadowColor:shadowOffset:textAlignment:verticalAlignment:lineBreakMode:numberOfLines:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithFont:(UIFont *)font color:(UIColor *)color minimumFontSize:(CGFloat)minimumFontSize shadowColor:(UIColor *)shadowColor shadowOffset:(CGSize)shadowOffset textAlignment:(UITextAlignment)textAlignment verticalAlignment:(UIControlContentVerticalAlignment)verticalAlignment lineBreakMode:(UILineBreakMode)lineBreakMode numberOfLines:(NSInteger)numberOfLines next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithFont:color:minimumFontSize:shadowColor:shadowOffset:textAlignment:verticalAlignment:lineBreakMode:numberOfLines:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithCssSelector:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyleAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithCssSelector:(NSString *)selector next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithCssSelector:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithCssSelector:minimumFontSize:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyleAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithCssSelector:(NSString *)selector minimumFontSize:(CGFloat)minimumFontSize next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithCssSelector:minimumFontSize:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithCssSelector:minimumFontSize:textAlignment:verticalAlignment:lineBreakMode:numberOfLines:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyleAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithCssSelector:(NSString *)selector minimumFontSize:(CGFloat)minimumFontSize textAlignment:(UITextAlignment)textAlignment verticalAlignment:(UIControlContentVerticalAlignment)verticalAlignment lineBreakMode:(UILineBreakMode)lineBreakMode numberOfLines:(NSInteger)numberOfLines next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithCssSelector:minimumFontSize:textAlignment:verticalAlignment:lineBreakMode:numberOfLines:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithCssSelector:forState:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyleAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithCssSelector:(NSString *)selector forState:(UIControlState)state next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithCssSelector:forState:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithCssSelector:forState:minimumFontSize:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyleAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithCssSelector:(NSString *)selector forState:(UIControlState)state minimumFontSize:(CGFloat)minimumFontSize next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithCssSelector:forState:minimumFontSize:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTextStyle/styleWithCssSelector:forState:minimumFontSize:textAlignment:verticalAlignment:lineBreakMode:numberOfLines:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextStyleAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (TTTextStyle *)styleWithCssSelector:(NSString *)selector forState:(UIControlState)state minimumFontSize:(CGFloat)minimumFontSize textAlignment:(UITextAlignment)textAlignment verticalAlignment:(UIControlContentVerticalAlignment)verticalAlignment lineBreakMode:(UILineBreakMode)lineBreakMode numberOfLines:(NSInteger)numberOfLines next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithCssSelector:forState:minimumFontSize:textAlignment:verticalAlignment:lineBreakMode:numberOfLines:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

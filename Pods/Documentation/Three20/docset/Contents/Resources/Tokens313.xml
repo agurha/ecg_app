@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTWebControllerDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTWebControllerDelegate</TokenIdentifier>
+			<Abstract type="html">The web controller delegate, similar to UIWebViewDelegate, but prefixed with controller</Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>
+			
+			<NodeRef refid="313"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTWebControllerDelegate/webController:webView:shouldStartLoadWithRequest:navigationType:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)webController:(TTWebController *)controller webView:(UIWebView *)webView shouldStartLoadWithRequest:(NSURLRequest *)request navigationType:(UIWebViewNavigationType)navigationType</Declaration>
+			
+			
+			<Anchor>//api/name/webController:webView:shouldStartLoadWithRequest:navigationType:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTWebControllerDelegate/webController:webViewDidStartLoad:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>- (void)webController:(TTWebController *)controller webViewDidStartLoad:(UIWebView *)webView</Declaration>
+			
+			
+			<Anchor>//api/name/webController:webViewDidStartLoad:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTWebControllerDelegate/webController:webViewDidFinishLoad:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>- (void)webController:(TTWebController *)controller webViewDidFinishLoad:(UIWebView *)webView</Declaration>
+			
+			
+			<Anchor>//api/name/webController:webViewDidFinishLoad:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTWebControllerDelegate/webController:webView:didFailLoadWithError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTWebController.h</DeclaredIn>			
+			
+			<Declaration>- (void)webController:(TTWebController *)controller webView:(UIWebView *)webView didFailLoadWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/webController:webView:didFailLoadWithError:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

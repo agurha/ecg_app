@@ -1,0 +1,38 @@
+
+COCOAPODS: 0.16.4
+
+PODS: 
+- JSONKit (1.5pre)
+- Three20 (1.0.11): 
+  - Three20/UI (= 1.0.11)
+- Three20/Core (1.0.11)
+- Three20/Network (1.0.11): 
+  - Three20/Core
+- Three20/Style (1.0.11): 
+  - Three20/Core
+  - Three20/Network
+- Three20/UI (1.0.11): 
+  - Three20/Core
+  - Three20/Network
+  - Three20/Style
+  - Three20/UICommon
+  - Three20/UINavigator
+- Three20/UICommon (1.0.11): 
+  - Three20/Core
+- Three20/UINavigator (1.0.11): 
+  - Three20/Core
+  - Three20/UICommon
+
+DEPENDENCIES: 
+- JSONKit
+- Three20
+
+SPEC CHECKSUMS: 
+  JSONKit: 409734ab3407fce90ef7eaa95d7168f38d9a6601
+  Three20/Core: f242b38f3a54d9f375d8f29fd60a5fecb567f743
+  Three20/Network: f242b38f3a54d9f375d8f29fd60a5fecb567f743
+  Three20: f242b38f3a54d9f375d8f29fd60a5fecb567f743
+  Three20/Style: f242b38f3a54d9f375d8f29fd60a5fecb567f743
+  Three20/UINavigator: f242b38f3a54d9f375d8f29fd60a5fecb567f743
+  Three20/UI: f242b38f3a54d9f375d8f29fd60a5fecb567f743
+  Three20/UICommon: f242b38f3a54d9f375d8f29fd60a5fecb567f743

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableViewDragRefreshDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableViewDragRefreshDelegate</TokenIdentifier>
+			<Abstract type="html">Pulled from the uprise78/three20-P31 fork with consent of uprise78.</Abstract>
+			<DeclaredIn>TTTableViewDragRefreshDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="196"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewDragRefreshDelegate/setHeaderView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDragRefreshDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTableHeaderDragRefreshView *headerView</Declaration>
+			
+			
+			<Anchor>//api/name/headerView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewDragRefreshDelegate/headerView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDragRefreshDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTableHeaderDragRefreshView *headerView</Declaration>
+			
+			
+			<Anchor>//api/name/headerView</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

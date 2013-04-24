@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTUnclippedView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTUnclippedView</TokenIdentifier>
+			<Abstract type="html">A utility view that will cause all of its ancestors to stop clipping, ensuring that
+nothing obscures any of part of this view and its contents.</Abstract>
+			<DeclaredIn>TTUnclippedView.h</DeclaredIn>
+			
+			<NodeRef refid="229"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

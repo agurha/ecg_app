@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyledTextTableCell.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyledTextTableCell</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledTextTableCell.h</DeclaredIn>
+			
+			<NodeRef refid="147"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextTableCell/setLabel:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledTextTableCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTStyledTextLabel *label</Declaration>
+			
+			
+			<Anchor>//api/name/label</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextTableCell/label</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledTextTableCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTStyledTextLabel *label</Declaration>
+			
+			
+			<Anchor>//api/name/label</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

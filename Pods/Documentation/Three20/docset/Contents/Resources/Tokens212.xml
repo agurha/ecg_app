@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTThumbsViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTThumbsViewController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewController.h</DeclaredIn>
+			
+			<NodeRef refid="212"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsViewController/setPhotoSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhotoSource&gt; photoSource</Declaration>
+			
+			
+			<Anchor>//api/name/photoSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTThumbsViewController/photoSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhotoSource&gt; photoSource</Declaration>
+			
+			
+			<Anchor>//api/name/photoSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsViewController/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTThumbsViewControllerDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTThumbsViewController/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTThumbsViewControllerDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsViewController/initWithDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewController.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithDelegate:(id&lt;TTThumbsViewControllerDelegate&gt;)delegate</Declaration>
+			
+			
+			<Anchor>//api/name/initWithDelegate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsViewController/initWithQuery:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewController.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithQuery:(NSDictionary *)query</Declaration>
+			
+			
+			<Anchor>//api/name/initWithQuery:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsViewController/createPhotoViewController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewController.h</DeclaredIn>			
+			
+			<Declaration>- (TTPhotoViewController *)createPhotoViewController</Declaration>
+			
+			
+			<Anchor>//api/name/createPhotoViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsViewController/createDataSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewController.h</DeclaredIn>			
+			
+			<Declaration>- (id&lt;TTTableViewDataSource&gt;)createDataSource</Declaration>
+			
+			
+			<Anchor>//api/name/createDataSource</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

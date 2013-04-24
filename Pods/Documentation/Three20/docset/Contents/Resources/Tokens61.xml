@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTFlowLayout.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTFlowLayout</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFlowLayout.h</DeclaredIn>
+			
+			<NodeRef refid="61"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTFlowLayout/setPadding:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFlowLayout.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat padding</Declaration>
+			
+			
+			<Anchor>//api/name/padding</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTFlowLayout/padding</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFlowLayout.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat padding</Declaration>
+			
+			
+			<Anchor>//api/name/padding</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTFlowLayout/setSpacing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFlowLayout.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat spacing</Declaration>
+			
+			
+			<Anchor>//api/name/spacing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTFlowLayout/spacing</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTFlowLayout.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat spacing</Declaration>
+			
+			
+			<Anchor>//api/name/spacing</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

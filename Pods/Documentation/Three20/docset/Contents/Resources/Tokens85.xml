@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTMessageRecipientField.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTMessageRecipientField</TokenIdentifier>
+			<Abstract type="html">A field for holding recipients, typically found in an address book.
+Distinct values are rendered as individual cells. Once a cell has been
+inserted, it is deleted as a whole.</Abstract>
+			<DeclaredIn>TTMessageRecipientField.h</DeclaredIn>
+			
+			<NodeRef refid="85"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageRecipientField/setRecipients:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMessageRecipientField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSArray *recipients</Declaration>
+			
+			
+			<Anchor>//api/name/recipients</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageRecipientField/recipients</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMessageRecipientField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSArray *recipients</Declaration>
+			
+			
+			<Anchor>//api/name/recipients</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

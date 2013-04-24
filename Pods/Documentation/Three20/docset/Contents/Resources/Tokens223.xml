@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLRequest.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLRequest</TokenIdentifier>
+			<Abstract type="html">The Three20 network request object, built to work with the Three20 cache and co.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>
+			
+			<NodeRef refid="223"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setUrlPath:</TokenIdentifier>
+			<Abstract type="html">The URL path to be loaded by the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/urlPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/urlPath</TokenIdentifier>
+			<Abstract type="html">The URL path to be loaded by the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/urlPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/set__TTDEPRECATED_METHOD:</TokenIdentifier>
+			<Abstract type="html">The URL path to be loaded by the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *__TTDEPRECATED_METHOD</Declaration>
+			
+			
+			<Anchor>//api/name/__TTDEPRECATED_METHOD</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/__TTDEPRECATED_METHOD</TokenIdentifier>
+			<Abstract type="html">The URL path to be loaded by the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *__TTDEPRECATED_METHOD</Declaration>
+			
+			
+			<Anchor>//api/name/__TTDEPRECATED_METHOD</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setHttpMethod:</TokenIdentifier>
+			<Abstract type="html">The HTTP method to send with the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *httpMethod</Declaration>
+			
+			
+			<Anchor>//api/name/httpMethod</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/httpMethod</TokenIdentifier>
+			<Abstract type="html">The HTTP method to send with the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *httpMethod</Declaration>
+			
+			
+			<Anchor>//api/name/httpMethod</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setResponse:</TokenIdentifier>
+			<Abstract type="html">An object that handles the response data and may parse and validate it.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLDataResponse</TokenIdentifier>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLImageResponse</TokenIdentifier>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLXMLResponse</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>@property (nonatomic, retain) id&lt;TTURLResponse&gt; response</Declaration>
+			
+			
+			<Anchor>//api/name/response</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/response</TokenIdentifier>
+			<Abstract type="html">An object that handles the response data and may parse and validate it.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLDataResponse</TokenIdentifier>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLImageResponse</TokenIdentifier>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLXMLResponse</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>@property (nonatomic, retain) id&lt;TTURLResponse&gt; response</Declaration>
+			
+			
+			<Anchor>//api/name/response</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setHttpBody:</TokenIdentifier>
+			<Abstract type="html">The HTTP body to send with the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSData *httpBody</Declaration>
+			
+			
+			<Anchor>//api/name/httpBody</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/httpBody</TokenIdentifier>
+			<Abstract type="html">The HTTP body to send with the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSData *httpBody</Declaration>
+			
+			
+			<Anchor>//api/name/httpBody</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setContentType:</TokenIdentifier>
+			<Abstract type="html">The content type of the data in the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *contentType</Declaration>
+			
+			
+			<Anchor>//api/name/contentType</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/contentType</TokenIdentifier>
+			<Abstract type="html">The content type of the data in the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *contentType</Declaration>
+			
+			
+			<Anchor>//api/name/contentType</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setParameters:</TokenIdentifier>
+			<Abstract type="html">Parameters to use for an HTTP POST/PUT.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSMutableDictionary *parameters</Declaration>
+			
+			
+			<Anchor>//api/name/parameters</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/parameters</TokenIdentifier>
+			<Abstract type="html">Parameters to use for an HTTP POST/PUT.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSMutableDictionary *parameters</Declaration>
+			
+			
+			<Anchor>//api/name/parameters</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setHeaders:</TokenIdentifier>
+			<Abstract type="html">Custom HTTP headers.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSMutableDictionary *headers</Declaration>
+			
+			
+			<Anchor>//api/name/headers</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/headers</TokenIdentifier>
+			<Abstract type="html">Custom HTTP headers.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSMutableDictionary *headers</Declaration>
+			
+			
+			<Anchor>//api/name/headers</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setCachePolicy:</TokenIdentifier>
+			<Abstract type="html">@default TTURLRequestCachePolicyDefault</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) TTURLRequestCachePolicy cachePolicy</Declaration>
+			
+			
+			<Anchor>//api/name/cachePolicy</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/cachePolicy</TokenIdentifier>
+			<Abstract type="html">@default TTURLRequestCachePolicyDefault</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) TTURLRequestCachePolicy cachePolicy</Declaration>
+			
+			
+			<Anchor>//api/name/cachePolicy</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setCacheExpirationAge:</TokenIdentifier>
+			<Abstract type="html">The maximum age of cached data that can be used as a response.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSTimeInterval cacheExpirationAge</Declaration>
+			
+			
+			<Anchor>//api/name/cacheExpirationAge</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/cacheExpirationAge</TokenIdentifier>
+			<Abstract type="html">The maximum age of cached data that can be used as a response.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSTimeInterval cacheExpirationAge</Declaration>
+			
+			
+			<Anchor>//api/name/cacheExpirationAge</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setCacheKey:</TokenIdentifier>
+			<Abstract type="html">If no cache key is provided, a unique key is generated from the request data. If the request
+is a POST/PUT request, then the POST/PUT parameters are also used to generate the cache key.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *cacheKey</Declaration>
+			
+			
+			<Anchor>//api/name/cacheKey</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/cacheKey</TokenIdentifier>
+			<Abstract type="html">If no cache key is provided, a unique key is generated from the request data. If the request
+is a POST/PUT request, then the POST/PUT parameters are also used to generate the cache key.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *cacheKey</Declaration>
+			
+			
+			<Anchor>//api/name/cacheKey</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setUserInfo:</TokenIdentifier>
+			<Abstract type="html">A dummy object used to uniquely identify this request object once it&apos;s been sent into the fray.
+Generally TTUserInfo objects are used here.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTUserInfo</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>@property (nonatomic, retain) id userInfo</Declaration>
+			
+			
+			<Anchor>//api/name/userInfo</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/userInfo</TokenIdentifier>
+			<Abstract type="html">A dummy object used to uniquely identify this request object once it&apos;s been sent into the fray.
+Generally TTUserInfo objects are used here.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTUserInfo</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>@property (nonatomic, retain) id userInfo</Declaration>
+			
+			
+			<Anchor>//api/name/userInfo</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setTimestamp:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSDate *timestamp</Declaration>
+			
+			
+			<Anchor>//api/name/timestamp</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/timestamp</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSDate *timestamp</Declaration>
+			
+			
+			<Anchor>//api/name/timestamp</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setIsLoading:</TokenIdentifier>
+			<Abstract type="html">Whether or not the request is currently active.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL isLoading</Declaration>
+			
+			
+			<Anchor>//api/name/isLoading</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/isLoading</TokenIdentifier>
+			<Abstract type="html">Whether or not the request is currently active.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL isLoading</Declaration>
+			
+			
+			<Anchor>//api/name/isLoading</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setShouldHandleCookies:</TokenIdentifier>
+			<Abstract type="html">Decide whether default cookie handling will happen for this request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL shouldHandleCookies</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>YES</Name>
+					<Abstract type="html">if cookies should be sent with and set for this request;
+otherwise NO.
+@discussion The default is YES - in other words, cookies are sent from and
+stored to the cookie manager by default.
+
+@default YES</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/shouldHandleCookies</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/shouldHandleCookies</TokenIdentifier>
+			<Abstract type="html">Decide whether default cookie handling will happen for this request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL shouldHandleCookies</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>YES</Name>
+					<Abstract type="html">if cookies should be sent with and set for this request;
+otherwise NO.
+@discussion The default is YES - in other words, cookies are sent from and
+stored to the cookie manager by default.
+
+@default YES</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/shouldHandleCookies</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setTotalBytesLoaded:</TokenIdentifier>
+			<Abstract type="html">The number of request body bytes already uploaded by this request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger totalBytesLoaded</Declaration>
+			
+			
+			<Anchor>//api/name/totalBytesLoaded</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/totalBytesLoaded</TokenIdentifier>
+			<Abstract type="html">The number of request body bytes already uploaded by this request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger totalBytesLoaded</Declaration>
+			
+			
+			<Anchor>//api/name/totalBytesLoaded</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setTotalBytesExpected:</TokenIdentifier>
+			<Abstract type="html">The total number of request body bytes expected to be uploaded for this request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger totalBytesExpected</Declaration>
+			
+			
+			<Anchor>//api/name/totalBytesExpected</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/totalBytesExpected</TokenIdentifier>
+			<Abstract type="html">The total number of request body bytes expected to be uploaded for this request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger totalBytesExpected</Declaration>
+			
+			
+			<Anchor>//api/name/totalBytesExpected</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setTotalBytesDownloaded:</TokenIdentifier>
+			<Abstract type="html">The number of downloaded bytes from server.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger totalBytesDownloaded</Declaration>
+			
+			
+			<Anchor>//api/name/totalBytesDownloaded</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/totalBytesDownloaded</TokenIdentifier>
+			<Abstract type="html">The number of downloaded bytes from server.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger totalBytesDownloaded</Declaration>
+			
+			
+			<Anchor>//api/name/totalBytesDownloaded</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setTotalContentLength:</TokenIdentifier>
+			<Abstract type="html">The number of content length of request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger totalContentLength</Declaration>
+			
+			
+			<Anchor>//api/name/totalContentLength</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/totalContentLength</TokenIdentifier>
+			<Abstract type="html">The number of content length of request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger totalContentLength</Declaration>
+			
+			
+			<Anchor>//api/name/totalContentLength</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setTimeoutInterval:</TokenIdentifier>
+			<Abstract type="html">The timeout to use for the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLRequestQueue</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>@property (nonatomic) NSTimeInterval timeoutInterval</Declaration>
+			
+			
+			<Anchor>//api/name/timeoutInterval</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/timeoutInterval</TokenIdentifier>
+			<Abstract type="html">The timeout to use for the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLRequestQueue</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>@property (nonatomic) NSTimeInterval timeoutInterval</Declaration>
+			
+			
+			<Anchor>//api/name/timeoutInterval</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setRespondedFromCache:</TokenIdentifier>
+			<Abstract type="html">Whether or not the request was loaded from the cache.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL respondedFromCache</Declaration>
+			
+			
+			<Anchor>//api/name/respondedFromCache</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/respondedFromCache</TokenIdentifier>
+			<Abstract type="html">Whether or not the request was loaded from the cache.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL respondedFromCache</Declaration>
+			
+			
+			<Anchor>//api/name/respondedFromCache</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setFilterPasswordLogging:</TokenIdentifier>
+			<Abstract type="html">Whether parameters named &quot;password&quot; should be suppressed in log messages.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL filterPasswordLogging</Declaration>
+			
+			
+			<Anchor>//api/name/filterPasswordLogging</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/filterPasswordLogging</TokenIdentifier>
+			<Abstract type="html">Whether parameters named &quot;password&quot; should be suppressed in log messages.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL filterPasswordLogging</Declaration>
+			
+			
+			<Anchor>//api/name/filterPasswordLogging</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setCharsetForMultipart:</TokenIdentifier>
+			<Abstract type="html">Charset to use when creating multipart/form-data data.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSStringEncoding charsetForMultipart</Declaration>
+			
+			
+			<Anchor>//api/name/charsetForMultipart</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/charsetForMultipart</TokenIdentifier>
+			<Abstract type="html">Charset to use when creating multipart/form-data data.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSStringEncoding charsetForMultipart</Declaration>
+			
+			
+			<Anchor>//api/name/charsetForMultipart</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setDelegates:</TokenIdentifier>
+			<Abstract type="html">An array of non-retained objects that receive messages about the progress of the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSMutableArray *delegates</Declaration>
+			
+			
+			<Anchor>//api/name/delegates</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/delegates</TokenIdentifier>
+			<Abstract type="html">An array of non-retained objects that receive messages about the progress of the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSMutableArray *delegates</Declaration>
+			
+			
+			<Anchor>//api/name/delegates</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setMultiPartForm:</TokenIdentifier>
+			<Abstract type="html">Determine whether to construct a multipart form or to instead encode the http body as the W3C default
+of application/x-www-form-urlencoded</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL multiPartForm</Declaration>
+			
+			
+			<Anchor>//api/name/multiPartForm</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequest/multiPartForm</TokenIdentifier>
+			<Abstract type="html">Determine whether to construct a multipart form or to instead encode the http body as the W3C default
+of application/x-www-form-urlencoded</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL multiPartForm</Declaration>
+			
+			
+			<Anchor>//api/name/multiPartForm</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTURLRequest/request</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>+ (TTURLRequest *)request</Declaration>
+			
+			
+			<Anchor>//api/name/request</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTURLRequest/requestWithURL:delegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>+ (TTURLRequest *)requestWithURL:(NSString *)URL delegate:(id)delegate</Declaration>
+			
+			
+			<Anchor>//api/name/requestWithURL:delegate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/initWithURL:delegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithURL:(NSString *)URL delegate:(id)delegate</Declaration>
+			
+			
+			<Anchor>//api/name/initWithURL:delegate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/setValue:forHTTPHeaderField:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>- (void)setValue:(NSString *)value forHTTPHeaderField:(NSString *)field</Declaration>
+			
+			
+			<Anchor>//api/name/setValue:forHTTPHeaderField:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/addFile:mimeType:fileName:</TokenIdentifier>
+			<Abstract type="html">Add a file whose data will be posted.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>- (void)addFile:(NSData *)data mimeType:(NSString *)mimeType fileName:(NSString *)fileName</Declaration>
+			
+			
+			<Anchor>//api/name/addFile:mimeType:fileName:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/send</TokenIdentifier>
+			<Abstract type="html">Attempt to send a request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)send</Declaration>
+			
+			<ReturnValue><Abstract type="html">YES if the request was loaded synchronously from the cache.</Abstract></ReturnValue>
+			<Anchor>//api/name/send</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/sendSynchronously</TokenIdentifier>
+			<Abstract type="html">Attempt to send a synchronous request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)sendSynchronously</Declaration>
+			
+			<ReturnValue><Abstract type="html">YES if the request was loaded from the cache.</Abstract></ReturnValue>
+			<Anchor>//api/name/sendSynchronously</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/cancel</TokenIdentifier>
+			<Abstract type="html">Cancel the request.</Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancel</Declaration>
+			
+			
+			<Anchor>//api/name/cancel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequest/createNSURLRequest</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequest.h</DeclaredIn>			
+			
+			<Declaration>- (NSURLRequest *)createNSURLRequest</Declaration>
+			
+			
+			<Anchor>//api/name/createNSURLRequest</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

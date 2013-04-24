@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTNavigatorViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTNavigatorViewController</TokenIdentifier>
+			<Abstract type="html">Cleans up navigator properties when the controller is released. Used by the garbage
+collector found in UICommon&apos;s UIViewControllerAdditions.m.</Abstract>
+			<DeclaredIn>TTNavigatorViewController.h</DeclaredIn>
+			
+			<NodeRef refid="92"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTView</TokenIdentifier>
+			<Abstract type="html">A UIView with an attached style and layout that are used to render and
+layout the view, respectively. Style and layout are optional.</Abstract>
+			<DeclaredIn>TTView.h</DeclaredIn>
+			
+			<NodeRef refid="231"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTView/setStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *style</Declaration>
+			
+			
+			<Anchor>//api/name/style</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTView/style</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *style</Declaration>
+			
+			
+			<Anchor>//api/name/style</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTView/setLayout:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTLayout *layout</Declaration>
+			
+			
+			<Anchor>//api/name/layout</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTView/layout</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTLayout *layout</Declaration>
+			
+			
+			<Anchor>//api/name/layout</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTView/drawContent:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTView.h</DeclaredIn>			
+			
+			<Declaration>- (void)drawContent:(CGRect)rect</Declaration>
+			
+			
+			<Anchor>//api/name/drawContent:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

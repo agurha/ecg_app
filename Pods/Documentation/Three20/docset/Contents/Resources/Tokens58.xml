@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTExtensionInfoController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTExtensionInfoController</TokenIdentifier>
+			<Abstract type="html">Display information about a specific extension.</Abstract>
+			<DeclaredIn>TTExtensionInfoController.h</DeclaredIn>
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTExtensionInfo</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<NodeRef refid="58"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

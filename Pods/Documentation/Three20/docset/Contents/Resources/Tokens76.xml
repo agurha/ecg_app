@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTLayout.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTLayout</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLayout.h</DeclaredIn>
+			
+			<NodeRef refid="76"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLayout/layoutSubviews:forView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLayout.h</DeclaredIn>			
+			
+			<Declaration>- (CGSize)layoutSubviews:(NSArray *)subviews forView:(UIView *)view</Declaration>
+			
+			
+			<Anchor>//api/name/layoutSubviews:forView:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

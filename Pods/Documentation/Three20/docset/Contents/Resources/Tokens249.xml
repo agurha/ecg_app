@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSMutableDictionary+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSMutableDictionary(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>NSMutableDictionaryAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="249"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSMutableDictionary(TTCategory)/setNonEmptyString:forKey:</TokenIdentifier>
+			<Abstract type="html">Adds a string on the condition that it&apos;s non-nil and non-empty.</Abstract>
+			<DeclaredIn>NSMutableDictionaryAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)setNonEmptyString:(NSString *)string forKey:(id)key</Declaration>
+			
+			
+			<Anchor>//api/name/setNonEmptyString:forKey:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

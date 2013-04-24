@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyledTextFrame.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyledTextFrame</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledTextFrame.h</DeclaredIn>
+			
+			<NodeRef refid="143"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextFrame/setNode:</TokenIdentifier>
+			<Abstract type="html">The node represented by the frame.</Abstract>
+			<DeclaredIn>TTStyledTextFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTStyledTextNode *node</Declaration>
+			
+			
+			<Anchor>//api/name/node</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextFrame/node</TokenIdentifier>
+			<Abstract type="html">The node represented by the frame.</Abstract>
+			<DeclaredIn>TTStyledTextFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTStyledTextNode *node</Declaration>
+			
+			
+			<Anchor>//api/name/node</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextFrame/setText:</TokenIdentifier>
+			<Abstract type="html">The text that is displayed by this frame.</Abstract>
+			<DeclaredIn>TTStyledTextFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextFrame/text</TokenIdentifier>
+			<Abstract type="html">The text that is displayed by this frame.</Abstract>
+			<DeclaredIn>TTStyledTextFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextFrame/setFont:</TokenIdentifier>
+			<Abstract type="html">The font that is used to measure and display the text of this frame.</Abstract>
+			<DeclaredIn>TTStyledTextFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledTextFrame/font</TokenIdentifier>
+			<Abstract type="html">The font that is used to measure and display the text of this frame.</Abstract>
+			<DeclaredIn>TTStyledTextFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledTextFrame/initWithText:element:node:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledTextFrame.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithText:(NSString *)text element:(TTStyledElement *)element node:(TTStyledTextNode *)node</Declaration>
+			
+			
+			<Anchor>//api/name/initWithText:element:node:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

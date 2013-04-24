@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTabBar.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTabBar</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>
+			
+			<NodeRef refid="150"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/setTabStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *tabStyle</Declaration>
+			
+			
+			<Anchor>//api/name/tabStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTabBar/tabStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *tabStyle</Declaration>
+			
+			
+			<Anchor>//api/name/tabStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/setSelectedTabItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) TTTabItem *selectedTabItem</Declaration>
+			
+			
+			<Anchor>//api/name/selectedTabItem</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTabBar/selectedTabItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) TTTabItem *selectedTabItem</Declaration>
+			
+			
+			<Anchor>//api/name/selectedTabItem</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/setSelectedTabView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) TTTab *selectedTabView</Declaration>
+			
+			
+			<Anchor>//api/name/selectedTabView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTabBar/selectedTabView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) TTTab *selectedTabView</Declaration>
+			
+			
+			<Anchor>//api/name/selectedTabView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/setSelectedTabIndex:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger selectedTabIndex</Declaration>
+			
+			
+			<Anchor>//api/name/selectedTabIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTabBar/selectedTabIndex</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger selectedTabIndex</Declaration>
+			
+			
+			<Anchor>//api/name/selectedTabIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/setTabItems:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSArray *tabItems</Declaration>
+			
+			
+			<Anchor>//api/name/tabItems</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTabBar/tabItems</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSArray *tabItems</Declaration>
+			
+			
+			<Anchor>//api/name/tabItems</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/setTabViews:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *tabViews</Declaration>
+			
+			
+			<Anchor>//api/name/tabViews</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTabBar/tabViews</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *tabViews</Declaration>
+			
+			
+			<Anchor>//api/name/tabViews</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTTabDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTabBar/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTTabDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/initWithFrame:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithFrame:(CGRect)frame</Declaration>
+			
+			
+			<Anchor>//api/name/initWithFrame:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/showTabAtIndex:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>- (void)showTabAtIndex:(NSInteger)tabIndex</Declaration>
+			
+			
+			<Anchor>//api/name/showTabAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/hideTabAtIndex:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBar.h</DeclaredIn>			
+			
+			<Declaration>- (void)hideTabAtIndex:(NSInteger)tabIndex</Declaration>
+			
+			
+			<Anchor>//api/name/hideTabAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTabBar/layoutTabs</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTabBarInternal.h</DeclaredIn>			
+			
+			<Declaration>- (CGSize)layoutTabs</Declaration>
+			
+			
+			<Anchor>//api/name/layoutTabs</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

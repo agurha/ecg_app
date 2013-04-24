@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTLauncherScrollView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTLauncherScrollView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherScrollView.h</DeclaredIn>
+			
+			<NodeRef refid="74"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

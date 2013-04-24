@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLImageResponse.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLImageResponse</TokenIdentifier>
+			<Abstract type="html">An implementation of the TTURLResponse protocal for UIImage objects.</Abstract>
+			<DeclaredIn>TTURLImageResponse.h</DeclaredIn>
+			
+			<NodeRef refid="217"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLImageResponse/setImage:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLImageResponse.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIImage *image</Declaration>
+			
+			
+			<Anchor>//api/name/image</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLImageResponse/image</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLImageResponse.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIImage *image</Declaration>
+			
+			
+			<Anchor>//api/name/image</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

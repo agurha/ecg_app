@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTActionSheetControllerDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTActionSheetControllerDelegate</TokenIdentifier>
+			<Abstract type="html">Inherits the UIActionSheetDelegate protocol and adds TTNavigator support.</Abstract>
+			<DeclaredIn>TTActionSheetControllerDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="280"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTActionSheetControllerDelegate/actionSheetController:didDismissWithButtonIndex:URL:</TokenIdentifier>
+			<Abstract type="html">Sent to the delegate after an action sheet is dismissed from the screen.</Abstract>
+			<DeclaredIn>TTActionSheetControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)actionSheetController:(TTActionSheetController *)controller didDismissWithButtonIndex:(NSInteger)buttonIndex URL:(NSString *)URL</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>controller</Name>
+					<Abstract type="html">The controller that was dismissed.</Abstract>
+				</Parameter><Parameter>
+					<Name>buttonIndex</Name>
+					<Abstract type="html">The index of the button that was clicked. The button indices start at 0. If
+this is the cancel button index, the action sheet is canceling. If -1, the
+cancel button index is not set.</Abstract>
+				</Parameter><Parameter>
+					<Name>URL</Name>
+					<Abstract type="html">The URL of the selected button.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">YES to open the given URL with TTOpenURL.</Abstract></ReturnValue>
+			<Anchor>//api/name/actionSheetController:didDismissWithButtonIndex:URL:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

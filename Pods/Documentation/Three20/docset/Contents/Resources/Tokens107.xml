@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTRoundedRectangleShape.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTRoundedRectangleShape</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>
+			
+			<NodeRef refid="107"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRoundedRectangleShape/setTopLeftRadius:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat topLeftRadius</Declaration>
+			
+			
+			<Anchor>//api/name/topLeftRadius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRoundedRectangleShape/topLeftRadius</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat topLeftRadius</Declaration>
+			
+			
+			<Anchor>//api/name/topLeftRadius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRoundedRectangleShape/setTopRightRadius:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat topRightRadius</Declaration>
+			
+			
+			<Anchor>//api/name/topRightRadius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRoundedRectangleShape/topRightRadius</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat topRightRadius</Declaration>
+			
+			
+			<Anchor>//api/name/topRightRadius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRoundedRectangleShape/setBottomRightRadius:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat bottomRightRadius</Declaration>
+			
+			
+			<Anchor>//api/name/bottomRightRadius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRoundedRectangleShape/bottomRightRadius</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat bottomRightRadius</Declaration>
+			
+			
+			<Anchor>//api/name/bottomRightRadius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRoundedRectangleShape/setBottomLeftRadius:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat bottomLeftRadius</Declaration>
+			
+			
+			<Anchor>//api/name/bottomLeftRadius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRoundedRectangleShape/bottomLeftRadius</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat bottomLeftRadius</Declaration>
+			
+			
+			<Anchor>//api/name/bottomLeftRadius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTRoundedRectangleShape/shapeWithRadius:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>			
+			
+			<Declaration>+ (TTRoundedRectangleShape *)shapeWithRadius:(CGFloat)radius</Declaration>
+			
+			
+			<Anchor>//api/name/shapeWithRadius:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTRoundedRectangleShape/shapeWithTopLeft:topRight:bottomRight:bottomLeft:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRoundedRectangleShape.h</DeclaredIn>			
+			
+			<Declaration>+ (TTRoundedRectangleShape *)shapeWithTopLeft:(CGFloat)topLeft topRight:(CGFloat)topRight bottomRight:(CGFloat)bottomRight bottomLeft:(CGFloat)bottomLeft</Declaration>
+			
+			
+			<Anchor>//api/name/shapeWithTopLeft:topRight:bottomRight:bottomLeft:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableRightCaptionItem.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableRightCaptionItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableRightCaptionItem.h</DeclaredIn>
+			
+			<NodeRef refid="177"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

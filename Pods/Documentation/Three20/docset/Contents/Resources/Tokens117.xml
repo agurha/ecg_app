@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTShape.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTShape</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShape.h</DeclaredIn>
+			
+			<NodeRef refid="117"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShape/openPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShape.h</DeclaredIn>			
+			
+			<Declaration>- (void)openPath:(CGRect)rect</Declaration>
+			
+			
+			<Anchor>//api/name/openPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShape/closePath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShape.h</DeclaredIn>			
+			
+			<Declaration>- (void)closePath:(CGRect)rect</Declaration>
+			
+			
+			<Anchor>//api/name/closePath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShape/addTopEdgeToPath:lightSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShape.h</DeclaredIn>			
+			
+			<Declaration>- (void)addTopEdgeToPath:(CGRect)rect lightSource:(NSInteger)lightSource</Declaration>
+			
+			
+			<Anchor>//api/name/addTopEdgeToPath:lightSource:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShape/addRightEdgeToPath:lightSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShape.h</DeclaredIn>			
+			
+			<Declaration>- (void)addRightEdgeToPath:(CGRect)rect lightSource:(NSInteger)lightSource</Declaration>
+			
+			
+			<Anchor>//api/name/addRightEdgeToPath:lightSource:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShape/addBottomEdgeToPath:lightSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShape.h</DeclaredIn>			
+			
+			<Declaration>- (void)addBottomEdgeToPath:(CGRect)rect lightSource:(NSInteger)lightSource</Declaration>
+			
+			
+			<Anchor>//api/name/addBottomEdgeToPath:lightSource:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShape/addLeftEdgeToPath:lightSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShape.h</DeclaredIn>			
+			
+			<Declaration>- (void)addLeftEdgeToPath:(CGRect)rect lightSource:(NSInteger)lightSource</Declaration>
+			
+			
+			<Anchor>//api/name/addLeftEdgeToPath:lightSource:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShape/addToPath:</TokenIdentifier>
+			<Abstract type="html">Opens the path, adds all edges, and closes the path.</Abstract>
+			<DeclaredIn>TTShape.h</DeclaredIn>			
+			
+			<Declaration>- (void)addToPath:(CGRect)rect</Declaration>
+			
+			
+			<Anchor>//api/name/addToPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShape/addInverseToPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShape.h</DeclaredIn>			
+			
+			<Declaration>- (void)addInverseToPath:(CGRect)rect</Declaration>
+			
+			
+			<Anchor>//api/name/addInverseToPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShape/insetsForSize:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShape.h</DeclaredIn>			
+			
+			<Declaration>- (UIEdgeInsets)insetsForSize:(CGSize)size</Declaration>
+			
+			
+			<Anchor>//api/name/insetsForSize:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTTextEditorDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTTextEditorDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="306"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextEditorDelegate/textEditorShouldBeginEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)textEditorShouldBeginEditing:(TTTextEditor *)textEditor</Declaration>
+			
+			
+			<Anchor>//api/name/textEditorShouldBeginEditing:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextEditorDelegate/textEditorShouldEndEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)textEditorShouldEndEditing:(TTTextEditor *)textEditor</Declaration>
+			
+			
+			<Anchor>//api/name/textEditorShouldEndEditing:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextEditorDelegate/textEditorDidBeginEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)textEditorDidBeginEditing:(TTTextEditor *)textEditor</Declaration>
+			
+			
+			<Anchor>//api/name/textEditorDidBeginEditing:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextEditorDelegate/textEditorDidEndEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)textEditorDidEndEditing:(TTTextEditor *)textEditor</Declaration>
+			
+			
+			<Anchor>//api/name/textEditorDidEndEditing:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextEditorDelegate/textEditor:shouldChangeTextInRange:replacementText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)textEditor:(TTTextEditor *)textEditor shouldChangeTextInRange:(NSRange)range replacementText:(NSString *)replacementText</Declaration>
+			
+			
+			<Anchor>//api/name/textEditor:shouldChangeTextInRange:replacementText:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextEditorDelegate/textEditorDidChange:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)textEditorDidChange:(TTTextEditor *)textEditor</Declaration>
+			
+			
+			<Anchor>//api/name/textEditorDidChange:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextEditorDelegate/textEditor:shouldResizeBy:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)textEditor:(TTTextEditor *)textEditor shouldResizeBy:(CGFloat)height</Declaration>
+			
+			
+			<Anchor>//api/name/textEditor:shouldResizeBy:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTTextEditorDelegate/textEditorShouldReturn:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextEditorDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)textEditorShouldReturn:(TTTextEditor *)textEditor</Declaration>
+			
+			
+			<Anchor>//api/name/textEditorShouldReturn:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

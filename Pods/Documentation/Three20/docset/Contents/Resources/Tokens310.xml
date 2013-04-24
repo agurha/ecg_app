@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTURLPatternText.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTURLPatternText</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPatternText.h</DeclaredIn>
+			
+			<NodeRef refid="310"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLPatternText/match:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPatternText.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)match:(NSString *)text</Declaration>
+			
+			
+			<Anchor>//api/name/match:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLPatternText/convertPropertyOfObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLPatternText.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)convertPropertyOfObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/convertPropertyOfObject:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

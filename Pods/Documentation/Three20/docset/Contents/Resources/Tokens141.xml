@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyledNode.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyledNode</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>
+			
+			<NodeRef refid="141"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledNode/setNextSibling:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledNode *nextSibling</Declaration>
+			
+			
+			<Anchor>//api/name/nextSibling</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledNode/nextSibling</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledNode *nextSibling</Declaration>
+			
+			
+			<Anchor>//api/name/nextSibling</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledNode/setParentNode:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) TTStyledNode *parentNode</Declaration>
+			
+			
+			<Anchor>//api/name/parentNode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledNode/parentNode</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) TTStyledNode *parentNode</Declaration>
+			
+			
+			<Anchor>//api/name/parentNode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledNode/setOuterText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *outerText</Declaration>
+			
+			
+			<Anchor>//api/name/outerText</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledNode/outerText</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *outerText</Declaration>
+			
+			
+			<Anchor>//api/name/outerText</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledNode/setOuterHTML:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *outerHTML</Declaration>
+			
+			
+			<Anchor>//api/name/outerHTML</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledNode/outerHTML</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *outerHTML</Declaration>
+			
+			
+			<Anchor>//api/name/outerHTML</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledNode/initWithNextSibling:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithNextSibling:(TTStyledNode *)nextSibling</Declaration>
+			
+			
+			<Anchor>//api/name/initWithNextSibling:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledNode/ancestorOrSelfWithClass:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>- (id)ancestorOrSelfWithClass:(Class)cls</Declaration>
+			
+			
+			<Anchor>//api/name/ancestorOrSelfWithClass:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledNode/performDefaultAction</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNode.h</DeclaredIn>			
+			
+			<Declaration>- (void)performDefaultAction</Declaration>
+			
+			
+			<Anchor>//api/name/performDefaultAction</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledNode/findLastSibling:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledNodeInternal.h</DeclaredIn>			
+			
+			<Declaration>- (TTStyledNode *)findLastSibling:(TTStyledNode *)sibling</Declaration>
+			
+			
+			<Anchor>//api/name/findLastSibling:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

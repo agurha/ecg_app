@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTPopupViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTPopupViewController</TokenIdentifier>
+			<Abstract type="html">A view controller which, when displayed modally, inserts its view over the parent controller.</Abstract>
+			<DeclaredIn>TTPopupViewController.h</DeclaredIn>
+			
+			<NodeRef refid="100"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPopupViewController/showInView:animated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPopupViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)showInView:(UIView *)view animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/showInView:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPopupViewController/dismissPopupViewControllerAnimated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPopupViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)dismissPopupViewControllerAnimated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/dismissPopupViewControllerAnimated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPopupViewController/showFromBarButtonItem:animated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPopupViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)showFromBarButtonItem:(UIBarButtonItem *)item animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/showFromBarButtonItem:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPopupViewController/showFromRect:inView:animated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPopupViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)showFromRect:(CGRect)rect inView:(UIView *)view animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/showFromRect:inView:animated:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

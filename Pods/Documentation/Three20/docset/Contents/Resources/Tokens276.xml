@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UIWindow+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UIWindow(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIWindowAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="276"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIWindow(TTCategory)/findFirstResponder</TokenIdentifier>
+			<Abstract type="html">Searches the view hierarchy recursively for the first responder, starting with this window.</Abstract>
+			<DeclaredIn>UIWindowAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIView *)findFirstResponder</Declaration>
+			
+			
+			<Anchor>//api/name/findFirstResponder</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIWindow(TTCategory)/findFirstResponderInView:</TokenIdentifier>
+			<Abstract type="html">Searches the view hierarchy recursively for the first responder, starting with topView.</Abstract>
+			<DeclaredIn>UIWindowAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIView *)findFirstResponderInView:(UIView *)topView</Declaration>
+			
+			
+			<Anchor>//api/name/findFirstResponderInView:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

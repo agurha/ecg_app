@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTLauncherViewDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTLauncherViewDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherViewDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="285"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTLauncherViewDelegate/launcherView:didAddItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)launcherView:(TTLauncherView *)launcher didAddItem:(TTLauncherItem *)item</Declaration>
+			
+			
+			<Anchor>//api/name/launcherView:didAddItem:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTLauncherViewDelegate/launcherView:didRemoveItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)launcherView:(TTLauncherView *)launcher didRemoveItem:(TTLauncherItem *)item</Declaration>
+			
+			
+			<Anchor>//api/name/launcherView:didRemoveItem:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTLauncherViewDelegate/launcherView:didMoveItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)launcherView:(TTLauncherView *)launcher didMoveItem:(TTLauncherItem *)item</Declaration>
+			
+			
+			<Anchor>//api/name/launcherView:didMoveItem:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTLauncherViewDelegate/launcherView:didSelectItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)launcherView:(TTLauncherView *)launcher didSelectItem:(TTLauncherItem *)item</Declaration>
+			
+			
+			<Anchor>//api/name/launcherView:didSelectItem:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTLauncherViewDelegate/launcherViewDidEndDragging:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)launcherViewDidEndDragging:(TTLauncherView *)launcher</Declaration>
+			
+			
+			<Anchor>//api/name/launcherViewDidEndDragging:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTLauncherViewDelegate/launcherViewDidBeginEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)launcherViewDidBeginEditing:(TTLauncherView *)launcher</Declaration>
+			
+			
+			<Anchor>//api/name/launcherViewDidBeginEditing:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTLauncherViewDelegate/launcherViewDidEndEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)launcherViewDidEndEditing:(TTLauncherView *)launcher</Declaration>
+			
+			
+			<Anchor>//api/name/launcherViewDidEndEditing:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

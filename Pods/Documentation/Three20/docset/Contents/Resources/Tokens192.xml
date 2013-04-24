@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableViewCell.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableViewCell</TokenIdentifier>
+			<Abstract type="html">The base class for table cells which are singleobject based.</Abstract>
+			<DeclaredIn>TTTableViewCell.h</DeclaredIn>
+			
+			<NodeRef refid="192"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewCell/setObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id object</Declaration>
+			
+			
+			<Anchor>//api/name/object</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewCell/object</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id object</Declaration>
+			
+			
+			<Anchor>//api/name/object</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableViewCell/tableView:rowHeightForObject:</TokenIdentifier>
+			<Abstract type="html">Measure the height of the row with the object that will be assigned to the cell.</Abstract>
+			<DeclaredIn>TTTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>+ (CGFloat)tableView:(UITableView *)tableView rowHeightForObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/tableView:rowHeightForObject:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

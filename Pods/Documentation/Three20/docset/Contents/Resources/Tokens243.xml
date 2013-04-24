@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSBundle+YAJL.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSBundle(YAJL)</TokenIdentifier>
+			<Abstract type="html">Utilities for loading JSON from resource bundles.</Abstract>
+			<DeclaredIn>NSBundle+YAJL.h</DeclaredIn>
+			
+			<NodeRef refid="243"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSBundle(YAJL)/yajl_JSONFromResource:</TokenIdentifier>
+			<Abstract type="html">Load JSON from bundle.</Abstract>
+			<DeclaredIn>NSBundle+YAJL.h</DeclaredIn>			
+			
+			<Declaration>- (id)yajl_JSONFromResource:(NSString *)resource</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>resource</Name>
+					<Abstract type="html">Resource name with extension, for example, file.json
+@throws YAJLParserException On parse error</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/yajl_JSONFromResource:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSBundle(YAJL)/yajl_JSONFromResource:options:error:</TokenIdentifier>
+			<Abstract type="html">Load JSON from bundle.</Abstract>
+			<DeclaredIn>NSBundle+YAJL.h</DeclaredIn>			
+			
+			<Declaration>- (id)yajl_JSONFromResource:(NSString *)resource options:(YAJLParserOptions)options error:(NSError **)error</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>resource</Name>
+					<Abstract type="html">Resource name with extension, for example, file.json</Abstract>
+				</Parameter><Parameter>
+					<Name>options</Name>
+					<Abstract type="html">Parser options
+  - YAJLParserOptionsNone: No options
+  - YAJLParserOptionsAllowComments: Javascript style comments will be allowed in the input (both /&amp;amp;asterisk; &amp;amp;asterisk;/ and //)
+  - YAJLParserOptionsCheckUTF8: Invalid UTF8 strings will cause a parse error
+  - YAJLParserOptionsStrictPrecision: If YES will force strict precision and return integer overflow error</Abstract>
+				</Parameter><Parameter>
+					<Name>error</Name>
+					<Abstract type="html">Out error</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">JSON value (NSArray, NSDictionary) or nil if errored</Abstract></ReturnValue>
+			<Anchor>//api/name/yajl_JSONFromResource:options:error:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTNavigator.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTNavigator</TokenIdentifier>
+			<Abstract type="html">A URL-based navigation system with built-in persistence.
+Add support for model-based controllers and implement the legacy global instance accessor.</Abstract>
+			<DeclaredIn>TTNavigator.h</DeclaredIn>
+			
+			<NodeRef refid="91"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTNavigator/navigator</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTNavigator.h</DeclaredIn>			
+			
+			<Declaration>+ (TTNavigator *)navigator</Declaration>
+			
+			
+			<Anchor>//api/name/navigator</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTNavigator/reload</TokenIdentifier>
+			<Abstract type="html">Reloads the content in the visible view controller.</Abstract>
+			<DeclaredIn>TTNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (void)reload</Declaration>
+			
+			
+			<Anchor>//api/name/reload</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTPhoto.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTPhoto</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhoto.h</DeclaredIn>
+			
+			<NodeRef refid="291"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPhoto/setPhotoSource:</TokenIdentifier>
+			<Abstract type="html">The photo source that the photo belongs to.</Abstract>
+			<DeclaredIn>TTPhoto.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTPhotoSource&gt; photoSource</Declaration>
+			
+			
+			<Anchor>//api/name/photoSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/TTPhoto/photoSource</TokenIdentifier>
+			<Abstract type="html">The photo source that the photo belongs to.</Abstract>
+			<DeclaredIn>TTPhoto.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTPhotoSource&gt; photoSource</Declaration>
+			
+			
+			<Anchor>//api/name/photoSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPhoto/setSize:</TokenIdentifier>
+			<Abstract type="html">The size of the photo.</Abstract>
+			<DeclaredIn>TTPhoto.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/TTPhoto/size</TokenIdentifier>
+			<Abstract type="html">The size of the photo.</Abstract>
+			<DeclaredIn>TTPhoto.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPhoto/setIndex:</TokenIdentifier>
+			<Abstract type="html">The index of the photo within its photo source.</Abstract>
+			<DeclaredIn>TTPhoto.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger index</Declaration>
+			
+			
+			<Anchor>//api/name/index</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/TTPhoto/index</TokenIdentifier>
+			<Abstract type="html">The index of the photo within its photo source.</Abstract>
+			<DeclaredIn>TTPhoto.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger index</Declaration>
+			
+			
+			<Anchor>//api/name/index</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPhoto/setCaption:</TokenIdentifier>
+			<Abstract type="html">The caption of the photo.</Abstract>
+			<DeclaredIn>TTPhoto.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *caption</Declaration>
+			
+			
+			<Anchor>//api/name/caption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/TTPhoto/caption</TokenIdentifier>
+			<Abstract type="html">The caption of the photo.</Abstract>
+			<DeclaredIn>TTPhoto.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *caption</Declaration>
+			
+			
+			<Anchor>//api/name/caption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPhoto/URLForVersion:</TokenIdentifier>
+			<Abstract type="html">Gets the URL of one of the differently sized versions of the photo.</Abstract>
+			<DeclaredIn>TTPhoto.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)URLForVersion:(TTPhotoVersion)version</Declaration>
+			
+			
+			<Anchor>//api/name/URLForVersion:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

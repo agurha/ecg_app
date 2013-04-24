@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTUserInfo.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTUserInfo</TokenIdentifier>
+			<Abstract type="html">A helper class for storing user info to help identify a request.</Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>
+			
+			<NodeRef refid="230"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTUserInfo/setTopic:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *topic</Declaration>
+			
+			
+			<Anchor>//api/name/topic</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTUserInfo/topic</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *topic</Declaration>
+			
+			
+			<Anchor>//api/name/topic</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTUserInfo/setStrongRef:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id strongRef</Declaration>
+			
+			
+			<Anchor>//api/name/strongRef</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTUserInfo/strongRef</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id strongRef</Declaration>
+			
+			
+			<Anchor>//api/name/strongRef</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTUserInfo/setWeakRef:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id weakRef</Declaration>
+			
+			
+			<Anchor>//api/name/weakRef</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTUserInfo/weakRef</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id weakRef</Declaration>
+			
+			
+			<Anchor>//api/name/weakRef</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTUserInfo/topic:strongRef:weakRef:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>			
+			
+			<Declaration>+ (id)topic:(NSString *)topic strongRef:(id)strongRef weakRef:(id)weakRef</Declaration>
+			
+			
+			<Anchor>//api/name/topic:strongRef:weakRef:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTUserInfo/topic:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>			
+			
+			<Declaration>+ (id)topic:(NSString *)topic</Declaration>
+			
+			
+			<Anchor>//api/name/topic:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTUserInfo/weakRef:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>			
+			
+			<Declaration>+ (id)weakRef:(id)weakRef</Declaration>
+			
+			
+			<Anchor>//api/name/weakRef:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTUserInfo/initWithTopic:strongRef:weakRef:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTUserInfo.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithTopic:(NSString *)topic strongRef:(id)strongRef weakRef:(id)weakRef</Declaration>
+			
+			
+			<Anchor>//api/name/initWithTopic:strongRef:weakRef:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

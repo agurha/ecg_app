@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTModel.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTModel</TokenIdentifier>
+			<Abstract type="html">TTModel describes the state of an object that can be loaded from a remote source.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>
+			
+			<NodeRef refid="287"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModel/delegates</TokenIdentifier>
+			<Abstract type="html">An array of objects that conform to the TTModelDelegate protocol.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (NSMutableArray *)delegates</Declaration>
+			
+			
+			<Anchor>//api/name/delegates</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModel/isLoaded</TokenIdentifier>
+			<Abstract type="html">Indicates that the data has been loaded.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)isLoaded</Declaration>
+			
+			
+			<Anchor>//api/name/isLoaded</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModel/isLoading</TokenIdentifier>
+			<Abstract type="html">Indicates that the data is in the process of loading.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)isLoading</Declaration>
+			
+			
+			<Anchor>//api/name/isLoading</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModel/isLoadingMore</TokenIdentifier>
+			<Abstract type="html">Indicates that the data is in the process of loading additional data.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)isLoadingMore</Declaration>
+			
+			
+			<Anchor>//api/name/isLoadingMore</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModel/isOutdated</TokenIdentifier>
+			<Abstract type="html">Indicates that the model is of date and should be reloaded as soon as possible.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)isOutdated</Declaration>
+			
+			
+			<Anchor>//api/name/isOutdated</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModel/load:more:</TokenIdentifier>
+			<Abstract type="html">Loads the model.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)load:(TTURLRequestCachePolicy)cachePolicy more:(BOOL)more</Declaration>
+			
+			
+			<Anchor>//api/name/load:more:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModel/cancel</TokenIdentifier>
+			<Abstract type="html">Cancels a load that is in progress.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancel</Declaration>
+			
+			
+			<Anchor>//api/name/cancel</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModel/invalidate:</TokenIdentifier>
+			<Abstract type="html">Invalidates data stored in the cache or optionally erases it.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)invalidate:(BOOL)erase</Declaration>
+			
+			
+			<Anchor>//api/name/invalidate:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

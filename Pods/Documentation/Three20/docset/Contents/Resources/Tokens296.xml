@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTScrollViewDataSource.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTScrollViewDataSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDataSource.h</DeclaredIn>
+			
+			<NodeRef refid="296"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDataSource/numberOfPagesInScrollView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTScrollViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (NSInteger)numberOfPagesInScrollView:(TTScrollView *)scrollView</Declaration>
+			
+			
+			<Anchor>//api/name/numberOfPagesInScrollView:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDataSource/scrollView:pageAtIndex:</TokenIdentifier>
+			<Abstract type="html">Gets a view to display for the page at the given index.</Abstract>
+			<DeclaredIn>TTScrollViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (UIView *)scrollView:(TTScrollView *)scrollView pageAtIndex:(NSInteger)pageIndex</Declaration>
+			
+			
+			<Anchor>//api/name/scrollView:pageAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTScrollViewDataSource/scrollView:sizeOfPageAtIndex:</TokenIdentifier>
+			<Abstract type="html">Gets the natural size of the page.</Abstract>
+			<DeclaredIn>TTScrollViewDataSource.h</DeclaredIn>			
+			
+			<Declaration>- (CGSize)scrollView:(TTScrollView *)scrollView sizeOfPageAtIndex:(NSInteger)pageIndex</Declaration>
+			
+			
+			<Anchor>//api/name/scrollView:sizeOfPageAtIndex:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

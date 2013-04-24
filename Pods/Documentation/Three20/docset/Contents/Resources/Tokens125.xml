@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyleSheet.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyleSheet</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleSheet.h</DeclaredIn>
+			
+			<NodeRef refid="125"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTStyleSheet/globalStyleSheet</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>+ (TTStyleSheet *)globalStyleSheet</Declaration>
+			
+			
+			<Anchor>//api/name/globalStyleSheet</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTStyleSheet/setGlobalStyleSheet:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>+ (void)setGlobalStyleSheet:(TTStyleSheet *)styleSheet</Declaration>
+			
+			
+			<Anchor>//api/name/setGlobalStyleSheet:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyleSheet/styleWithSelector:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (TTStyle *)styleWithSelector:(NSString *)selector</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithSelector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyleSheet/styleWithSelector:forState:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (TTStyle *)styleWithSelector:(NSString *)selector forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithSelector:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyleSheet/freeMemory</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleSheet.h</DeclaredIn>			
+			
+			<Declaration>- (void)freeMemory</Declaration>
+			
+			
+			<Anchor>//api/name/freeMemory</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

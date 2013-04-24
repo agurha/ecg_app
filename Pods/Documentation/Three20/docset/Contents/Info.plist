@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.cocoapods.Three20-1.0.11</string>
+	<key>CFBundleName</key>
+	<string>Three20 1.0.11 Documentation</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	
+	
+	<key>DocSetDescription</key>
+	<string>Three20 is an Objective-C library for iPhone developers.</string>
+	
+	<key>DocSetFeedName</key>
+	<string>Three20 1.0.11 Documentation</string>
+	
+	<key>DocSetMinimumXcodeVersion</key>
+	<string>3.0</string>
+	
+	<key>DashDocSetFamily</key>
+	<string>appledoc</string>
+	<key>DocSetPublisherIdentifier</key>
+	<string>org.cocoapods.documentation</string>
+	<key>DocSetPublisherName</key>
+	<string>Adar Porat, Alessandro Zummo, Alexander Saltanov, Amit Snyderman, Benedikt Meurer, Blake Watters, Brandon Walkin, Brian Chapados, Brian Donovan, Cemal Eker, Chih-Wei Lee, Dan Morrow, David J. Hu, Dima Berastau, Doug Barth, Drync Wine, Eelco Lempsink, Emil Palm, Eric Chamberlain, Eric Wolfe, Greg Haines, Holtwick, Hwee-Boon Yar, Jarno Antikainen, Jason Cabot, Jean Regisser, Jeff Verkoeyen, Jeroen Houtzager, Joachim Bengtsson, Joe Hewitt, John Wang, Justin DeWind, Matt Crocker, Matt Newberry, Mike Morearty, NanoTech, Oleguer Huguet, Owen Yamauchi, PEZ, Paulo Oliveira, Pavel Bocharov, Pavel Repin, Peter Steinberger, Petr Reichl, Phillip Verheyden, Rafael Alba, Rodrigo Mazzilli, Roger Chapman, Rusty Zarse, Savanah Cummings, Shaheen Gandhi, Skotch Vail, Stephan Diederich, Sumeru Chatterjee, Thomas Weisbach, Tobias Klonk, Tobias Rundström, Tony Lewis, Wiley Kestner, alexleutgoeb, andy.porat, aporat, beng, clozach, crino, drewmca, uprise78, vguerci, and wbailey</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Adar Porat, Alessandro Zummo, Alexander Saltanov, Amit Snyderman, Benedikt Meurer, Blake Watters, Brandon Walkin, Brian Chapados, Brian Donovan, Cemal Eker, Chih-Wei Lee, Dan Morrow, David J. Hu, Dima Berastau, Doug Barth, Drync Wine, Eelco Lempsink, Emil Palm, Eric Chamberlain, Eric Wolfe, Greg Haines, Holtwick, Hwee-Boon Yar, Jarno Antikainen, Jason Cabot, Jean Regisser, Jeff Verkoeyen, Jeroen Houtzager, Joachim Bengtsson, Joe Hewitt, John Wang, Justin DeWind, Matt Crocker, Matt Newberry, Mike Morearty, NanoTech, Oleguer Huguet, Owen Yamauchi, PEZ, Paulo Oliveira, Pavel Bocharov, Pavel Repin, Peter Steinberger, Petr Reichl, Phillip Verheyden, Rafael Alba, Rodrigo Mazzilli, Roger Chapman, Rusty Zarse, Savanah Cummings, Shaheen Gandhi, Skotch Vail, Stephan Diederich, Sumeru Chatterjee, Thomas Weisbach, Tobias Klonk, Tobias Rundström, Tony Lewis, Wiley Kestner, alexleutgoeb, andy.porat, aporat, beng, clozach, crino, drewmca, uprise78, vguerci, and wbailey</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSMutableArray+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSMutableArray(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>NSMutableArrayAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="248"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSMutableArray(TTCategory)/addNonEmptyString:</TokenIdentifier>
+			<Abstract type="html">Adds a string on the condition that it&apos;s non-nil and non-empty.</Abstract>
+			<DeclaredIn>NSMutableArrayAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)addNonEmptyString:(NSString *)string</Declaration>
+			
+			
+			<Anchor>//api/name/addNonEmptyString:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

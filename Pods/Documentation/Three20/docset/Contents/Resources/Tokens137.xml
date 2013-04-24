@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyledItalicNode.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyledItalicNode</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledItalicNode.h</DeclaredIn>
+			
+			<NodeRef refid="137"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

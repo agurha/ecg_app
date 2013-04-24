@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTThumbsViewControllerDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTThumbsViewControllerDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewControllerDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="308"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTThumbsViewControllerDelegate/thumbsViewController:didSelectPhoto:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)thumbsViewController:(TTThumbsViewController *)controller didSelectPhoto:(id&lt;TTPhoto&gt;)photo</Declaration>
+			
+			
+			<Anchor>//api/name/thumbsViewController:didSelectPhoto:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTThumbsViewControllerDelegate/thumbsViewController:shouldNavigateToPhoto:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsViewControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)thumbsViewController:(TTThumbsViewController *)controller shouldNavigateToPhoto:(id&lt;TTPhoto&gt;)photo</Declaration>
+			
+			
+			<Anchor>//api/name/thumbsViewController:shouldNavigateToPhoto:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

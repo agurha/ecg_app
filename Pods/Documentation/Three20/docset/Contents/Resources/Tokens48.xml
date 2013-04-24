@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTCSSTextShadowModel.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTCSSTextShadowModel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSTextShadowModel.h</DeclaredIn>
+			
+			<NodeRef refid="48"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSTextShadowModel/setShadowOffset:</TokenIdentifier>
+			<Abstract type="html">This is given as a pair of length values indicating x- and y- distances to use as offset.
+The default offset size is (0, -1), which indicates a shadow one point above the text.</Abstract>
+			<DeclaredIn>TTCSSTextShadowModel.h</DeclaredIn>			
+			
+			<Declaration>@property (assign) CGSize shadowOffset</Declaration>
+			
+			
+			<Anchor>//api/name/shadowOffset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSTextShadowModel/shadowOffset</TokenIdentifier>
+			<Abstract type="html">This is given as a pair of length values indicating x- and y- distances to use as offset.
+The default offset size is (0, -1), which indicates a shadow one point above the text.</Abstract>
+			<DeclaredIn>TTCSSTextShadowModel.h</DeclaredIn>			
+			
+			<Declaration>@property (assign) CGSize shadowOffset</Declaration>
+			
+			
+			<Anchor>//api/name/shadowOffset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSTextShadowModel/setShadowBlur:</TokenIdentifier>
+			<Abstract type="html">The shadowBlur specifies the blur radius used to render the receiver’s shadow.
+This value coud not be rendered on iOS older than 3.2.
+The default value is 3.0.</Abstract>
+			<DeclaredIn>TTCSSTextShadowModel.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSNumber *shadowBlur</Declaration>
+			
+			
+			<Anchor>//api/name/shadowBlur</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSTextShadowModel/shadowBlur</TokenIdentifier>
+			<Abstract type="html">The shadowBlur specifies the blur radius used to render the receiver’s shadow.
+This value coud not be rendered on iOS older than 3.2.
+The default value is 3.0.</Abstract>
+			<DeclaredIn>TTCSSTextShadowModel.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSNumber *shadowBlur</Declaration>
+			
+			
+			<Anchor>//api/name/shadowBlur</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSTextShadowModel/setShadowColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSTextShadowModel.h</DeclaredIn>			
+			
+			<Declaration>@property (retain) id shadowColor</Declaration>
+			
+			
+			<Anchor>//api/name/shadowColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSTextShadowModel/shadowColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSTextShadowModel.h</DeclaredIn>			
+			
+			<Declaration>@property (retain) id shadowColor</Declaration>
+			
+			
+			<Anchor>//api/name/shadowColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTCSSTextShadowModel/initWithShadowColor:andShadowOffset:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSTextShadowModel.h</DeclaredIn>			
+			
+			<Declaration>+ (id)initWithShadowColor:(id)anColor andShadowOffset:(CGSize)anOffset</Declaration>
+			
+			
+			<Anchor>//api/name/initWithShadowColor:andShadowOffset:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTCSSTextShadowModel/initWithShadowColor:andShadowOffset:andShadowBlur:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSTextShadowModel.h</DeclaredIn>			
+			
+			<Declaration>+ (id)initWithShadowColor:(id)anColor andShadowOffset:(CGSize)anOffset andShadowBlur:(NSNumber *)blur</Declaration>
+			
+			
+			<Anchor>//api/name/initWithShadowColor:andShadowOffset:andShadowBlur:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

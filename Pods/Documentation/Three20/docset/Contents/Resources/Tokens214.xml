@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLCache.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLCache</TokenIdentifier>
+			<Abstract type="html">A general purpose URL cache for caching data in memory and on disk.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>
+			
+			<NodeRef refid="214"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/setDisableDiskCache:</TokenIdentifier>
+			<Abstract type="html">Disables the disk cache. Disables etag support as well.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL disableDiskCache</Declaration>
+			
+			
+			<Anchor>//api/name/disableDiskCache</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLCache/disableDiskCache</TokenIdentifier>
+			<Abstract type="html">Disables the disk cache. Disables etag support as well.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL disableDiskCache</Declaration>
+			
+			
+			<Anchor>//api/name/disableDiskCache</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/setDisableImageCache:</TokenIdentifier>
+			<Abstract type="html">Disables the in-memory cache for images.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL disableImageCache</Declaration>
+			
+			
+			<Anchor>//api/name/disableImageCache</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLCache/disableImageCache</TokenIdentifier>
+			<Abstract type="html">Disables the in-memory cache for images.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL disableImageCache</Declaration>
+			
+			
+			<Anchor>//api/name/disableImageCache</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/setCachePath:</TokenIdentifier>
+			<Abstract type="html">Gets the path to the directory of the disk cache.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *cachePath</Declaration>
+			
+			
+			<Anchor>//api/name/cachePath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLCache/cachePath</TokenIdentifier>
+			<Abstract type="html">Gets the path to the directory of the disk cache.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *cachePath</Declaration>
+			
+			
+			<Anchor>//api/name/cachePath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/setEtagCachePath:</TokenIdentifier>
+			<Abstract type="html">Gets the path to the directory of the disk cache for etags.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *etagCachePath</Declaration>
+			
+			
+			<Anchor>//api/name/etagCachePath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLCache/etagCachePath</TokenIdentifier>
+			<Abstract type="html">Gets the path to the directory of the disk cache for etags.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *etagCachePath</Declaration>
+			
+			
+			<Anchor>//api/name/etagCachePath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/setMaxPixelCount:</TokenIdentifier>
+			<Abstract type="html">The maximum number of pixels to keep in memory for cached images.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSUInteger maxPixelCount</Declaration>
+			
+			
+			<Anchor>//api/name/maxPixelCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLCache/maxPixelCount</TokenIdentifier>
+			<Abstract type="html">The maximum number of pixels to keep in memory for cached images.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSUInteger maxPixelCount</Declaration>
+			
+			
+			<Anchor>//api/name/maxPixelCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/setInvalidationAge:</TokenIdentifier>
+			<Abstract type="html">The amount of time to set back the modification timestamp on files when invalidating them.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSTimeInterval invalidationAge</Declaration>
+			
+			
+			<Anchor>//api/name/invalidationAge</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLCache/invalidationAge</TokenIdentifier>
+			<Abstract type="html">The amount of time to set back the modification timestamp on files when invalidating them.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSTimeInterval invalidationAge</Declaration>
+			
+			
+			<Anchor>//api/name/invalidationAge</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTURLCache/cacheWithName:</TokenIdentifier>
+			<Abstract type="html">Gets a shared cache identified with a unique name.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>+ (TTURLCache *)cacheWithName:(NSString *)name</Declaration>
+			
+			
+			<Anchor>//api/name/cacheWithName:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTURLCache/sharedCache</TokenIdentifier>
+			<Abstract type="html">Gets the shared cache singleton used across the application.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>+ (TTURLCache *)sharedCache</Declaration>
+			
+			
+			<Anchor>//api/name/sharedCache</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTURLCache/setSharedCache:</TokenIdentifier>
+			<Abstract type="html">Sets the shared cache singleton used across the application.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>+ (void)setSharedCache:(TTURLCache *)cache</Declaration>
+			
+			
+			<Anchor>//api/name/setSharedCache:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/initWithName:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithName:(NSString *)name</Declaration>
+			
+			
+			<Anchor>//api/name/initWithName:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/keyForURL:</TokenIdentifier>
+			<Abstract type="html">Gets the key that would be used to cache a URL response.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)keyForURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/keyForURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/cachePathForURL:</TokenIdentifier>
+			<Abstract type="html">Gets the path in the cache where a URL may be stored.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)cachePathForURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/cachePathForURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/cachePathForKey:</TokenIdentifier>
+			<Abstract type="html">Gets the path in the cache where a key may be stored.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)cachePathForKey:(NSString *)key</Declaration>
+			
+			
+			<Anchor>//api/name/cachePathForKey:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/etagCachePathForKey:</TokenIdentifier>
+			<Abstract type="html">Etag cache files are stored in the following way:
+File name: &lt;key&gt;
+File data: &lt;etag value&gt;</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)etagCachePathForKey:(NSString *)key</Declaration>
+			
+			<ReturnValue><Abstract type="html">The etag cache path for the given key.</Abstract></ReturnValue>
+			<Anchor>//api/name/etagCachePathForKey:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/hasDataForURL:</TokenIdentifier>
+			<Abstract type="html">Determines if there is a cache entry for a URL.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)hasDataForURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/hasDataForURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/hasDataForKey:expires:</TokenIdentifier>
+			<Abstract type="html">Determines if there is a cache entry for a key.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)hasDataForKey:(NSString *)key expires:(NSTimeInterval)expirationAge</Declaration>
+			
+			
+			<Anchor>//api/name/hasDataForKey:expires:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/hasImageForURL:fromDisk:</TokenIdentifier>
+			<Abstract type="html">Determines if there is an image cache entry for a URL.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)hasImageForURL:(NSString *)URL fromDisk:(BOOL)fromDisk</Declaration>
+			
+			
+			<Anchor>//api/name/hasImageForURL:fromDisk:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/dataForURL:</TokenIdentifier>
+			<Abstract type="html">Gets the data for a URL from the cache if it exists.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSData *)dataForURL:(NSString *)URL</Declaration>
+			
+			<ReturnValue><Abstract type="html">nil if the URL is not cached.</Abstract></ReturnValue>
+			<Anchor>//api/name/dataForURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/dataForURL:expires:timestamp:</TokenIdentifier>
+			<Abstract type="html">Gets the data for a URL from the cache if it exists and is newer than a minimum timestamp.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSData *)dataForURL:(NSString *)URL expires:(NSTimeInterval)expirationAge timestamp:(NSDate **)timestamp</Declaration>
+			
+			<ReturnValue><Abstract type="html">nil if hthe URL is not cached or if the cache entry is older than the minimum.</Abstract></ReturnValue>
+			<Anchor>//api/name/dataForURL:expires:timestamp:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/dataForKey:expires:timestamp:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSData *)dataForKey:(NSString *)key expires:(NSTimeInterval)expirationAge timestamp:(NSDate **)timestamp</Declaration>
+			
+			
+			<Anchor>//api/name/dataForKey:expires:timestamp:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/imageForURL:</TokenIdentifier>
+			<Abstract type="html">Gets an image from the in-memory image cache.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (id)imageForURL:(NSString *)URL</Declaration>
+			
+			<ReturnValue><Abstract type="html">nil if the URL is not cached.</Abstract></ReturnValue>
+			<Anchor>//api/name/imageForURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/imageForURL:fromDisk:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (id)imageForURL:(NSString *)URL fromDisk:(BOOL)fromDisk</Declaration>
+			
+			
+			<Anchor>//api/name/imageForURL:fromDisk:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/etagForKey:</TokenIdentifier>
+			<Abstract type="html">Get an etag value for a given cache key.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)etagForKey:(NSString *)key</Declaration>
+			
+			
+			<Anchor>//api/name/etagForKey:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/storeData:forURL:</TokenIdentifier>
+			<Abstract type="html">Stores a data on disk.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)storeData:(NSData *)data forURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/storeData:forURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/storeData:forKey:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)storeData:(NSData *)data forKey:(NSString *)key</Declaration>
+			
+			
+			<Anchor>//api/name/storeData:forKey:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/storeImage:forURL:</TokenIdentifier>
+			<Abstract type="html">Stores an image in the memory cache.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)storeImage:(UIImage *)image forURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/storeImage:forURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/storeEtag:forKey:</TokenIdentifier>
+			<Abstract type="html">Stores an etag value in the etag cache.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)storeEtag:(NSString *)etag forKey:(NSString *)key</Declaration>
+			
+			
+			<Anchor>//api/name/storeEtag:forKey:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/storeTemporaryImage:toDisk:</TokenIdentifier>
+			<Abstract type="html">Convenient way to create a temporary URL for some data and cache it in memory.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)storeTemporaryImage:(UIImage *)image toDisk:(BOOL)toDisk</Declaration>
+			
+			<ReturnValue><Abstract type="html">The temporary URL</Abstract></ReturnValue>
+			<Anchor>//api/name/storeTemporaryImage:toDisk:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/storeTemporaryData:</TokenIdentifier>
+			<Abstract type="html">Convenient way to create a temporary URL for some data and cache in on disk.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)storeTemporaryData:(NSData *)data</Declaration>
+			
+			<ReturnValue><Abstract type="html">The temporary URL</Abstract></ReturnValue>
+			<Anchor>//api/name/storeTemporaryData:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/storeTemporaryFile:</TokenIdentifier>
+			<Abstract type="html">Convenient way to create a temporary URL for a file and move it to the disk cache.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)storeTemporaryFile:(NSURL *)fileURL</Declaration>
+			
+			<ReturnValue><Abstract type="html">The temporary URL</Abstract></ReturnValue>
+			<Anchor>//api/name/storeTemporaryFile:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/moveDataForURL:toURL:</TokenIdentifier>
+			<Abstract type="html">Moves the data currently stored under one URL to another URL.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)moveDataForURL:(NSString *)oldURL toURL:(NSString *)newURL</Declaration>
+			
+			
+			<Anchor>//api/name/moveDataForURL:toURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/moveDataFromPath:toURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)moveDataFromPath:(NSString *)path toURL:(NSString *)newURL</Declaration>
+			
+			
+			<Anchor>//api/name/moveDataFromPath:toURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/moveDataFromPathToTemporaryURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)moveDataFromPathToTemporaryURL:(NSString *)path</Declaration>
+			
+			
+			<Anchor>//api/name/moveDataFromPathToTemporaryURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/removeURL:fromDisk:</TokenIdentifier>
+			<Abstract type="html">Removes the data for a URL from the memory cache and optionally from the disk cache.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeURL:(NSString *)URL fromDisk:(BOOL)fromDisk</Declaration>
+			
+			
+			<Anchor>//api/name/removeURL:fromDisk:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/removeKey:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeKey:(NSString *)key</Declaration>
+			
+			
+			<Anchor>//api/name/removeKey:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/removeAll:</TokenIdentifier>
+			<Abstract type="html">Erases the memory cache and optionally the disk cache.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeAll:(BOOL)fromDisk</Declaration>
+			
+			
+			<Anchor>//api/name/removeAll:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/invalidateURL:</TokenIdentifier>
+			<Abstract type="html">Invalidates the file in the disk cache so that its modified timestamp is the current
+time minus the default cache expiration age.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)invalidateURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/invalidateURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/invalidateKey:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)invalidateKey:(NSString *)key</Declaration>
+			
+			
+			<Anchor>//api/name/invalidateKey:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/invalidateAll</TokenIdentifier>
+			<Abstract type="html">Invalidates all files in the disk cache according to rules explained in invalidateURL.</Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)invalidateAll</Declaration>
+			
+			
+			<Anchor>//api/name/invalidateAll</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLCache/logMemoryUsage</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLCache.h</DeclaredIn>			
+			
+			<Declaration>- (void)logMemoryUsage</Declaration>
+			
+			
+			<Anchor>//api/name/logMemoryUsage</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

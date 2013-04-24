@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTViewController</TokenIdentifier>
+			<Abstract type="html">A view controller with some useful additions.</Abstract>
+			<DeclaredIn>TTViewController.h</DeclaredIn>
+			
+			<NodeRef refid="232"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTViewController/setSearchViewController:</TokenIdentifier>
+			<Abstract type="html">A view controller used to display the contents of the search display controller.</Abstract>
+			<DeclaredIn>TTViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTableViewController *searchViewController</Declaration>
+			
+			
+			<Anchor>//api/name/searchViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTViewController/searchViewController</TokenIdentifier>
+			<Abstract type="html">A view controller used to display the contents of the search display controller.</Abstract>
+			<DeclaredIn>TTViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTableViewController *searchViewController</Declaration>
+			
+			
+			<Anchor>//api/name/searchViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTViewController/doGarbageCollection</TokenIdentifier>
+			<Abstract type="html">Forcefully initiates garbage collection. You may call this in your didReceiveMemoryWarning
+message if you are worried about garbage collection memory consumption.</Abstract>
+			<DeclaredIn>TTViewController.h</DeclaredIn>			
+			
+			<Declaration>+ (void)doGarbageCollection</Declaration>
+			
+			
+			<Anchor>//api/name/doGarbageCollection</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

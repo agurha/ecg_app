@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTextView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTextView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextView.h</DeclaredIn>
+			
+			<NodeRef refid="208"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextView/setAutoresizesToText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL autoresizesToText</Declaration>
+			
+			
+			<Anchor>//api/name/autoresizesToText</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextView/autoresizesToText</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL autoresizesToText</Declaration>
+			
+			
+			<Anchor>//api/name/autoresizesToText</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTextView/setOverflowed:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL overflowed</Declaration>
+			
+			
+			<Anchor>//api/name/overflowed</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTextView/overflowed</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTextView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL overflowed</Declaration>
+			
+			
+			<Anchor>//api/name/overflowed</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

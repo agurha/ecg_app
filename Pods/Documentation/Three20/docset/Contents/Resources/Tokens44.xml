@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTButtonContent.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTButtonContent</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>
+			
+			<NodeRef refid="44"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButtonContent/setTitle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTButtonContent/title</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButtonContent/setImageURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/imageURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTButtonContent/imageURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/imageURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButtonContent/setImage:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *image</Declaration>
+			
+			
+			<Anchor>//api/name/image</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTButtonContent/image</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *image</Declaration>
+			
+			
+			<Anchor>//api/name/image</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButtonContent/setStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *style</Declaration>
+			
+			
+			<Anchor>//api/name/style</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTButtonContent/style</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *style</Declaration>
+			
+			
+			<Anchor>//api/name/style</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButtonContent/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTImageViewDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTButtonContent/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTImageViewDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButtonContent/initWithButton:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithButton:(TTButton *)button</Declaration>
+			
+			
+			<Anchor>//api/name/initWithButton:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButtonContent/reload</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>- (void)reload</Declaration>
+			
+			
+			<Anchor>//api/name/reload</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButtonContent/stopLoading</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButtonContent.h</DeclaredIn>			
+			
+			<Declaration>- (void)stopLoading</Declaration>
+			
+			
+			<Anchor>//api/name/stopLoading</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

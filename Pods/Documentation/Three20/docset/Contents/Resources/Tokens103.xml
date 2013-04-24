@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTRecursiveProgress.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTRecursiveProgress</TokenIdentifier>
+			<Abstract type="html">A generic recursive progress object. This object makes it possible to split progress into
+recursive chunks. Here&apos;s an example:</Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>
+			
+			<NodeRef refid="103"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRecursiveProgress/setFirstPercent:</TokenIdentifier>
+			<Abstract type="html">The initial percentage within the range of [0...1]</Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat firstPercent</Declaration>
+			
+			
+			<Anchor>//api/name/firstPercent</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRecursiveProgress/firstPercent</TokenIdentifier>
+			<Abstract type="html">The initial percentage within the range of [0...1]</Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat firstPercent</Declaration>
+			
+			
+			<Anchor>//api/name/firstPercent</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRecursiveProgress/setLastPercent:</TokenIdentifier>
+			<Abstract type="html">The final percentage within the range of [0...1].
+Should be &gt;= firstPercent.</Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat lastPercent</Declaration>
+			
+			
+			<Anchor>//api/name/lastPercent</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRecursiveProgress/lastPercent</TokenIdentifier>
+			<Abstract type="html">The final percentage within the range of [0...1].
+Should be &gt;= firstPercent.</Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat lastPercent</Declaration>
+			
+			
+			<Anchor>//api/name/lastPercent</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRecursiveProgress/setPercent:</TokenIdentifier>
+			<Abstract type="html">Set the progress at this level and propagate it to the root node.
+Eventually calls didSetProgress: on the delegate with a value from 0...1.</Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat percent</Declaration>
+			
+			
+			<Anchor>//api/name/percent</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRecursiveProgress/percent</TokenIdentifier>
+			<Abstract type="html">Set the progress at this level and propagate it to the root node.
+Eventually calls didSetProgress: on the delegate with a value from 0...1.</Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat percent</Declaration>
+			
+			
+			<Anchor>//api/name/percent</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRecursiveProgress/setDelegate:</TokenIdentifier>
+			<Abstract type="html">The root level delegate.</Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTRecursiveProgressDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRecursiveProgress/delegate</TokenIdentifier>
+			<Abstract type="html">The root level delegate.</Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTRecursiveProgressDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTRecursiveProgress/progressWithDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>+ (id)progressWithDelegate:(id&lt;TTRecursiveProgressDelegate&gt;)delegate</Declaration>
+			
+			
+			<Anchor>//api/name/progressWithDelegate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTRecursiveProgress/progressWithParent:firstPercent:lastPercent:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>+ (id)progressWithParent:(TTRecursiveProgress *)parent firstPercent:(CGFloat)firstPercent lastPercent:(CGFloat)lastPercent</Declaration>
+			
+			
+			<Anchor>//api/name/progressWithParent:firstPercent:lastPercent:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRecursiveProgress/initWithDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithDelegate:(id&lt;TTRecursiveProgressDelegate&gt;)delegate</Declaration>
+			
+			
+			<Anchor>//api/name/initWithDelegate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRecursiveProgress/initWithParent:firstPercent:lastPercent:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithParent:(TTRecursiveProgress *)parent firstPercent:(CGFloat)firstPercent lastPercent:(CGFloat)lastPercent</Declaration>
+			
+			
+			<Anchor>//api/name/initWithParent:firstPercent:lastPercent:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSDate+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSDate(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="246"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/dateWithToday</TokenIdentifier>
+			<Abstract type="html">Returns the current date with the time set to midnight.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (NSDate *)dateWithToday</Declaration>
+			
+			
+			<Anchor>//api/name/dateWithToday</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/dateAtMidnight</TokenIdentifier>
+			<Abstract type="html">Returns a copy of the date with the time set to midnight on the same day.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSDate *)dateAtMidnight</Declaration>
+			
+			
+			<Anchor>//api/name/dateAtMidnight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/formatTime</TokenIdentifier>
+			<Abstract type="html">Formats the date with &apos;h:mm a&apos; or the localized equivalent.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)formatTime</Declaration>
+			
+			
+			<Anchor>//api/name/formatTime</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/formatDate</TokenIdentifier>
+			<Abstract type="html">Formats the date with &apos;EEEE, LLLL d, YYYY&apos; or the localized equivalent.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)formatDate</Declaration>
+			
+			
+			<Anchor>//api/name/formatDate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/formatShortTime</TokenIdentifier>
+			<Abstract type="html">Formats the date according to how old it is.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)formatShortTime</Declaration>
+			
+			
+			<Anchor>//api/name/formatShortTime</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/formatDateTime</TokenIdentifier>
+			<Abstract type="html">Formats the date according to how old it is.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)formatDateTime</Declaration>
+			
+			
+			<Anchor>//api/name/formatDateTime</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/formatRelativeTime</TokenIdentifier>
+			<Abstract type="html">Formats dates within 24 hours like &apos;5 minutes ago&apos;, or calls formatDateTime if older.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)formatRelativeTime</Declaration>
+			
+			
+			<Anchor>//api/name/formatRelativeTime</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/formatShortRelativeTime</TokenIdentifier>
+			<Abstract type="html">Formats dates within 1 week like &apos;5m&apos; or &apos;2d&apos;, or calls formatShortTime if older.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)formatShortRelativeTime</Declaration>
+			
+			
+			<Anchor>//api/name/formatShortRelativeTime</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/formatDay:yesterday:</TokenIdentifier>
+			<Abstract type="html">Formats the date with &apos;MMMM d&quot;, &quot;Today&quot;, or &quot;Yesterday&quot;.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)formatDay:(NSDateComponents *)today yesterday:(NSDateComponents *)yesterday</Declaration>
+			
+			
+			<Anchor>//api/name/formatDay:yesterday:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/formatMonth</TokenIdentifier>
+			<Abstract type="html">Formats the date with &apos;MMMM&quot;.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)formatMonth</Declaration>
+			
+			
+			<Anchor>//api/name/formatMonth</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDate(TTCategory)/formatYear</TokenIdentifier>
+			<Abstract type="html">Formats the date with &apos;yyyy&quot;.</Abstract>
+			<DeclaredIn>NSDateAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)formatYear</Declaration>
+			
+			
+			<Anchor>//api/name/formatYear</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

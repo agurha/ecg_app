@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTActivityLabel.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTActivityLabel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>
+			
+			<NodeRef refid="33"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActivityLabel/setStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTActivityLabelStyle style</Declaration>
+			
+			
+			<Anchor>//api/name/style</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTActivityLabel/style</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTActivityLabelStyle style</Declaration>
+			
+			
+			<Anchor>//api/name/style</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActivityLabel/setText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTActivityLabel/text</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActivityLabel/setFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTActivityLabel/font</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActivityLabel/setProgress:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) float progress</Declaration>
+			
+			
+			<Anchor>//api/name/progress</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTActivityLabel/progress</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) float progress</Declaration>
+			
+			
+			<Anchor>//api/name/progress</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActivityLabel/setIsAnimating:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL isAnimating</Declaration>
+			
+			
+			<Anchor>//api/name/isAnimating</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTActivityLabel/isAnimating</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL isAnimating</Declaration>
+			
+			
+			<Anchor>//api/name/isAnimating</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActivityLabel/setSmoothesProgress:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL smoothesProgress</Declaration>
+			
+			
+			<Anchor>//api/name/smoothesProgress</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTActivityLabel/smoothesProgress</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL smoothesProgress</Declaration>
+			
+			
+			<Anchor>//api/name/smoothesProgress</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActivityLabel/initWithFrame:style:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithFrame:(CGRect)frame style:(TTActivityLabelStyle)style</Declaration>
+			
+			
+			<Anchor>//api/name/initWithFrame:style:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActivityLabel/initWithFrame:style:text:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithFrame:(CGRect)frame style:(TTActivityLabelStyle)style text:(NSString *)text</Declaration>
+			
+			
+			<Anchor>//api/name/initWithFrame:style:text:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActivityLabel/initWithStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActivityLabel.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithStyle:(TTActivityLabelStyle)style</Declaration>
+			
+			
+			<Anchor>//api/name/initWithStyle:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSDictionary+TTXMLAdditions.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSDictionary(TTXMLAdditions)</TokenIdentifier>
+			<Abstract type="html">Additions for accessing TTXMLParser results.</Abstract>
+			<DeclaredIn>TTXMLParser.h</DeclaredIn>
+			
+			<NodeRef refid="247"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDictionary(TTXMLAdditions)/nameForXMLNode</TokenIdentifier>
+			<Abstract type="html">The XML entity name.</Abstract>
+			<DeclaredIn>TTXMLParser.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)nameForXMLNode</Declaration>
+			
+			<ReturnValue><Abstract type="html">The XML entity name.</Abstract></ReturnValue>
+			<Anchor>//api/name/nameForXMLNode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDictionary(TTXMLAdditions)/typeForXMLNode</TokenIdentifier>
+			<Abstract type="html">The XML entity type.</Abstract>
+			<DeclaredIn>TTXMLParser.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)typeForXMLNode</Declaration>
+			
+			<ReturnValue><Abstract type="html">The XML entity type.</Abstract></ReturnValue>
+			<Anchor>//api/name/typeForXMLNode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDictionary(TTXMLAdditions)/objectForXMLNode</TokenIdentifier>
+			<Abstract type="html">The XML processed value for this object.</Abstract>
+			<DeclaredIn>TTXMLParser.h</DeclaredIn>			
+			
+			<Declaration>- (id)objectForXMLNode</Declaration>
+			
+			<ReturnValue><Abstract type="html">The XML processed value for this object.</Abstract></ReturnValue>
+			<Anchor>//api/name/objectForXMLNode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSDictionary(TTXMLAdditions)/arrayForKey:</TokenIdentifier>
+			<Abstract type="html">Performs an &quot;objectForKey&quot;, then puts the object into an array. If the
+object is already an array, that array is returned.</Abstract>
+			<DeclaredIn>TTXMLParser.h</DeclaredIn>			
+			
+			<Declaration>- (NSArray *)arrayForKey:(id)key</Declaration>
+			
+			<ReturnValue><Abstract type="html">Performs an &quot;objectForKey&quot;, then puts the object into an array. If the
+object is already an array, that array is returned.</Abstract></ReturnValue>
+			<Anchor>//api/name/arrayForKey:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

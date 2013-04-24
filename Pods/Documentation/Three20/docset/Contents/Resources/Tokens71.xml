@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTLauncherButton.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTLauncherButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherButton.h</DeclaredIn>
+			
+			<NodeRef refid="71"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherButton/setItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTLauncherItem *item</Declaration>
+			
+			
+			<Anchor>//api/name/item</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherButton/item</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTLauncherItem *item</Declaration>
+			
+			
+			<Anchor>//api/name/item</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherButton/setCloseButton:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTButton *closeButton</Declaration>
+			
+			
+			<Anchor>//api/name/closeButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherButton/closeButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTButton *closeButton</Declaration>
+			
+			
+			<Anchor>//api/name/closeButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherButton/setDragging:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL dragging</Declaration>
+			
+			
+			<Anchor>//api/name/dragging</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherButton/dragging</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL dragging</Declaration>
+			
+			
+			<Anchor>//api/name/dragging</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherButton/setEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL editing</Declaration>
+			
+			
+			<Anchor>//api/name/editing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherButton/editing</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL editing</Declaration>
+			
+			
+			<Anchor>//api/name/editing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherButton/initWithItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherButton.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithItem:(TTLauncherItem *)item</Declaration>
+			
+			
+			<Anchor>//api/name/initWithItem:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

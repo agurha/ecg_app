@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTPickerTextFieldDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTPickerTextFieldDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextFieldDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="293"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPickerTextFieldDelegate/textField:didAddCellAtIndex:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextFieldDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)textField:(TTPickerTextField *)textField didAddCellAtIndex:(NSInteger)index</Declaration>
+			
+			
+			<Anchor>//api/name/textField:didAddCellAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPickerTextFieldDelegate/textField:didRemoveCellAtIndex:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextFieldDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)textField:(TTPickerTextField *)textField didRemoveCellAtIndex:(NSInteger)index</Declaration>
+			
+			
+			<Anchor>//api/name/textField:didRemoveCellAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTPickerTextFieldDelegate/textFieldDidResize:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextFieldDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)textFieldDidResize:(TTPickerTextField *)textField</Declaration>
+			
+			
+			<Anchor>//api/name/textFieldDidResize:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

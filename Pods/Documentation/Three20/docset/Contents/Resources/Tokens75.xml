@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTLauncherView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTLauncherView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>
+			
+			<NodeRef refid="75"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTLauncherViewDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTLauncherViewDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setPages:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSArray *pages</Declaration>
+			
+			
+			<Anchor>//api/name/pages</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/pages</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSArray *pages</Declaration>
+			
+			
+			<Anchor>//api/name/pages</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setColumnCount:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger columnCount</Declaration>
+			
+			
+			<Anchor>//api/name/columnCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/columnCount</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger columnCount</Declaration>
+			
+			
+			<Anchor>//api/name/columnCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setRowCount:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger rowCount</Declaration>
+			
+			
+			<Anchor>//api/name/rowCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/rowCount</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger rowCount</Declaration>
+			
+			
+			<Anchor>//api/name/rowCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setPager:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTPageControl *pager</Declaration>
+			
+			
+			<Anchor>//api/name/pager</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/pager</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTPageControl *pager</Declaration>
+			
+			
+			<Anchor>//api/name/pager</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setCurrentPageIndex:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger currentPageIndex</Declaration>
+			
+			
+			<Anchor>//api/name/currentPageIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/currentPageIndex</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger currentPageIndex</Declaration>
+			
+			
+			<Anchor>//api/name/currentPageIndex</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setPrompt:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *prompt</Declaration>
+			
+			
+			<Anchor>//api/name/prompt</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/prompt</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *prompt</Declaration>
+			
+			
+			<Anchor>//api/name/prompt</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL editing</Declaration>
+			
+			
+			<Anchor>//api/name/editing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/editing</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL editing</Declaration>
+			
+			
+			<Anchor>//api/name/editing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setEditable:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL editable</Declaration>
+			
+			
+			<Anchor>//api/name/editable</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/editable</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL editable</Declaration>
+			
+			
+			<Anchor>//api/name/editable</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setPersistenceKey:</TokenIdentifier>
+			<Abstract type="html">The key to use for storing persistence information.</Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *persistenceKey</Declaration>
+			
+			
+			<Anchor>//api/name/persistenceKey</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/persistenceKey</TokenIdentifier>
+			<Abstract type="html">The key to use for storing persistence information.</Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *persistenceKey</Declaration>
+			
+			
+			<Anchor>//api/name/persistenceKey</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/setPersistenceMode:</TokenIdentifier>
+			<Abstract type="html">How buttons are automatically persisted on termination and restored on launch.</Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) TTLauncherPersistenceMode persistenceMode</Declaration>
+			
+			
+			<Anchor>//api/name/persistenceMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherView/persistenceMode</TokenIdentifier>
+			<Abstract type="html">How buttons are automatically persisted on termination and restored on launch.</Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) TTLauncherPersistenceMode persistenceMode</Declaration>
+			
+			
+			<Anchor>//api/name/persistenceMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/addItem:animated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (void)addItem:(TTLauncherItem *)item animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/addItem:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/removeItem:animated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeItem:(TTLauncherItem *)item animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/removeItem:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/itemWithURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (TTLauncherItem *)itemWithURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/indexPathOfItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (NSIndexPath *)indexPathOfItem:(TTLauncherItem *)item</Declaration>
+			
+			
+			<Anchor>//api/name/indexPathOfItem:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/scrollToItem:animated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollToItem:(TTLauncherItem *)item animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/scrollToItem:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/beginEditing</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (void)beginEditing</Declaration>
+			
+			
+			<Anchor>//api/name/beginEditing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/endEditing</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (void)endEditing</Declaration>
+			
+			
+			<Anchor>//api/name/endEditing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/persistLauncherItems</TokenIdentifier>
+			<Abstract type="html">Persists all pages &amp;amp;amp; buttons to user defaults.</Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (void)persistLauncherItems</Declaration>
+			
+			
+			<Anchor>//api/name/persistLauncherItems</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/restoreLauncherItems</TokenIdentifier>
+			<Abstract type="html">Restores all pages &amp;amp;amp; button from user defaults and returns if sucess</Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)restoreLauncherItems</Declaration>
+			
+			
+			<Anchor>//api/name/restoreLauncherItems</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/resetDefaults</TokenIdentifier>
+			<Abstract type="html">Erases all data stored in user defaults.</Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (void)resetDefaults</Declaration>
+			
+			
+			<Anchor>//api/name/resetDefaults</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/beginHighlightItem:withText:</TokenIdentifier>
+			<Abstract type="html">Dims the launcher view except for a transparent circle around the given item. The given text
+will also be shown center-aligned below or above the circle, as appropriate. The item can be
+tapped while the overlay is up; tapping anywhere else on the overlay simply dismisses the
+overlay and does not pass the event through.</Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (void)beginHighlightItem:(TTLauncherItem *)item withText:(NSString *)text</Declaration>
+			
+			
+			<Anchor>//api/name/beginHighlightItem:withText:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherView/endHighlightItem:</TokenIdentifier>
+			<Abstract type="html">Removes the highlighting overlay introduced by beginHighlightItem:withText:. This will be done
+automatically if the user taps anywhere on the overlay except the transparent circle.</Abstract>
+			<DeclaredIn>TTLauncherView.h</DeclaredIn>			
+			
+			<Declaration>- (void)endHighlightItem:(TTLauncherItem *)item</Declaration>
+			
+			
+			<Anchor>//api/name/endHighlightItem:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

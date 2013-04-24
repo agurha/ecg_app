@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyledLineBreakNode.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyledLineBreakNode</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledLineBreakNode.h</DeclaredIn>
+			
+			<NodeRef refid="139"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

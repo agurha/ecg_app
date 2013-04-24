@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UILabel+TTCSSAdditions.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UILabel(TTCSSAdditions)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UILabel+CSSAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="262"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

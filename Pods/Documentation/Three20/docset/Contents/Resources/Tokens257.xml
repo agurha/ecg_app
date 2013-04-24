@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSString+TTAdditions.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSString(TTAdditions)</TokenIdentifier>
+			<Abstract type="html">Doxygen does not handle categories very well, so please refer to the .m file in general
+for the documentation that is reflected on api.three20.info.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="257"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/isWhitespaceAndNewlines</TokenIdentifier>
+			<Abstract type="html">Determines if the string contains only whitespace and newlines.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)isWhitespaceAndNewlines</Declaration>
+			
+			
+			<Anchor>//api/name/isWhitespaceAndNewlines</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/isEmptyOrWhitespace</TokenIdentifier>
+			<Abstract type="html">Determines if the string is empty or contains only whitespace.
+@deprecated Use TTIsStringWithAnyText() instead. Updating your use of
+this method is non-trivial. See the note below.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)isEmptyOrWhitespace</Declaration>
+			
+			
+			<Anchor>//api/name/isEmptyOrWhitespace</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/queryDictionaryUsingEncoding:</TokenIdentifier>
+			<Abstract type="html">Parses a URL query string into a dictionary.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSDictionary *)queryDictionaryUsingEncoding:(NSStringEncoding)encoding</Declaration>
+			
+			
+			<Anchor>//api/name/queryDictionaryUsingEncoding:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/queryContentsUsingEncoding:</TokenIdentifier>
+			<Abstract type="html">Parses a URL query string into a dictionary where the values are arrays.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSDictionary *)queryContentsUsingEncoding:(NSStringEncoding)encoding</Declaration>
+			
+			
+			<Anchor>//api/name/queryContentsUsingEncoding:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/stringByAddingQueryDictionary:</TokenIdentifier>
+			<Abstract type="html">Parses a URL, adds query parameters to its query, and re-encodes it as a new URL.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)stringByAddingQueryDictionary:(NSDictionary *)query</Declaration>
+			
+			
+			<Anchor>//api/name/stringByAddingQueryDictionary:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/stringByAddingURLEncodedQueryDictionary:</TokenIdentifier>
+			<Abstract type="html">Parses a URL, adds urlEncoded query parameters to its query, and re-encodes it as a new URL.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)stringByAddingURLEncodedQueryDictionary:(NSDictionary *)query</Declaration>
+			
+			
+			<Anchor>//api/name/stringByAddingURLEncodedQueryDictionary:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/urlEncoded</TokenIdentifier>
+			<Abstract type="html">Returns a URL Encoded String</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)urlEncoded</Declaration>
+			
+			
+			<Anchor>//api/name/urlEncoded</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/stringByRemovingHTMLTags</TokenIdentifier>
+			<Abstract type="html">Returns a string with all HTML tags removed.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)stringByRemovingHTMLTags</Declaration>
+			
+			
+			<Anchor>//api/name/stringByRemovingHTMLTags</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/versionStringCompare:</TokenIdentifier>
+			<Abstract type="html">Compares two strings expressing software versions.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSComparisonResult)versionStringCompare:(NSString *)other</Declaration>
+			
+			
+			<Anchor>//api/name/versionStringCompare:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/setMd5Hash:</TokenIdentifier>
+			<Abstract type="html">Calculate the md5 hash of this string using CC_MD5.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *md5Hash</Declaration>
+			
+			<ReturnValue><Abstract type="html">md5 hash of this string</Abstract></ReturnValue>
+			<Anchor>//api/name/md5Hash</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/NSString(TTAdditions)/md5Hash</TokenIdentifier>
+			<Abstract type="html">Calculate the md5 hash of this string using CC_MD5.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *md5Hash</Declaration>
+			
+			<ReturnValue><Abstract type="html">md5 hash of this string</Abstract></ReturnValue>
+			<Anchor>//api/name/md5Hash</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSString(TTAdditions)/setSha1Hash:</TokenIdentifier>
+			<Abstract type="html">Calculate the SHA1 hash of this string using CommonCrypto CC_SHA1.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *sha1Hash</Declaration>
+			
+			<ReturnValue><Abstract type="html">NSString with SHA1 hash of this string</Abstract></ReturnValue>
+			<Anchor>//api/name/sha1Hash</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/NSString(TTAdditions)/sha1Hash</TokenIdentifier>
+			<Abstract type="html">Calculate the SHA1 hash of this string using CommonCrypto CC_SHA1.</Abstract>
+			<DeclaredIn>NSStringAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *sha1Hash</Declaration>
+			
+			<ReturnValue><Abstract type="html">NSString with SHA1 hash of this string</Abstract></ReturnValue>
+			<Anchor>//api/name/sha1Hash</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

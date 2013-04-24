@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableViewController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>
+			
+			<NodeRef refid="193"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setTableView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) IBOutlet UITableView *tableView</Declaration>
+			
+			
+			<Anchor>//api/name/tableView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/tableView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) IBOutlet UITableView *tableView</Declaration>
+			
+			
+			<Anchor>//api/name/tableView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setTableBannerView:</TokenIdentifier>
+			<Abstract type="html">A view that is displayed as a banner at the bottom of the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *tableBannerView</Declaration>
+			
+			
+			<Anchor>//api/name/tableBannerView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/tableBannerView</TokenIdentifier>
+			<Abstract type="html">A view that is displayed as a banner at the bottom of the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *tableBannerView</Declaration>
+			
+			
+			<Anchor>//api/name/tableBannerView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setTableOverlayView:</TokenIdentifier>
+			<Abstract type="html">A view that is displayed over the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *tableOverlayView</Declaration>
+			
+			
+			<Anchor>//api/name/tableOverlayView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/tableOverlayView</TokenIdentifier>
+			<Abstract type="html">A view that is displayed over the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *tableOverlayView</Declaration>
+			
+			
+			<Anchor>//api/name/tableOverlayView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setLoadingView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *loadingView</Declaration>
+			
+			
+			<Anchor>//api/name/loadingView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/loadingView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *loadingView</Declaration>
+			
+			
+			<Anchor>//api/name/loadingView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setErrorView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *errorView</Declaration>
+			
+			
+			<Anchor>//api/name/errorView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/errorView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *errorView</Declaration>
+			
+			
+			<Anchor>//api/name/errorView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setEmptyView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *emptyView</Declaration>
+			
+			
+			<Anchor>//api/name/emptyView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/emptyView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *emptyView</Declaration>
+			
+			
+			<Anchor>//api/name/emptyView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setMenuView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIView *menuView</Declaration>
+			
+			
+			<Anchor>//api/name/menuView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/menuView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIView *menuView</Declaration>
+			
+			
+			<Anchor>//api/name/menuView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setDataSource:</TokenIdentifier>
+			<Abstract type="html">The data source used to populate the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTTableViewDataSource&gt; dataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/dataSource</TokenIdentifier>
+			<Abstract type="html">The data source used to populate the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTTableViewDataSource&gt; dataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setTableViewStyle:</TokenIdentifier>
+			<Abstract type="html">The style of the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UITableViewStyle tableViewStyle</Declaration>
+			
+			
+			<Anchor>//api/name/tableViewStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/tableViewStyle</TokenIdentifier>
+			<Abstract type="html">The style of the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UITableViewStyle tableViewStyle</Declaration>
+			
+			
+			<Anchor>//api/name/tableViewStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setVariableHeightRows:</TokenIdentifier>
+			<Abstract type="html">Indicates if the table should support non-fixed row heights.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL variableHeightRows</Declaration>
+			
+			
+			<Anchor>//api/name/variableHeightRows</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/variableHeightRows</TokenIdentifier>
+			<Abstract type="html">Indicates if the table should support non-fixed row heights.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL variableHeightRows</Declaration>
+			
+			
+			<Anchor>//api/name/variableHeightRows</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setShowTableShadows:</TokenIdentifier>
+			<Abstract type="html">When enabled, draws gutter shadows above the first table item and below the last table item.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showTableShadows</Declaration>
+			
+			
+			<Anchor>//api/name/showTableShadows</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/showTableShadows</TokenIdentifier>
+			<Abstract type="html">When enabled, draws gutter shadows above the first table item and below the last table item.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showTableShadows</Declaration>
+			
+			
+			<Anchor>//api/name/showTableShadows</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setClearsSelectionOnViewWillAppear:</TokenIdentifier>
+			<Abstract type="html">A Boolean value indicating if the controller clears the selection when the table appears.
+Default is YES.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL clearsSelectionOnViewWillAppear</Declaration>
+			
+			
+			<Anchor>//api/name/clearsSelectionOnViewWillAppear</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewController/clearsSelectionOnViewWillAppear</TokenIdentifier>
+			<Abstract type="html">A Boolean value indicating if the controller clears the selection when the table appears.
+Default is YES.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL clearsSelectionOnViewWillAppear</Declaration>
+			
+			
+			<Anchor>//api/name/clearsSelectionOnViewWillAppear</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/initWithStyle:</TokenIdentifier>
+			<Abstract type="html">Initializes and returns a controller having the given style.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithStyle:(UITableViewStyle)style</Declaration>
+			
+			
+			<Anchor>//api/name/initWithStyle:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/createDelegate</TokenIdentifier>
+			<Abstract type="html">Creates an delegate for the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (id&lt;UITableViewDelegate&gt;)createDelegate</Declaration>
+			
+			
+			<Anchor>//api/name/createDelegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/setTableBannerView:animated:</TokenIdentifier>
+			<Abstract type="html">Sets the view that is displayed at the bottom of the table view with an optional animation.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)setTableBannerView:(UIView *)tableBannerView animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/setTableBannerView:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/showMenu:forCell:animated:</TokenIdentifier>
+			<Abstract type="html">Shows a menu over a table cell.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)showMenu:(UIView *)view forCell:(UITableViewCell *)cell animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/showMenu:forCell:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/hideMenu:</TokenIdentifier>
+			<Abstract type="html">Hides the currently visible table cell menu.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)hideMenu:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/hideMenu:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/didSelectObject:atIndexPath:</TokenIdentifier>
+			<Abstract type="html">Tells the controller that the user selected an object in the table.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)didSelectObject:(id)object atIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/didSelectObject:atIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/shouldOpenURL:</TokenIdentifier>
+			<Abstract type="html">Asks if a URL from that user touched in the table should be opened.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)shouldOpenURL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/shouldOpenURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/didBeginDragging</TokenIdentifier>
+			<Abstract type="html">Tells the controller that the user began dragging the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)didBeginDragging</Declaration>
+			
+			
+			<Anchor>//api/name/didBeginDragging</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/didEndDragging</TokenIdentifier>
+			<Abstract type="html">Tells the controller that the user stopped dragging the table view.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)didEndDragging</Declaration>
+			
+			
+			<Anchor>//api/name/didEndDragging</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/rectForOverlayView</TokenIdentifier>
+			<Abstract type="html">The rectangle where the overlay view should appear.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (CGRect)rectForOverlayView</Declaration>
+			
+			
+			<Anchor>//api/name/rectForOverlayView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewController/rectForBannerView</TokenIdentifier>
+			<Abstract type="html">The rectangle where the banner view should appear.</Abstract>
+			<DeclaredIn>TTTableViewController.h</DeclaredIn>			
+			
+			<Declaration>- (CGRect)rectForBannerView</Declaration>
+			
+			
+			<Anchor>//api/name/rectForBannerView</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

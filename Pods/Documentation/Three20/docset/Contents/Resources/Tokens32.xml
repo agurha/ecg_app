@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTActionSheetController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTActionSheetController</TokenIdentifier>
+			<Abstract type="html">A view controller that displays an action sheet.</Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>
+			
+			<NodeRef refid="32"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActionSheetController/setActionSheet:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIActionSheet *actionSheet</Declaration>
+			
+			
+			<Anchor>//api/name/actionSheet</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTActionSheetController/actionSheet</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UIActionSheet *actionSheet</Declaration>
+			
+			
+			<Anchor>//api/name/actionSheet</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActionSheetController/setUserInfo:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id userInfo</Declaration>
+			
+			
+			<Anchor>//api/name/userInfo</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTActionSheetController/userInfo</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id userInfo</Declaration>
+			
+			
+			<Anchor>//api/name/userInfo</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActionSheetController/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTActionSheetControllerDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTActionSheetController/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTActionSheetControllerDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActionSheetController/initWithTitle:</TokenIdentifier>
+			<Abstract type="html">Create an action sheet controller without a delegate.</Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithTitle:(NSString *)title</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>title</Name>
+					<Abstract type="html">The title of the action sheet.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/initWithTitle:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActionSheetController/initWithTitle:delegate:</TokenIdentifier>
+			<Abstract type="html">The designated initializer.</Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithTitle:(NSString *)title delegate:(id)delegate</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>title</Name>
+					<Abstract type="html">The title of the action sheet.</Abstract>
+				</Parameter><Parameter>
+					<Name>delegate</Name>
+					<Abstract type="html">A delegate that implements the TTActionSheetControllerDelegate protocol.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/initWithTitle:delegate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActionSheetController/addButtonWithTitle:URL:</TokenIdentifier>
+			<Abstract type="html">Append a button with the given title and TTNavigator URL.</Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>- (NSInteger)addButtonWithTitle:(NSString *)title URL:(NSString *)URL</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>title</Name>
+					<Abstract type="html">The title of the new button.</Abstract>
+				</Parameter><Parameter>
+					<Name>URL</Name>
+					<Abstract type="html">The TTNavigator url.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The index of the new button. Button indices start at 0 and increase in the order they
+are added.</Abstract></ReturnValue>
+			<Anchor>//api/name/addButtonWithTitle:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActionSheetController/addCancelButtonWithTitle:URL:</TokenIdentifier>
+			<Abstract type="html">Create a cancel button with the given title and TTNavigator URL.</Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>- (NSInteger)addCancelButtonWithTitle:(NSString *)title URL:(NSString *)URL</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>title</Name>
+					<Abstract type="html">The title of the cancel button.</Abstract>
+				</Parameter><Parameter>
+					<Name>URL</Name>
+					<Abstract type="html">The TTNavigator url.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The index of the cancel button. Button indices start at 0 and increase in the order they
+are added.</Abstract></ReturnValue>
+			<Anchor>//api/name/addCancelButtonWithTitle:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActionSheetController/addDestructiveButtonWithTitle:URL:</TokenIdentifier>
+			<Abstract type="html">Create a destructive button with the given title and TTNavigator URL.</Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>- (NSInteger)addDestructiveButtonWithTitle:(NSString *)title URL:(NSString *)URL</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>title</Name>
+					<Abstract type="html">The title of the cancel button.</Abstract>
+				</Parameter><Parameter>
+					<Name>URL</Name>
+					<Abstract type="html">The TTNavigator url.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The index of the destructive button. Button indices start at 0 and increase in the order
+they are added.</Abstract></ReturnValue>
+			<Anchor>//api/name/addDestructiveButtonWithTitle:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTActionSheetController/buttonURLAtIndex:</TokenIdentifier>
+			<Abstract type="html">Retrieve the button URL at the given index.</Abstract>
+			<DeclaredIn>TTActionSheetController.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)buttonURLAtIndex:(NSInteger)index</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>index</Name>
+					<Abstract type="html">The index of the button in question</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">nil if index is out of range. Otherwise returns the button&apos;s URL at index.</Abstract></ReturnValue>
+			<Anchor>//api/name/buttonURLAtIndex:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

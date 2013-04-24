@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/YAJLParserDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/YAJLParserDelegate</TokenIdentifier>
+			<Abstract type="html">Delegate for YAJL JSON parser.</Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>
+			
+			<NodeRef refid="316"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/YAJLParserDelegate/parserDidStartDictionary:</TokenIdentifier>
+			<Abstract type="html">Parser did start dictionary.</Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>- (void)parserDidStartDictionary:(YAJLParser *)parser</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>parser</Name>
+					<Abstract type="html">Sender</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/parserDidStartDictionary:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/YAJLParserDelegate/parserDidEndDictionary:</TokenIdentifier>
+			<Abstract type="html">Parser did end dictionary.</Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>- (void)parserDidEndDictionary:(YAJLParser *)parser</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>parser</Name>
+					<Abstract type="html">Sender</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/parserDidEndDictionary:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/YAJLParserDelegate/parserDidStartArray:</TokenIdentifier>
+			<Abstract type="html">Parser did start array.</Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>- (void)parserDidStartArray:(YAJLParser *)parser</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>parser</Name>
+					<Abstract type="html">Sender</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/parserDidStartArray:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/YAJLParserDelegate/parserDidEndArray:</TokenIdentifier>
+			<Abstract type="html">Parser did end array.</Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>- (void)parserDidEndArray:(YAJLParser *)parser</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>parser</Name>
+					<Abstract type="html">Sender</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/parserDidEndArray:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/YAJLParserDelegate/parser:didMapKey:</TokenIdentifier>
+			<Abstract type="html">Parser did map key.</Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>- (void)parser:(YAJLParser *)parser didMapKey:(NSString *)key</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>parser</Name>
+					<Abstract type="html">Sender</Abstract>
+				</Parameter><Parameter>
+					<Name>key</Name>
+					<Abstract type="html">Key that was mapped</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/parser:didMapKey:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/YAJLParserDelegate/parser:didAdd:</TokenIdentifier>
+			<Abstract type="html">Did add value.</Abstract>
+			<DeclaredIn>YAJLParser.h</DeclaredIn>			
+			
+			<Declaration>- (void)parser:(YAJLParser *)parser didAdd:(id)value</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>parser</Name>
+					<Abstract type="html">Sender</Abstract>
+				</Parameter><Parameter>
+					<Name>value</Name>
+					<Abstract type="html">Value of type NSNull, NSString or NSNumber</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/parser:didAdd:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

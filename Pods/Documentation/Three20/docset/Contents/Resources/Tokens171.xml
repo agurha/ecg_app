@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableLinkedItemCell.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableLinkedItemCell</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableLinkedItemCell.h</DeclaredIn>
+			
+			<NodeRef refid="171"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

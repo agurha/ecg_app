@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTURLResponse.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTURLResponse</TokenIdentifier>
+			<Abstract type="html">A response protocol for TTURLRequest. This protocol is used upon the successful retrieval of
+data from a TTURLRequest. The processResponse method is used to process the data, whether it
+be an image or an XML string.</Abstract>
+			<DeclaredIn>TTURLResponse.h</DeclaredIn>
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLDataResponse</TokenIdentifier>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLImageResponse</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<NodeRef refid="312"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLResponse/request:processResponse:data:</TokenIdentifier>
+			<Abstract type="html">Processes the data from a successful request and determines if it is valid.</Abstract>
+			<DeclaredIn>TTURLResponse.h</DeclaredIn>			
+			
+			<Declaration>- (NSError *)request:(TTURLRequest *)request processResponse:(NSHTTPURLResponse *)response data:(id)data</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>request</Name>
+					<Abstract type="html">The request this response is bound to.</Abstract>
+				</Parameter><Parameter>
+					<Name>response</Name>
+					<Abstract type="html">The response object, useful for getting the status code.</Abstract>
+				</Parameter><Parameter>
+					<Name>data</Name>
+					<Abstract type="html">The data received from the TTURLRequest.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">NSError if there was an error parsing the data. nil otherwise.
+
+@required</Abstract></ReturnValue>
+			<Anchor>//api/name/request:processResponse:data:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLResponse/request:processErrorResponse:data:</TokenIdentifier>
+			<Abstract type="html">Processes the data from a unsuccessful request to construct a custom NSError object.</Abstract>
+			<DeclaredIn>TTURLResponse.h</DeclaredIn>			
+			
+			<Declaration>- (NSError *)request:(TTURLRequest *)request processErrorResponse:(NSHTTPURLResponse *)response data:(id)data</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>request</Name>
+					<Abstract type="html">The request this response is bound to.</Abstract>
+				</Parameter><Parameter>
+					<Name>response</Name>
+					<Abstract type="html">The response object, useful for getting the status code.</Abstract>
+				</Parameter><Parameter>
+					<Name>data</Name>
+					<Abstract type="html">The data received from the TTURLRequest.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">NSError to construct for this response.
+
+@optional</Abstract></ReturnValue>
+			<Anchor>//api/name/request:processErrorResponse:data:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

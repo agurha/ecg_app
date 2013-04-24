@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableSection.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableSection</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSection.h</DeclaredIn>
+			
+			<NodeRef refid="180"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableSection/setHeaderTitle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSection.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *headerTitle</Declaration>
+			
+			
+			<Anchor>//api/name/headerTitle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableSection/headerTitle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSection.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *headerTitle</Declaration>
+			
+			
+			<Anchor>//api/name/headerTitle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableSection/setFooterTitle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSection.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *footerTitle</Declaration>
+			
+			
+			<Anchor>//api/name/footerTitle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableSection/footerTitle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSection.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *footerTitle</Declaration>
+			
+			
+			<Anchor>//api/name/footerTitle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableSection/sectionWithHeaderTitle:footerTitle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSection.h</DeclaredIn>			
+			
+			<Declaration>+ (id)sectionWithHeaderTitle:(NSString *)headerTitle footerTitle:(NSString *)footerTitle</Declaration>
+			
+			
+			<Anchor>//api/name/sectionWithHeaderTitle:footerTitle:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

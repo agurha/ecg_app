@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTRecursiveProgressDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTRecursiveProgressDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>
+			
+			<NodeRef refid="295"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTRecursiveProgressDelegate/didSetProgress:</TokenIdentifier>
+			<Abstract type="html">The progress percentage within [0...1].</Abstract>
+			<DeclaredIn>TTRecursiveProgress.h</DeclaredIn>			
+			
+			<Declaration>- (void)didSetProgress:(CGFloat)progress</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>progress</Name>
+					<Abstract type="html">The progress percentage within [0...1].</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/didSetProgress:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

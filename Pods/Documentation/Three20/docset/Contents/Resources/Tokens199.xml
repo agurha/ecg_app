@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableViewItem.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableViewItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewItem.h</DeclaredIn>
+			
+			<NodeRef refid="199"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewItem/setCaption:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *caption</Declaration>
+			
+			
+			<Anchor>//api/name/caption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewItem/caption</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *caption</Declaration>
+			
+			
+			<Anchor>//api/name/caption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewItem/setView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *view</Declaration>
+			
+			
+			<Anchor>//api/name/view</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewItem/view</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *view</Declaration>
+			
+			
+			<Anchor>//api/name/view</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableViewItem/itemWithCaption:view:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithCaption:(NSString *)caption view:(UIView *)view</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithCaption:view:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

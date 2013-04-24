@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/YAJLGen.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/YAJLGen</TokenIdentifier>
+			<Abstract type="html">YAJL JSON string generator.
+Supports the following types:
+- NSArray
+- NSDictionary
+- NSString
+- NSNumber
+- NSNull</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>
+			
+			<NodeRef refid="239"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/initWithGenOptions:indentString:</TokenIdentifier>
+			<Abstract type="html">JSON generator with options.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithGenOptions:(YAJLGenOptions)genOptions indentString:(NSString *)indentString</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>genOptions</Name>
+					<Abstract type="html">Generate options
+  - YAJLGenOptionsNone: No options
+  - YAJLGenOptionsBeautify: Beautifiy JSON output
+  - YAJLGenOptionsIgnoreUnknownTypes: Ignore unknown types (will use null value)
+  - YAJLGenOptionsIncludeUnsupportedTypes: Handle non-JSON types (including NSDate, NSData, NSURL)</Abstract>
+				</Parameter><Parameter>
+					<Name>indentString</Name>
+					<Abstract type="html">String for indentation</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/initWithGenOptions:indentString:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/object:</TokenIdentifier>
+			<Abstract type="html">Write JSON for object to buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (void)object:(id)obj</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>obj</Name>
+					<Abstract type="html">Supported or custom object</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/object:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/null</TokenIdentifier>
+			<Abstract type="html">Write null value to buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (void)null</Declaration>
+			
+			
+			<Anchor>//api/name/null</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/bool:</TokenIdentifier>
+			<Abstract type="html">Write bool value to buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (void)bool:(BOOL)b</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>b</Name>
+					<Abstract type="html">Output true or false</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/bool:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/number:</TokenIdentifier>
+			<Abstract type="html">Write numeric value to buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (void)number:(NSNumber *)number</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>number</Name>
+					<Abstract type="html">Numeric value</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/number:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/string:</TokenIdentifier>
+			<Abstract type="html">Write string value to buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (void)string:(NSString *)s</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>s</Name>
+					<Abstract type="html">String value</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/string:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/startDictionary</TokenIdentifier>
+			<Abstract type="html">Write dictionary start (&apos;{&apos;) to buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (void)startDictionary</Declaration>
+			
+			
+			<Anchor>//api/name/startDictionary</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/endDictionary</TokenIdentifier>
+			<Abstract type="html">Write dictionary end (&apos;}&apos;) to buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (void)endDictionary</Declaration>
+			
+			
+			<Anchor>//api/name/endDictionary</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/startArray</TokenIdentifier>
+			<Abstract type="html">Write array start (&apos;&apos;) to [buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (void)startArray</Declaration>
+			
+			
+			<Anchor>//api/name/startArray</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/endArray</TokenIdentifier>
+			<Abstract type="html">Write array end (&apos;]&apos;) to buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (void)endArray</Declaration>
+			
+			
+			<Anchor>//api/name/endArray</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/clear</TokenIdentifier>
+			<Abstract type="html">Clear JSON buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (void)clear</Declaration>
+			
+			
+			<Anchor>//api/name/clear</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/YAJLGen/buffer</TokenIdentifier>
+			<Abstract type="html">Get current JSON buffer.</Abstract>
+			<DeclaredIn>YAJLGen.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)buffer</Declaration>
+			
+			
+			<Anchor>//api/name/buffer</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

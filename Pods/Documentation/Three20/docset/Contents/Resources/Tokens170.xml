@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableLinkedItem.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableLinkedItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableLinkedItem.h</DeclaredIn>
+			
+			<NodeRef refid="170"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableLinkedItem/setURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableLinkedItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableLinkedItem/URL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableLinkedItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableLinkedItem/setAccessoryURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableLinkedItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *accessoryURL</Declaration>
+			
+			
+			<Anchor>//api/name/accessoryURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableLinkedItem/accessoryURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableLinkedItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *accessoryURL</Declaration>
+			
+			
+			<Anchor>//api/name/accessoryURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableLinkedItem/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableLinkedItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableLinkedItem/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableLinkedItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableLinkedItem/setSelector:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableLinkedItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) SEL selector</Declaration>
+			
+			
+			<Anchor>//api/name/selector</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableLinkedItem/selector</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableLinkedItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) SEL selector</Declaration>
+			
+			
+			<Anchor>//api/name/selector</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

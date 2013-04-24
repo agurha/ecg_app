@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTSearchBar.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTSearchBar</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>
+			
+			<NodeRef refid="110"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/text</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setPlaceholder:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *placeholder</Declaration>
+			
+			
+			<Anchor>//api/name/placeholder</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/placeholder</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *placeholder</Declaration>
+			
+			
+			<Anchor>//api/name/placeholder</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setTableView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITableView *tableView</Declaration>
+			
+			
+			<Anchor>//api/name/tableView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/tableView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) UITableView *tableView</Declaration>
+			
+			
+			<Anchor>//api/name/tableView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setBoxView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTView *boxView</Declaration>
+			
+			
+			<Anchor>//api/name/boxView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/boxView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTView *boxView</Declaration>
+			
+			
+			<Anchor>//api/name/boxView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setTintColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *tintColor</Declaration>
+			
+			
+			<Anchor>//api/name/tintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/tintColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *tintColor</Declaration>
+			
+			
+			<Anchor>//api/name/tintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setTextColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *textColor</Declaration>
+			
+			
+			<Anchor>//api/name/textColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/textColor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *textColor</Declaration>
+			
+			
+			<Anchor>//api/name/textColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/font</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setTextFieldStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *textFieldStyle</Declaration>
+			
+			
+			<Anchor>//api/name/textFieldStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/textFieldStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *textFieldStyle</Declaration>
+			
+			
+			<Anchor>//api/name/textFieldStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setReturnKeyType:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIReturnKeyType returnKeyType</Declaration>
+			
+			
+			<Anchor>//api/name/returnKeyType</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/returnKeyType</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIReturnKeyType returnKeyType</Declaration>
+			
+			
+			<Anchor>//api/name/returnKeyType</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setRowHeight:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat rowHeight</Declaration>
+			
+			
+			<Anchor>//api/name/rowHeight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/rowHeight</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat rowHeight</Declaration>
+			
+			
+			<Anchor>//api/name/rowHeight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setEditing:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL editing</Declaration>
+			
+			
+			<Anchor>//api/name/editing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/editing</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL editing</Declaration>
+			
+			
+			<Anchor>//api/name/editing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setSearchesAutomatically:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL searchesAutomatically</Declaration>
+			
+			
+			<Anchor>//api/name/searchesAutomatically</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/searchesAutomatically</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL searchesAutomatically</Declaration>
+			
+			
+			<Anchor>//api/name/searchesAutomatically</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setShowsCancelButton:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsCancelButton</Declaration>
+			
+			
+			<Anchor>//api/name/showsCancelButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/showsCancelButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsCancelButton</Declaration>
+			
+			
+			<Anchor>//api/name/showsCancelButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setShowsDoneButton:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsDoneButton</Declaration>
+			
+			
+			<Anchor>//api/name/showsDoneButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/showsDoneButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsDoneButton</Declaration>
+			
+			
+			<Anchor>//api/name/showsDoneButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setShowsDarkScreen:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsDarkScreen</Declaration>
+			
+			
+			<Anchor>//api/name/showsDarkScreen</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/showsDarkScreen</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsDarkScreen</Declaration>
+			
+			
+			<Anchor>//api/name/showsDarkScreen</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setShowsSearchIcon:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsSearchIcon</Declaration>
+			
+			
+			<Anchor>//api/name/showsSearchIcon</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/showsSearchIcon</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsSearchIcon</Declaration>
+			
+			
+			<Anchor>//api/name/showsSearchIcon</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setDataSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTTableViewDataSource&gt; dataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/dataSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTTableViewDataSource&gt; dataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;UITextFieldDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchBar/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;UITextFieldDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/search</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>- (void)search</Declaration>
+			
+			
+			<Anchor>//api/name/search</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchBar/showSearchResults:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchBar.h</DeclaredIn>			
+			
+			<Declaration>- (void)showSearchResults:(BOOL)show</Declaration>
+			
+			
+			<Anchor>//api/name/showSearchResults:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

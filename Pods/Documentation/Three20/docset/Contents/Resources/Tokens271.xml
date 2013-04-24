@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UIViewController+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UIViewController(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="271"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/setCanContainControllers:</TokenIdentifier>
+			<Abstract type="html">Determines whether a controller is primarily a container of other controllers.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL canContainControllers</Declaration>
+			
+			
+			<Anchor>//api/name/canContainControllers</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIViewController(TTCategory)/canContainControllers</TokenIdentifier>
+			<Abstract type="html">Determines whether a controller is primarily a container of other controllers.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL canContainControllers</Declaration>
+			
+			
+			<Anchor>//api/name/canContainControllers</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/setCanBeTopViewController:</TokenIdentifier>
+			<Abstract type="html">Whether or not this controller should ever be counted as the &quot;top&quot; view controller. This is
+used for the purposes of determining which controllers should have modal controllers presented
+within them.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL canBeTopViewController</Declaration>
+			
+			
+			<Anchor>//api/name/canBeTopViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIViewController(TTCategory)/canBeTopViewController</TokenIdentifier>
+			<Abstract type="html">Whether or not this controller should ever be counted as the &quot;top&quot; view controller. This is
+used for the purposes of determining which controllers should have modal controllers presented
+within them.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL canBeTopViewController</Declaration>
+			
+			
+			<Anchor>//api/name/canBeTopViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/setSuperController:</TokenIdentifier>
+			<Abstract type="html">The view controller that contains this view controller.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIViewController *superController</Declaration>
+			
+			
+			<Anchor>//api/name/superController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIViewController(TTCategory)/superController</TokenIdentifier>
+			<Abstract type="html">The view controller that contains this view controller.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIViewController *superController</Declaration>
+			
+			
+			<Anchor>//api/name/superController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/topSubcontroller</TokenIdentifier>
+			<Abstract type="html">The child of this view controller which is most visible.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)topSubcontroller</Declaration>
+			
+			
+			<Anchor>//api/name/topSubcontroller</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/ttPreviousViewController</TokenIdentifier>
+			<Abstract type="html">The view controller that comes before this one in a navigation controller&apos;s history.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)ttPreviousViewController</Declaration>
+			
+			
+			<Anchor>//api/name/ttPreviousViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/nextViewController</TokenIdentifier>
+			<Abstract type="html">The view controller that comes after this one in a navigation controller&apos;s history.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)nextViewController</Declaration>
+			
+			
+			<Anchor>//api/name/nextViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/setPopupViewController:</TokenIdentifier>
+			<Abstract type="html">A popup view controller that is presented on top of this view controller.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIViewController *popupViewController</Declaration>
+			
+			
+			<Anchor>//api/name/popupViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIViewController(TTCategory)/popupViewController</TokenIdentifier>
+			<Abstract type="html">A popup view controller that is presented on top of this view controller.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIViewController *popupViewController</Declaration>
+			
+			
+			<Anchor>//api/name/popupViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/addSubcontroller:animated:transition:</TokenIdentifier>
+			<Abstract type="html">Displays a controller inside this controller.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)addSubcontroller:(UIViewController *)controller animated:(BOOL)animated transition:(UIViewAnimationTransition)transition</Declaration>
+			
+			
+			<Anchor>//api/name/addSubcontroller:animated:transition:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/removeFromSupercontroller</TokenIdentifier>
+			<Abstract type="html">Dismisses a view controller using the opposite transition it was presented with.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeFromSupercontroller</Declaration>
+			
+			
+			<Anchor>//api/name/removeFromSupercontroller</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/removeFromSupercontrollerAnimated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeFromSupercontrollerAnimated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/removeFromSupercontrollerAnimated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/bringControllerToFront:animated:</TokenIdentifier>
+			<Abstract type="html">Brings a controller that is a child of this controller to the front.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)bringControllerToFront:(UIViewController *)controller animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/bringControllerToFront:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/keyForSubcontroller:</TokenIdentifier>
+			<Abstract type="html">Gets a key that can be used to identify a subcontroller in subcontrollerForKey.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)keyForSubcontroller:(UIViewController *)controller</Declaration>
+			
+			
+			<Anchor>//api/name/keyForSubcontroller:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/subcontrollerForKey:</TokenIdentifier>
+			<Abstract type="html">Gets a subcontroller with the key that was returned from keyForSubcontroller.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)subcontrollerForKey:(NSString *)key</Declaration>
+			
+			
+			<Anchor>//api/name/subcontrollerForKey:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/persistView:</TokenIdentifier>
+			<Abstract type="html">Persists aspects of the view state to a dictionary that can later be used to restore it.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)persistView:(NSMutableDictionary *)state</Declaration>
+			
+			
+			<Anchor>//api/name/persistView:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/restoreView:</TokenIdentifier>
+			<Abstract type="html">Restores aspects of the view state from a dictionary populated by persistView.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)restoreView:(NSDictionary *)state</Declaration>
+			
+			
+			<Anchor>//api/name/restoreView:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/persistNavigationPath:</TokenIdentifier>
+			<Abstract type="html">XXXjoe Not documenting this in the hopes that I can eliminate it ;)</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)persistNavigationPath:(NSMutableArray *)path</Declaration>
+			
+			
+			<Anchor>//api/name/persistNavigationPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/delayDidEnd</TokenIdentifier>
+			<Abstract type="html">Finishes initializing the controller after a TTNavigator-coordinated delay.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)delayDidEnd</Declaration>
+			
+			
+			<Anchor>//api/name/delayDidEnd</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/showBars:animated:</TokenIdentifier>
+			<Abstract type="html">Shows or hides the navigation and status bars.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)showBars:(BOOL)show animated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/showBars:animated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/dismissModalViewController</TokenIdentifier>
+			<Abstract type="html">Shortcut for its animated-optional cousin.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)dismissModalViewController</Declaration>
+			
+			
+			<Anchor>//api/name/dismissModalViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTCategory)/doCommonGarbageCollection</TokenIdentifier>
+			<Abstract type="html">Forcefully initiates garbage collection. You may call this in your didReceiveMemoryWarning
+message if you are worried about garbage collection memory consumption.</Abstract>
+			<DeclaredIn>UIViewControllerAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (void)doCommonGarbageCollection</Declaration>
+			
+			
+			<Anchor>//api/name/doCommonGarbageCollection</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

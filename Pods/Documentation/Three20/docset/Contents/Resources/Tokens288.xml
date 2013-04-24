@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTModelDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTModelDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="288"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModelDelegate/modelDidStartLoad:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)modelDidStartLoad:(id&lt;TTModel&gt;)model</Declaration>
+			
+			
+			<Anchor>//api/name/modelDidStartLoad:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModelDelegate/modelDidFinishLoad:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)modelDidFinishLoad:(id&lt;TTModel&gt;)model</Declaration>
+			
+			
+			<Anchor>//api/name/modelDidFinishLoad:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModelDelegate/model:didFailLoadWithError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)model:(id&lt;TTModel&gt;)model didFailLoadWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/model:didFailLoadWithError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModelDelegate/modelDidCancelLoad:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)modelDidCancelLoad:(id&lt;TTModel&gt;)model</Declaration>
+			
+			
+			<Anchor>//api/name/modelDidCancelLoad:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModelDelegate/modelDidChange:</TokenIdentifier>
+			<Abstract type="html">Informs the delegate that the model has changed in some fundamental way.</Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)modelDidChange:(id&lt;TTModel&gt;)model</Declaration>
+			
+			
+			<Anchor>//api/name/modelDidChange:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModelDelegate/model:didUpdateObject:atIndexPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)model:(id&lt;TTModel&gt;)model didUpdateObject:(id)object atIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/model:didUpdateObject:atIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModelDelegate/model:didInsertObject:atIndexPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)model:(id&lt;TTModel&gt;)model didInsertObject:(id)object atIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/model:didInsertObject:atIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModelDelegate/model:didDeleteObject:atIndexPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)model:(id&lt;TTModel&gt;)model didDeleteObject:(id)object atIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/model:didDeleteObject:atIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModelDelegate/modelDidBeginUpdates:</TokenIdentifier>
+			<Abstract type="html">Informs the delegate that the model is about to begin a multi-stage update.</Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)modelDidBeginUpdates:(id&lt;TTModel&gt;)model</Declaration>
+			
+			
+			<Anchor>//api/name/modelDidBeginUpdates:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTModelDelegate/modelDidEndUpdates:</TokenIdentifier>
+			<Abstract type="html">Informs the delegate that the model has completed a multi-stage update.</Abstract>
+			<DeclaredIn>TTModelDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)modelDidEndUpdates:(id&lt;TTModel&gt;)model</Declaration>
+			
+			
+			<Anchor>//api/name/modelDidEndUpdates:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

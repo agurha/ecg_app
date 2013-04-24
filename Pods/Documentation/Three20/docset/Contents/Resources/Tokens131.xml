@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyledFrame.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyledFrame</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>
+			
+			<NodeRef refid="131"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/setElement:</TokenIdentifier>
+			<Abstract type="html">The element that contains the frame.</Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTStyledElement *element</Declaration>
+			
+			
+			<Anchor>//api/name/element</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledFrame/element</TokenIdentifier>
+			<Abstract type="html">The element that contains the frame.</Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTStyledElement *element</Declaration>
+			
+			
+			<Anchor>//api/name/element</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/setNextFrame:</TokenIdentifier>
+			<Abstract type="html">The next in the linked list of frames.</Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledFrame *nextFrame</Declaration>
+			
+			
+			<Anchor>//api/name/nextFrame</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledFrame/nextFrame</TokenIdentifier>
+			<Abstract type="html">The next in the linked list of frames.</Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyledFrame *nextFrame</Declaration>
+			
+			
+			<Anchor>//api/name/nextFrame</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/setBounds:</TokenIdentifier>
+			<Abstract type="html">The bounds of the content that is displayed by this frame.</Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGRect bounds</Declaration>
+			
+			
+			<Anchor>//api/name/bounds</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledFrame/bounds</TokenIdentifier>
+			<Abstract type="html">The bounds of the content that is displayed by this frame.</Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGRect bounds</Declaration>
+			
+			
+			<Anchor>//api/name/bounds</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/setX:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat x</Declaration>
+			
+			
+			<Anchor>//api/name/x</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledFrame/x</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat x</Declaration>
+			
+			
+			<Anchor>//api/name/x</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/setY:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat y</Declaration>
+			
+			
+			<Anchor>//api/name/y</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledFrame/y</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat y</Declaration>
+			
+			
+			<Anchor>//api/name/y</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/setWidth:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledFrame/width</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/setHeight:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat height</Declaration>
+			
+			
+			<Anchor>//api/name/height</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledFrame/height</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat height</Declaration>
+			
+			
+			<Anchor>//api/name/height</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/font</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>- (UIFont *)font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/initWithElement:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithElement:(TTStyledElement *)element</Declaration>
+			
+			
+			<Anchor>//api/name/initWithElement:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/drawInRect:</TokenIdentifier>
+			<Abstract type="html">Draws the frame.</Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>- (void)drawInRect:(CGRect)rect</Declaration>
+			
+			
+			<Anchor>//api/name/drawInRect:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledFrame/hitTest:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledFrame.h</DeclaredIn>			
+			
+			<Declaration>- (TTStyledBoxFrame *)hitTest:(CGPoint)point</Declaration>
+			
+			
+			<Anchor>//api/name/hitTest:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -7,8 +7,14 @@
 //
 
 #import "AppDelegate.h"
+#import "Three20/Three20.h"
+#include <SystemConfiguration/SCNetworkReachability.h>
+
 
 @implementation AppDelegate
+
+@synthesize window;
+@synthesize loginViewController;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
@@ -45,5 +51,27 @@
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
+
+-(BOOL)hasNetworkConnection {
+    
+	SCNetworkReachabilityRef reach = SCNetworkReachabilityCreateWithName(kCFAllocatorSystemDefault, "api.urlecg.com");
+	SCNetworkReachabilityFlags flags;
+	SCNetworkReachabilityGetFlags(reach, &flags);
+	BOOL ret = (kSCNetworkReachabilityFlagsReachable & flags) || (kSCNetworkReachabilityFlagsConnectionRequired & flags);
+	CFRelease(reach);
+	reach = nil;
+	return ret;
+}
+-(BOOL)hasWiFiConnection {
+    
+	SCNetworkReachabilityRef reach = SCNetworkReachabilityCreateWithName(kCFAllocatorSystemDefault, "api.urlecg.com");
+	SCNetworkReachabilityFlags flags;
+	SCNetworkReachabilityGetFlags(reach, &flags);
+	BOOL ret = (kSCNetworkFlagsReachable & flags) && !(kSCNetworkReachabilityFlagsIsWWAN & flags);
+	CFRelease(reach);
+	reach = nil;
+	return ret;
+}
+
 
 @end

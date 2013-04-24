@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTSolidBorderStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTSolidBorderStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSolidBorderStyle.h</DeclaredIn>
+			
+			<NodeRef refid="119"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSolidBorderStyle/setColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSolidBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSolidBorderStyle/color</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSolidBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSolidBorderStyle/setWidth:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSolidBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSolidBorderStyle/width</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSolidBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTSolidBorderStyle/styleWithColor:width:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSolidBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTSolidBorderStyle *)styleWithColor:(UIColor *)color width:(CGFloat)width next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithColor:width:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

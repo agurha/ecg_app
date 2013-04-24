@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableViewNetworkEnabledDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableViewNetworkEnabledDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewNetworkEnabledDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="200"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewNetworkEnabledDelegate/setHeaderView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewNetworkEnabledDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTableHeaderDragRefreshView *headerView</Declaration>
+			
+			
+			<Anchor>//api/name/headerView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewNetworkEnabledDelegate/headerView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewNetworkEnabledDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTableHeaderDragRefreshView *headerView</Declaration>
+			
+			
+			<Anchor>//api/name/headerView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewNetworkEnabledDelegate/setFooterView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewNetworkEnabledDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTableFooterInfiniteScrollView *footerView</Declaration>
+			
+			
+			<Anchor>//api/name/footerView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewNetworkEnabledDelegate/footerView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewNetworkEnabledDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTableFooterInfiniteScrollView *footerView</Declaration>
+			
+			
+			<Anchor>//api/name/footerView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewNetworkEnabledDelegate/setDragRefreshEnabled:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewNetworkEnabledDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly) BOOL dragRefreshEnabled</Declaration>
+			
+			
+			<Anchor>//api/name/dragRefreshEnabled</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewNetworkEnabledDelegate/dragRefreshEnabled</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewNetworkEnabledDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly) BOOL dragRefreshEnabled</Declaration>
+			
+			
+			<Anchor>//api/name/dragRefreshEnabled</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewNetworkEnabledDelegate/setInfiniteScrollEnabled:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewNetworkEnabledDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly) BOOL infiniteScrollEnabled</Declaration>
+			
+			
+			<Anchor>//api/name/infiniteScrollEnabled</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewNetworkEnabledDelegate/infiniteScrollEnabled</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewNetworkEnabledDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (readonly) BOOL infiniteScrollEnabled</Declaration>
+			
+			
+			<Anchor>//api/name/infiniteScrollEnabled</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewNetworkEnabledDelegate/initWithController:withDragRefresh:withInfiniteScroll:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewNetworkEnabledDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithController:(TTTableViewController *)controller withDragRefresh:(BOOL)enableDragRefresh withInfiniteScroll:(BOOL)enableInfiniteScroll</Declaration>
+			
+			
+			<Anchor>//api/name/initWithController:withDragRefresh:withInfiniteScroll:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

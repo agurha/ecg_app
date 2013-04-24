@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTShadowStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTShadowStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShadowStyle.h</DeclaredIn>
+			
+			<NodeRef refid="116"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShadowStyle/setColor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShadowStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTShadowStyle/color</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShadowStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShadowStyle/setBlur:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShadowStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat blur</Declaration>
+			
+			
+			<Anchor>//api/name/blur</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTShadowStyle/blur</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShadowStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat blur</Declaration>
+			
+			
+			<Anchor>//api/name/blur</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTShadowStyle/setOffset:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShadowStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize offset</Declaration>
+			
+			
+			<Anchor>//api/name/offset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTShadowStyle/offset</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShadowStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize offset</Declaration>
+			
+			
+			<Anchor>//api/name/offset</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTShadowStyle/styleWithColor:blur:offset:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShadowStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTShadowStyle *)styleWithColor:(UIColor *)color blur:(CGFloat)blur offset:(CGSize)offset next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithColor:blur:offset:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTShadowStyle/styleWithCssSelector:forState:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShadowStyleAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (TTShadowStyle *)styleWithCssSelector:(NSString *)selector forState:(UIControlState)state next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithCssSelector:forState:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTShadowStyle/styleWithCssSelector:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTShadowStyleAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (TTShadowStyle *)styleWithCssSelector:(NSString *)selector next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithCssSelector:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

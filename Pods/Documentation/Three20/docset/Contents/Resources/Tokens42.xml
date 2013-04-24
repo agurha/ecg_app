@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTButton.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>
+			
+			<NodeRef refid="42"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/setFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTButton/font</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/setIsVertical:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL isVertical</Declaration>
+			
+			
+			<Anchor>//api/name/isVertical</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTButton/isVertical</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL isVertical</Declaration>
+			
+			
+			<Anchor>//api/name/isVertical</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/setImageDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTImageViewDelegate&gt; imageDelegate</Declaration>
+			
+			
+			<Anchor>//api/name/imageDelegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTButton/imageDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTImageViewDelegate&gt; imageDelegate</Declaration>
+			
+			
+			<Anchor>//api/name/imageDelegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTButton/buttonWithStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>+ (TTButton *)buttonWithStyle:(NSString *)selector</Declaration>
+			
+			
+			<Anchor>//api/name/buttonWithStyle:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTButton/buttonWithStyle:title:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>+ (TTButton *)buttonWithStyle:(NSString *)selector title:(NSString *)title</Declaration>
+			
+			
+			<Anchor>//api/name/buttonWithStyle:title:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/titleForState:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)titleForState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/titleForState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/setTitle:forState:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>- (void)setTitle:(NSString *)title forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/setTitle:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/imageForState:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)imageForState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/imageForState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/setImage:forState:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>- (void)setImage:(NSString *)imageURL forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/setImage:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/styleForState:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>- (TTStyle *)styleForState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/styleForState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/setStyle:forState:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>- (void)setStyle:(TTStyle *)style forState:(UIControlState)state</Declaration>
+			
+			
+			<Anchor>//api/name/setStyle:forState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/setStylesWithSelector:</TokenIdentifier>
+			<Abstract type="html">Sets the styles for all control states using a single style selector.</Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>- (void)setStylesWithSelector:(NSString *)selector</Declaration>
+			
+			
+			<Anchor>//api/name/setStylesWithSelector:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/suspendLoadingImages:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>- (void)suspendLoadingImages:(BOOL)suspended</Declaration>
+			
+			
+			<Anchor>//api/name/suspendLoadingImages:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTButton/rectForImage</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTButton.h</DeclaredIn>			
+			
+			<Declaration>- (CGRect)rectForImage</Declaration>
+			
+			
+			<Anchor>//api/name/rectForImage</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

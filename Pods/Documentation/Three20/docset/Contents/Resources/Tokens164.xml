@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableHeaderDragRefreshView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableHeaderDragRefreshView</TokenIdentifier>
+			<Abstract type="html">Pulled from the uprise78/three20-P31 fork with consent of uprise78.</Abstract>
+			<DeclaredIn>TTTableHeaderDragRefreshView.h</DeclaredIn>
+			
+			<NodeRef refid="164"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableHeaderDragRefreshView/setCurrentDate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableHeaderDragRefreshView.h</DeclaredIn>			
+			
+			<Declaration>- (void)setCurrentDate</Declaration>
+			
+			
+			<Anchor>//api/name/setCurrentDate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableHeaderDragRefreshView/setUpdateDate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableHeaderDragRefreshView.h</DeclaredIn>			
+			
+			<Declaration>- (void)setUpdateDate:(NSDate *)date</Declaration>
+			
+			
+			<Anchor>//api/name/setUpdateDate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableHeaderDragRefreshView/setStatus:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableHeaderDragRefreshView.h</DeclaredIn>			
+			
+			<Declaration>- (void)setStatus:(TTTableHeaderDragRefreshStatus)status</Declaration>
+			
+			
+			<Anchor>//api/name/setStatus:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

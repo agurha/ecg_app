@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTLauncherHighlightView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTLauncherHighlightView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherHighlightView.h</DeclaredIn>
+			
+			<NodeRef refid="72"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherHighlightView/setHighlightRect:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherHighlightView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) CGRect highlightRect</Declaration>
+			
+			
+			<Anchor>//api/name/highlightRect</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherHighlightView/highlightRect</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherHighlightView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) CGRect highlightRect</Declaration>
+			
+			
+			<Anchor>//api/name/highlightRect</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherHighlightView/setParentView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherHighlightView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTLauncherView *parentView</Declaration>
+			
+			
+			<Anchor>//api/name/parentView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherHighlightView/parentView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherHighlightView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTLauncherView *parentView</Declaration>
+			
+			
+			<Anchor>//api/name/parentView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherHighlightView/setText:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherHighlightView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLauncherHighlightView/text</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherHighlightView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *text</Declaration>
+			
+			
+			<Anchor>//api/name/text</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLauncherHighlightView/appear:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLauncherHighlightView.h</DeclaredIn>			
+			
+			<Declaration>- (void)appear:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/appear:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

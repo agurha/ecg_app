@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UIView+TTCSSAdditions.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UIView(TTCSSAdditions)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIView+CSSAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="268"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCSSAdditions)/initWithFrame:andApplyCssFromSelector:</TokenIdentifier>
+			<Abstract type="html">Convenient Init method to create an UIView and apply
+an CSS Rule Set on one pass.</Abstract>
+			<DeclaredIn>UIView+CSSAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithFrame:(CGRect)anFrame andApplyCssFromSelector:(NSString *)anSelector</Declaration>
+			
+			
+			<Anchor>//api/name/initWithFrame:andApplyCssFromSelector:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

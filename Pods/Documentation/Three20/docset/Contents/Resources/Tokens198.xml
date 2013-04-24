@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableViewInterstitialDataSource.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableViewInterstitialDataSource</TokenIdentifier>
+			<Abstract type="html">A datasource that is eternally loading.  Useful when you are in between data sources and
+want to show the impression of loading until your actual data source is available.</Abstract>
+			<DeclaredIn>TTTableViewDataSource.h</DeclaredIn>
+			
+			<NodeRef refid="198"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

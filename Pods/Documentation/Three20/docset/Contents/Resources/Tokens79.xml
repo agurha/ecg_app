@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTLink.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTLink</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLink.h</DeclaredIn>
+			
+			<NodeRef refid="79"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLink/setURL:</TokenIdentifier>
+			<Abstract type="html">The URL that will be loaded when the control is touched. This is a wrapper around URLAction;
+setting this property is equivalent to setting a URLAction with animated set to YES.</Abstract>
+			<DeclaredIn>TTLink.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) id URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLink/URL</TokenIdentifier>
+			<Abstract type="html">The URL that will be loaded when the control is touched. This is a wrapper around URLAction;
+setting this property is equivalent to setting a URLAction with animated set to YES.</Abstract>
+			<DeclaredIn>TTLink.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) id URL</Declaration>
+			
+			
+			<Anchor>//api/name/URL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLink/setURLAction:</TokenIdentifier>
+			<Abstract type="html">The TTURLAction that will be opened.</Abstract>
+			<DeclaredIn>TTLink.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTURLAction *URLAction</Declaration>
+			
+			
+			<Anchor>//api/name/URLAction</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLink/URLAction</TokenIdentifier>
+			<Abstract type="html">The TTURLAction that will be opened.</Abstract>
+			<DeclaredIn>TTLink.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTURLAction *URLAction</Declaration>
+			
+			
+			<Anchor>//api/name/URLAction</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

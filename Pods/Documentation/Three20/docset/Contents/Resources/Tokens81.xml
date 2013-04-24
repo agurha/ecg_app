@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTMarkupStripper.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTMarkupStripper</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTMarkupStripper.h</DeclaredIn>
+			
+			<NodeRef refid="81"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

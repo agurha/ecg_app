@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLRequestQueue.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLRequestQueue</TokenIdentifier>
+			<Abstract type="html">The internal interface for the TTRequestLoaders to interact with the TTURLRequestQueue.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>
+			
+			<NodeRef refid="225"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/setSuspended:</TokenIdentifier>
+			<Abstract type="html">Gets the flag that determines if new load requests are allowed to reach the network.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL suspended</Declaration>
+			
+			
+			<Anchor>//api/name/suspended</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequestQueue/suspended</TokenIdentifier>
+			<Abstract type="html">Gets the flag that determines if new load requests are allowed to reach the network.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL suspended</Declaration>
+			
+			
+			<Anchor>//api/name/suspended</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/setMaxContentLength:</TokenIdentifier>
+			<Abstract type="html">The maximum size of a download that is allowed.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSUInteger maxContentLength</Declaration>
+			
+			
+			<Anchor>//api/name/maxContentLength</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequestQueue/maxContentLength</TokenIdentifier>
+			<Abstract type="html">The maximum size of a download that is allowed.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSUInteger maxContentLength</Declaration>
+			
+			
+			<Anchor>//api/name/maxContentLength</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/setUserAgent:</TokenIdentifier>
+			<Abstract type="html">The user-agent string that is sent with all HTTP requests.
+If set to &apos;nil&apos;, User-Agent set by NSURLRequest will be used,
+which looks like: &apos;APP_NAME/N.N CFNetwork/NNN Darwin/NN.N.NNN&apos;.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *userAgent</Declaration>
+			
+			
+			<Anchor>//api/name/userAgent</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequestQueue/userAgent</TokenIdentifier>
+			<Abstract type="html">The user-agent string that is sent with all HTTP requests.
+If set to &apos;nil&apos;, User-Agent set by NSURLRequest will be used,
+which looks like: &apos;APP_NAME/N.N CFNetwork/NNN Darwin/NN.N.NNN&apos;.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *userAgent</Declaration>
+			
+			
+			<Anchor>//api/name/userAgent</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/setImageCompressionQuality:</TokenIdentifier>
+			<Abstract type="html">The compression quality used for encoding images sent with HTTP posts.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat imageCompressionQuality</Declaration>
+			
+			
+			<Anchor>//api/name/imageCompressionQuality</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequestQueue/imageCompressionQuality</TokenIdentifier>
+			<Abstract type="html">The compression quality used for encoding images sent with HTTP posts.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat imageCompressionQuality</Declaration>
+			
+			
+			<Anchor>//api/name/imageCompressionQuality</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/setDefaultTimeout:</TokenIdentifier>
+			<Abstract type="html">The default Timeout used for all TTURLRequests.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLRequest</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>@property (nonatomic) NSTimeInterval defaultTimeout</Declaration>
+			
+			
+			<Anchor>//api/name/defaultTimeout</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLRequestQueue/defaultTimeout</TokenIdentifier>
+			<Abstract type="html">The default Timeout used for all TTURLRequests.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTURLRequest</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<Declaration>@property (nonatomic) NSTimeInterval defaultTimeout</Declaration>
+			
+			
+			<Anchor>//api/name/defaultTimeout</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTURLRequestQueue/mainQueue</TokenIdentifier>
+			<Abstract type="html">Get the shared cache singleton used across the application.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>+ (TTURLRequestQueue *)mainQueue</Declaration>
+			
+			
+			<Anchor>//api/name/mainQueue</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTURLRequestQueue/setMainQueue:</TokenIdentifier>
+			<Abstract type="html">Set the shared cache singleton used across the application.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>+ (void)setMainQueue:(TTURLRequestQueue *)queue</Declaration>
+			
+			
+			<Anchor>//api/name/setMainQueue:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/sendRequest:</TokenIdentifier>
+			<Abstract type="html">Load a request from the cache or the network if it is not in the cache.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)sendRequest:(TTURLRequest *)request</Declaration>
+			
+			<ReturnValue><Abstract type="html">YES if the request was loaded synchronously from the cache.</Abstract></ReturnValue>
+			<Anchor>//api/name/sendRequest:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/sendSynchronousRequest:</TokenIdentifier>
+			<Abstract type="html">Synchronously load a request from the cache or the network if it is not in the cache.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)sendSynchronousRequest:(TTURLRequest *)request</Declaration>
+			
+			<ReturnValue><Abstract type="html">YES if the request was loaded from the cache.</Abstract></ReturnValue>
+			<Anchor>//api/name/sendSynchronousRequest:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/cancelRequest:</TokenIdentifier>
+			<Abstract type="html">Cancel a request that is in progress.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancelRequest:(TTURLRequest *)request</Declaration>
+			
+			
+			<Anchor>//api/name/cancelRequest:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/cancelRequestsWithDelegate:</TokenIdentifier>
+			<Abstract type="html">Cancel all active or pending requests whose delegate or response is an object.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancelRequestsWithDelegate:(id)delegate</Declaration>
+			
+			
+			<Anchor>//api/name/cancelRequestsWithDelegate:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/cancelAllRequests</TokenIdentifier>
+			<Abstract type="html">Cancel all active or pending requests.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancelAllRequests</Declaration>
+			
+			
+			<Anchor>//api/name/cancelAllRequests</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/createNSURLRequest:URL:</TokenIdentifier>
+			<Abstract type="html">Create a Cocoa URL request from a Three20 URL request.</Abstract>
+			<DeclaredIn>TTURLRequestQueue.h</DeclaredIn>			
+			
+			<Declaration>- (NSURLRequest *)createNSURLRequest:(TTURLRequest *)request URL:(NSURL *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/createNSURLRequest:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/loader:didReceiveAuthenticationChallenge:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequestQueueInternal.h</DeclaredIn>			
+			
+			<Declaration>- (void)loader:(TTRequestLoader *)loader didReceiveAuthenticationChallenge:(NSURLAuthenticationChallenge *)challenge</Declaration>
+			
+			
+			<Anchor>//api/name/loader:didReceiveAuthenticationChallenge:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/loader:didLoadResponse:data:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequestQueueInternal.h</DeclaredIn>			
+			
+			<Declaration>- (void)loader:(TTRequestLoader *)loader didLoadResponse:(NSHTTPURLResponse *)response data:(id)data</Declaration>
+			
+			
+			<Anchor>//api/name/loader:didLoadResponse:data:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/loader:didLoadUnmodifiedResponse:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequestQueueInternal.h</DeclaredIn>			
+			
+			<Declaration>- (void)loader:(TTRequestLoader *)loader didLoadUnmodifiedResponse:(NSHTTPURLResponse *)response</Declaration>
+			
+			
+			<Anchor>//api/name/loader:didLoadUnmodifiedResponse:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/loader:didFailLoadWithError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequestQueueInternal.h</DeclaredIn>			
+			
+			<Declaration>- (void)loader:(TTRequestLoader *)loader didFailLoadWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/loader:didFailLoadWithError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLRequestQueue/loaderDidCancel:wasLoading:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLRequestQueueInternal.h</DeclaredIn>			
+			
+			<Declaration>- (void)loaderDidCancel:(TTRequestLoader *)loader wasLoading:(BOOL)wasLoading</Declaration>
+			
+			
+			<Anchor>//api/name/loaderDidCancel:wasLoading:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

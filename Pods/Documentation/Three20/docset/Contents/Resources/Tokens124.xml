@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyleContext.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyleContext</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>
+			
+			<NodeRef refid="124"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyleContext/setFrame:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGRect frame</Declaration>
+			
+			
+			<Anchor>//api/name/frame</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyleContext/frame</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGRect frame</Declaration>
+			
+			
+			<Anchor>//api/name/frame</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyleContext/setContentFrame:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGRect contentFrame</Declaration>
+			
+			
+			<Anchor>//api/name/contentFrame</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyleContext/contentFrame</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGRect contentFrame</Declaration>
+			
+			
+			<Anchor>//api/name/contentFrame</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyleContext/setShape:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTShape *shape</Declaration>
+			
+			
+			<Anchor>//api/name/shape</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyleContext/shape</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTShape *shape</Declaration>
+			
+			
+			<Anchor>//api/name/shape</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyleContext/setFont:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyleContext/font</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIFont *font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyleContext/setDidDrawContent:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL didDrawContent</Declaration>
+			
+			
+			<Anchor>//api/name/didDrawContent</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyleContext/didDrawContent</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL didDrawContent</Declaration>
+			
+			
+			<Anchor>//api/name/didDrawContent</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyleContext/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTStyleDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyleContext/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyleContext.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTStyleDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

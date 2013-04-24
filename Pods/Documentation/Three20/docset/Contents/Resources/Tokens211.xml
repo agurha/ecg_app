@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTThumbsTableViewCell.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTThumbsTableViewCell</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>
+			
+			<NodeRef refid="211"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsTableViewCell/setPhoto:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhoto&gt; photo</Declaration>
+			
+			
+			<Anchor>//api/name/photo</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTThumbsTableViewCell/photo</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhoto&gt; photo</Declaration>
+			
+			
+			<Anchor>//api/name/photo</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsTableViewCell/setThumbSize:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat thumbSize</Declaration>
+			
+			
+			<Anchor>//api/name/thumbSize</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTThumbsTableViewCell/thumbSize</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat thumbSize</Declaration>
+			
+			
+			<Anchor>//api/name/thumbSize</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsTableViewCell/setThumbOrigin:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGPoint thumbOrigin</Declaration>
+			
+			
+			<Anchor>//api/name/thumbOrigin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTThumbsTableViewCell/thumbOrigin</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGPoint thumbOrigin</Declaration>
+			
+			
+			<Anchor>//api/name/thumbOrigin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsTableViewCell/setColumnCount:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger columnCount</Declaration>
+			
+			
+			<Anchor>//api/name/columnCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTThumbsTableViewCell/columnCount</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger columnCount</Declaration>
+			
+			
+			<Anchor>//api/name/columnCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsTableViewCell/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTThumbsTableViewCellDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTThumbsTableViewCell/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTThumbsTableViewCellDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTThumbsTableViewCell/suspendLoading:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTThumbsTableViewCell.h</DeclaredIn>			
+			
+			<Declaration>- (void)suspendLoading:(BOOL)suspended</Declaration>
+			
+			
+			<Anchor>//api/name/suspendLoading:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

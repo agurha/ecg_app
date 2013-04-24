@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableViewVarHeightDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableViewVarHeightDelegate</TokenIdentifier>
+			<Abstract type="html">A table view delegate that queries the cell items for their height.</Abstract>
+			<DeclaredIn>TTTableViewVarHeightDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="203"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

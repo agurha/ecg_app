@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSBundle+YAJL_GHUtils.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSBundle(YAJL_GHUtils)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>GHNSBundle+Utils.h</DeclaredIn>
+			
+			<NodeRef refid="244"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSBundle(YAJL_GHUtils)/yajl_gh_loadDataFromResource:</TokenIdentifier>
+			<Abstract type="html">Load data from resource.</Abstract>
+			<DeclaredIn>GHNSBundle+Utils.h</DeclaredIn>			
+			
+			<Declaration>- (NSData *)yajl_gh_loadDataFromResource:(NSString *)resource</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>resource</Name>
+					<Abstract type="html">Name of resource</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">NSData</Abstract></ReturnValue>
+			<Anchor>//api/name/yajl_gh_loadDataFromResource:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSBundle(YAJL_GHUtils)/yajl_gh_loadStringDataFromResource:</TokenIdentifier>
+			<Abstract type="html">Load string data from resource.</Abstract>
+			<DeclaredIn>GHNSBundle+Utils.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)yajl_gh_loadStringDataFromResource:(NSString *)resource</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>resource</Name>
+					<Abstract type="html">Name of resource</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">NSString</Abstract></ReturnValue>
+			<Anchor>//api/name/yajl_gh_loadStringDataFromResource:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSBundle(YAJL_GHUtils)/yajl_gh_URLForResource:</TokenIdentifier>
+			<Abstract type="html">Get URL for resource.</Abstract>
+			<DeclaredIn>GHNSBundle+Utils.h</DeclaredIn>			
+			
+			<Declaration>- (NSURL *)yajl_gh_URLForResource:(NSString *)resource</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>resource</Name>
+					<Abstract type="html">Name of resource</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">URL to resource</Abstract></ReturnValue>
+			<Anchor>//api/name/yajl_gh_URLForResource:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

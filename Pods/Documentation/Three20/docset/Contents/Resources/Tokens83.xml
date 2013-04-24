@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTMessageController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTMessageController</TokenIdentifier>
+			<Abstract type="html">A view controller for composing email like messages, which is visually
+similar to Apple&apos;s in-app mail composer.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>
+			
+			<NodeRef refid="83"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/setDelegate:</TokenIdentifier>
+			<Abstract type="html">The delegate that will receive messages from the TTMessageControllerDelegate
+protocol.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTMessageControllerDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageController/delegate</TokenIdentifier>
+			<Abstract type="html">The delegate that will receive messages from the TTMessageControllerDelegate
+protocol.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id&lt;TTMessageControllerDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/setDataSource:</TokenIdentifier>
+			<Abstract type="html">The datasource used to autocomplete TTMessageRecipientFields. This class is
+also responsible for determining how cells representing recipients are
+labeled.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTTableViewDataSource&gt; dataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageController/dataSource</TokenIdentifier>
+			<Abstract type="html">The datasource used to autocomplete TTMessageRecipientFields. This class is
+also responsible for determining how cells representing recipients are
+labeled.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTTableViewDataSource&gt; dataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/setFields:</TokenIdentifier>
+			<Abstract type="html">An array of TTMessageField instances representing the editable fields. These
+fields are rendered in order using appropriate views for each field type.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSArray *fields</Declaration>
+			
+			
+			<Anchor>//api/name/fields</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageController/fields</TokenIdentifier>
+			<Abstract type="html">An array of TTMessageField instances representing the editable fields. These
+fields are rendered in order using appropriate views for each field type.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSArray *fields</Declaration>
+			
+			
+			<Anchor>//api/name/fields</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/setSubject:</TokenIdentifier>
+			<Abstract type="html">A convenience property for editing the text value of the
+TTMessageSubjectField. If no TTMessageSubjectField is found in the fields
+array, nil will be returned from the getter and the setter will be a no-op.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *subject</Declaration>
+			
+			
+			<Anchor>//api/name/subject</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageController/subject</TokenIdentifier>
+			<Abstract type="html">A convenience property for editing the text value of the
+TTMessageSubjectField. If no TTMessageSubjectField is found in the fields
+array, nil will be returned from the getter and the setter will be a no-op.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *subject</Declaration>
+			
+			
+			<Anchor>//api/name/subject</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/setBody:</TokenIdentifier>
+			<Abstract type="html">The body of the message. The body is not required for the user to send a
+message.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *body</Declaration>
+			
+			
+			<Anchor>//api/name/body</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageController/body</TokenIdentifier>
+			<Abstract type="html">The body of the message. The body is not required for the user to send a
+message.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *body</Declaration>
+			
+			
+			<Anchor>//api/name/body</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/setShowsRecipientPicker:</TokenIdentifier>
+			<Abstract type="html">Controls whether a contact add button is shown in the views for
+TTMessageRecipientField instances.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsRecipientPicker</Declaration>
+			
+			
+			<Anchor>//api/name/showsRecipientPicker</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageController/showsRecipientPicker</TokenIdentifier>
+			<Abstract type="html">Controls whether a contact add button is shown in the views for
+TTMessageRecipientField instances.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL showsRecipientPicker</Declaration>
+			
+			
+			<Anchor>//api/name/showsRecipientPicker</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/setIsModified:</TokenIdentifier>
+			<Abstract type="html">Indicates if this message has been modified since it was originally
+shown. If the message has been modified, the user will be asked for
+confirmation before their cancel request is enacted.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isModified</Declaration>
+			
+			
+			<Anchor>//api/name/isModified</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageController/isModified</TokenIdentifier>
+			<Abstract type="html">Indicates if this message has been modified since it was originally
+shown. If the message has been modified, the user will be asked for
+confirmation before their cancel request is enacted.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isModified</Declaration>
+			
+			
+			<Anchor>//api/name/isModified</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/setRequireNonEmptyMessageBody:</TokenIdentifier>
+			<Abstract type="html">Indicates if the user must enter text in the editor field to be allowed to
+send the message.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL requireNonEmptyMessageBody</Declaration>
+			
+			
+			<Anchor>//api/name/requireNonEmptyMessageBody</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTMessageController/requireNonEmptyMessageBody</TokenIdentifier>
+			<Abstract type="html">Indicates if the user must enter text in the editor field to be allowed to
+send the message.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL requireNonEmptyMessageBody</Declaration>
+			
+			
+			<Anchor>//api/name/requireNonEmptyMessageBody</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/initWithRecipients:</TokenIdentifier>
+			<Abstract type="html">Initializes the class with an array of recipients. These recipients will
+be pre-filled in the TTMessageRecipientField&apos;s view.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithRecipients:(NSArray *)recipients</Declaration>
+			
+			
+			<Anchor>//api/name/initWithRecipients:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/addRecipient:forFieldAtIndex:</TokenIdentifier>
+			<Abstract type="html">Adds the supplied recipient to the field at the index provided. That
+recipient will be rendered as a cell within that field&apos;s view. The cell&apos;s
+label will be determined by asking the datasource for a string label for
+the recipient object provided.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (void)addRecipient:(id)recipient forFieldAtIndex:(NSUInteger)fieldIndex</Declaration>
+			
+			
+			<Anchor>//api/name/addRecipient:forFieldAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/textForFieldAtIndex:</TokenIdentifier>
+			<Abstract type="html">Returns the text value of the field at the supplied index. Passing
+fields.count returns the body contents.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)textForFieldAtIndex:(NSUInteger)fieldIndex</Declaration>
+			
+			
+			<Anchor>//api/name/textForFieldAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/setText:forFieldAtIndex:</TokenIdentifier>
+			<Abstract type="html">Sets the text value for the field at fieldIndex. Passing fields.count
+sets the body text.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (void)setText:(NSString *)text forFieldAtIndex:(NSUInteger)fieldIndex</Declaration>
+			
+			
+			<Anchor>//api/name/setText:forFieldAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/fieldHasValueAtIndex:</TokenIdentifier>
+			<Abstract type="html">Returns true if the field at the supplied index is not empty or has
+only whitespace. Passing fields.count returns true if the body has any
+text, whitespace included.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)fieldHasValueAtIndex:(NSUInteger)fieldIndex</Declaration>
+			
+			
+			<Anchor>//api/name/fieldHasValueAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/viewForFieldAtIndex:</TokenIdentifier>
+			<Abstract type="html">Returns the UIView instance representing the field at fieldIndex. Passing
+fields.count returns the view representing the body contents.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (UIView *)viewForFieldAtIndex:(NSUInteger)fieldIndex</Declaration>
+			
+			
+			<Anchor>//api/name/viewForFieldAtIndex:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/showActivityView:</TokenIdentifier>
+			<Abstract type="html">Causes a view used to indicate message activity to be shown or dismissed
+depending on the value of show. This view obscures the editable field views.
+It is usually shown while the message is being sent.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (void)showActivityView:(BOOL)show</Declaration>
+			
+			
+			<Anchor>//api/name/showActivityView:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/titleForSending</TokenIdentifier>
+			<Abstract type="html">Returns the title for the activity view that is shown by showActivityView.
+By default, the title is &quot;Sending...&quot;, but subclasses may override this
+method to show a different title. The default title has been localized.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)titleForSending</Declaration>
+			
+			
+			<Anchor>//api/name/titleForSending</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/send</TokenIdentifier>
+			<Abstract type="html">Tells the delegate to send the message.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (void)send</Declaration>
+			
+			
+			<Anchor>//api/name/send</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/cancel:</TokenIdentifier>
+			<Abstract type="html">Cancel the message, but confirm first with the user if necessary.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancel:(BOOL)confirmIfNecessary</Declaration>
+			
+			
+			<Anchor>//api/name/cancel:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/confirmCancellation</TokenIdentifier>
+			<Abstract type="html">Confirms with the user that it is ok to cancel.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (void)confirmCancellation</Declaration>
+			
+			
+			<Anchor>//api/name/confirmCancellation</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/messageWillSend:</TokenIdentifier>
+			<Abstract type="html">Sent before the delegate is informed that it should send the message.
+Subclasses can override this method to implement custom logic.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (void)messageWillSend:(NSArray *)fields</Declaration>
+			
+			
+			<Anchor>//api/name/messageWillSend:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/messageWillShowRecipientPicker</TokenIdentifier>
+			<Abstract type="html">The user touched the recipient picker button. Subclasses can override
+this method to implement custom logic.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (void)messageWillShowRecipientPicker</Declaration>
+			
+			
+			<Anchor>//api/name/messageWillShowRecipientPicker</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/messageDidSend</TokenIdentifier>
+			<Abstract type="html">Sent after the delegate has been informed that it should send the message.
+Subclasses can override this method to implement custom logic.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (void)messageDidSend</Declaration>
+			
+			
+			<Anchor>//api/name/messageDidSend</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTMessageController/messageShouldCancel</TokenIdentifier>
+			<Abstract type="html">Determines if the message should cancel without confirming with the user.
+The default implementation is to allow the user to cancel without
+confirmation if no required fields have been modified and they have not
+entered any subject or body text.</Abstract>
+			<DeclaredIn>TTMessageController.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)messageShouldCancel</Declaration>
+			
+			
+			<Anchor>//api/name/messageShouldCancel</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

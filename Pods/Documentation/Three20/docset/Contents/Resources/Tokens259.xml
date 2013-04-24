@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UIColor+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UIColor(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIColorAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="259"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIColor(TTCategory)/colorWithHue:saturation:value:alpha:</TokenIdentifier>
+			<Abstract type="html">Accepted ranges:
+hue: 0.0 - 360.0
+saturation: 0.0 - 1.0
+value: 0.0 - 1.0
+alpha: 0.0 - 1.0</Abstract>
+			<DeclaredIn>UIColorAdditions.h</DeclaredIn>			
+			
+			<Declaration>+ (UIColor *)colorWithHue:(CGFloat)h saturation:(CGFloat)s value:(CGFloat)v alpha:(CGFloat)a</Declaration>
+			
+			
+			<Anchor>//api/name/colorWithHue:saturation:value:alpha:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIColor(TTCategory)/multiplyHue:saturation:value:</TokenIdentifier>
+			<Abstract type="html">Accepted ranges:
+hue: 0.0 - 1.0
+saturation: 0.0 - 1.0
+value: 0.0 - 1.0</Abstract>
+			<DeclaredIn>UIColorAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)multiplyHue:(CGFloat)hd saturation:(CGFloat)sd value:(CGFloat)vd</Declaration>
+			
+			
+			<Anchor>//api/name/multiplyHue:saturation:value:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIColor(TTCategory)/addHue:saturation:value:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIColorAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)addHue:(CGFloat)hd saturation:(CGFloat)sd value:(CGFloat)vd</Declaration>
+			
+			
+			<Anchor>//api/name/addHue:saturation:value:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIColor(TTCategory)/copyWithAlpha:</TokenIdentifier>
+			<Abstract type="html">Returns a new UIColor with the given alpha.</Abstract>
+			<DeclaredIn>UIColorAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)copyWithAlpha:(CGFloat)newAlpha</Declaration>
+			
+			
+			<Anchor>//api/name/copyWithAlpha:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIColor(TTCategory)/highlight</TokenIdentifier>
+			<Abstract type="html">Uses multiplyHue:saturation:value:alpha: to create a lighter version of the color.</Abstract>
+			<DeclaredIn>UIColorAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)highlight</Declaration>
+			
+			
+			<Anchor>//api/name/highlight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIColor(TTCategory)/shadow</TokenIdentifier>
+			<Abstract type="html">Uses multiplyHue:saturation:value:alpha: to create a darker version of the color.</Abstract>
+			<DeclaredIn>UIColorAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIColor *)shadow</Declaration>
+			
+			
+			<Anchor>//api/name/shadow</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIColor(TTCategory)/hue</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIColorAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (CGFloat)hue</Declaration>
+			
+			
+			<Anchor>//api/name/hue</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIColor(TTCategory)/saturation</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIColorAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (CGFloat)saturation</Declaration>
+			
+			
+			<Anchor>//api/name/saturation</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIColor(TTCategory)/value</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIColorAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (CGFloat)value</Declaration>
+			
+			
+			<Anchor>//api/name/value</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

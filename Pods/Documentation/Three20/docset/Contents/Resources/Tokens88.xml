@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTModel.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTModel</TokenIdentifier>
+			<Abstract type="html">A default implementation of TTModel does nothing other than appear to be loaded.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>
+			
+			<NodeRef refid="88"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModel/didStartLoad</TokenIdentifier>
+			<Abstract type="html">Notifies delegates that the model started to load.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)didStartLoad</Declaration>
+			
+			
+			<Anchor>//api/name/didStartLoad</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModel/didFinishLoad</TokenIdentifier>
+			<Abstract type="html">Notifies delegates that the model finished loading</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)didFinishLoad</Declaration>
+			
+			
+			<Anchor>//api/name/didFinishLoad</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModel/didFailLoadWithError:</TokenIdentifier>
+			<Abstract type="html">Notifies delegates that the model failed to load.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)didFailLoadWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/didFailLoadWithError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModel/didCancelLoad</TokenIdentifier>
+			<Abstract type="html">Notifies delegates that the model canceled its load.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)didCancelLoad</Declaration>
+			
+			
+			<Anchor>//api/name/didCancelLoad</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModel/beginUpdates</TokenIdentifier>
+			<Abstract type="html">Notifies delegates that the model has begun making multiple updates.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)beginUpdates</Declaration>
+			
+			
+			<Anchor>//api/name/beginUpdates</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModel/endUpdates</TokenIdentifier>
+			<Abstract type="html">Notifies delegates that the model has completed its updates.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)endUpdates</Declaration>
+			
+			
+			<Anchor>//api/name/endUpdates</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModel/didUpdateObject:atIndexPath:</TokenIdentifier>
+			<Abstract type="html">Notifies delegates that an object was updated.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)didUpdateObject:(id)object atIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/didUpdateObject:atIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModel/didInsertObject:atIndexPath:</TokenIdentifier>
+			<Abstract type="html">Notifies delegates that an object was inserted.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)didInsertObject:(id)object atIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/didInsertObject:atIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModel/didDeleteObject:atIndexPath:</TokenIdentifier>
+			<Abstract type="html">Notifies delegates that an object was deleted.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)didDeleteObject:(id)object atIndexPath:(NSIndexPath *)indexPath</Declaration>
+			
+			
+			<Anchor>//api/name/didDeleteObject:atIndexPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTModel/didChange</TokenIdentifier>
+			<Abstract type="html">Notifies delegates that the model changed in some fundamental way.</Abstract>
+			<DeclaredIn>TTModel.h</DeclaredIn>			
+			
+			<Declaration>- (void)didChange</Declaration>
+			
+			
+			<Anchor>//api/name/didChange</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

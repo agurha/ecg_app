@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTab.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTab</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTab.h</DeclaredIn>
+			
+			<NodeRef refid="149"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTab/setTabItem:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTab.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTabItem *tabItem</Declaration>
+			
+			
+			<Anchor>//api/name/tabItem</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTab/tabItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTab.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTabItem *tabItem</Declaration>
+			
+			
+			<Anchor>//api/name/tabItem</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTab/initWithItem:tabBar:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTab.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithItem:(TTTabItem *)item tabBar:(TTTabBar *)tabBar</Declaration>
+			
+			
+			<Anchor>//api/name/initWithItem:tabBar:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

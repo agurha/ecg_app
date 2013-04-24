@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTCSSApplyProtocol.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTCSSApplyProtocol</TokenIdentifier>
+			<Abstract type="html">TTCSSApplyProtocol defines an common interface to classes that style itself
+using CSS readed properties. This classes should implement this protocol
+and his appropriate methods.</Abstract>
+			<DeclaredIn>TTCSSApplyProtocol.h</DeclaredIn>
+			
+			<NodeRef refid="282"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTCSSApplyProtocol/applyCssRules:</TokenIdentifier>
+			<Abstract type="html">Receive an Set of Rules from some CSS selector to apply. This method
+receive an TTCSSRuleSet with all properties ready to be set.</Abstract>
+			<DeclaredIn>TTCSSApplyProtocol.h</DeclaredIn>			
+			
+			<Declaration>- (void)applyCssRules:(TTCSSRuleSet *)anRuleSet</Declaration>
+			
+			
+			<Anchor>//api/name/applyCssRules:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTCSSApplyProtocol/applyCssSelector:</TokenIdentifier>
+			<Abstract type="html">Set a CSS stylesheet selector.</Abstract>
+			<DeclaredIn>TTCSSApplyProtocol.h</DeclaredIn>			
+			
+			<Declaration>- (void)applyCssSelector:(NSString *)selector</Declaration>
+			
+			
+			<Anchor>//api/name/applyCssSelector:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

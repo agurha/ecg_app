@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTURLObject.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTURLObject</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLObject.h</DeclaredIn>
+			
+			<NodeRef refid="309"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLObject/setURLValue:</TokenIdentifier>
+			<Abstract type="html">Converts the object to a URL using TTURLMap.</Abstract>
+			<DeclaredIn>TTURLObject.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *URLValue</Declaration>
+			
+			
+			<Anchor>//api/name/URLValue</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/TTURLObject/URLValue</TokenIdentifier>
+			<Abstract type="html">Converts the object to a URL using TTURLMap.</Abstract>
+			<DeclaredIn>TTURLObject.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *URLValue</Declaration>
+			
+			
+			<Anchor>//api/name/URLValue</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTURLObject/URLValueWithName:</TokenIdentifier>
+			<Abstract type="html">Converts the object to a specially-named URL using TTURLMap.</Abstract>
+			<DeclaredIn>TTURLObject.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)URLValueWithName:(NSString *)name</Declaration>
+			
+			
+			<Anchor>//api/name/URLValueWithName:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

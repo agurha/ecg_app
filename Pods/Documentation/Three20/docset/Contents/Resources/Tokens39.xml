@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTBevelBorderStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTBevelBorderStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>
+			
+			<NodeRef refid="39"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBevelBorderStyle/setHighlight:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *highlight</Declaration>
+			
+			
+			<Anchor>//api/name/highlight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBevelBorderStyle/highlight</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *highlight</Declaration>
+			
+			
+			<Anchor>//api/name/highlight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBevelBorderStyle/setShadow:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *shadow</Declaration>
+			
+			
+			<Anchor>//api/name/shadow</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBevelBorderStyle/shadow</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *shadow</Declaration>
+			
+			
+			<Anchor>//api/name/shadow</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBevelBorderStyle/setWidth:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBevelBorderStyle/width</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBevelBorderStyle/setLightSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger lightSource</Declaration>
+			
+			
+			<Anchor>//api/name/lightSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBevelBorderStyle/lightSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) NSInteger lightSource</Declaration>
+			
+			
+			<Anchor>//api/name/lightSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBevelBorderStyle/styleWithColor:width:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTBevelBorderStyle *)styleWithColor:(UIColor *)color width:(CGFloat)width next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithColor:width:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTBevelBorderStyle/styleWithHighlight:shadow:width:lightSource:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBevelBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTBevelBorderStyle *)styleWithHighlight:(UIColor *)highlight shadow:(UIColor *)shadow width:(CGFloat)width lightSource:(NSInteger)lightSource next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithHighlight:shadow:width:lightSource:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

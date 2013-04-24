@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSObject+YAJL.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSObject(YAJL)</TokenIdentifier>
+			<Abstract type="html">Generate JSON string from NSArray, NSDictionary or custom object or parse JSON from NSString or custom object.</Abstract>
+			<DeclaredIn>NSObject+YAJL.h</DeclaredIn>
+			
+			<NodeRef refid="254"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(YAJL)/yajl_JSONString</TokenIdentifier>
+			<Abstract type="html">Create JSON string from object.
+Supported objects include: NSArray, NSDictionary, NSNumber, NSString, NSNull
+To override JSON value to encode (or support custom objects), implement (id)JSON; See YAJLCoding in YAJLGen.h
+@throws YAJLGenInvalidObjectException If object is invalid</Abstract>
+			<DeclaredIn>NSObject+YAJL.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)yajl_JSONString</Declaration>
+			
+			<ReturnValue><Abstract type="html">JSON String</Abstract></ReturnValue>
+			<Anchor>//api/name/yajl_JSONString</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(YAJL)/yajl_JSONStringWithOptions:indentString:</TokenIdentifier>
+			<Abstract type="html">Create JSON string from object.
+Supported objects include: NSArray, NSDictionary, NSNumber, NSString, NSNull
+To override JSON value to encode (or support custom objects), implement (id)JSON; See YAJLCoding in YAJLGen.h
+@throws YAJLGenInvalidObjectException If object is invalid
+@param options
+  - YAJLGenOptionsNone: No options
+  - YAJLGenOptionsBeautify: Beautifiy JSON output
+  - YAJLGenOptionsIgnoreUnknownTypes: Ignore unknown types (will use null value)
+  - YAJLGenOptionsIncludeUnsupportedTypes: Handle non-JSON types (including NSDate, NSData, NSURL)</Abstract>
+			<DeclaredIn>NSObject+YAJL.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)yajl_JSONStringWithOptions:(YAJLGenOptions)options indentString:(NSString *)indentString</Declaration>
+			
+			<ReturnValue><Abstract type="html">JSON String</Abstract></ReturnValue>
+			<Anchor>//api/name/yajl_JSONStringWithOptions:indentString:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(YAJL)/yajl_JSON</TokenIdentifier>
+			<Abstract type="html">Parse JSON (NSString or NSData or dataUsingEncoding:).</Abstract>
+			<DeclaredIn>NSObject+YAJL.h</DeclaredIn>			
+			
+			<Declaration>- (id)yajl_JSON</Declaration>
+			
+			<ReturnValue><Abstract type="html">JSON object
+@throws YAJLParserException If a parse error occured
+@throws YAJLParsingUnsupportedException If not NSData or doesn&apos;t respond to dataUsingEncoding:
+
+@code
+NSString *JSONString = @&quot;{&apos;foo&apos;:[&apos;bar&apos;, true]}&quot;;
+id JSONValue = [JSONString yajl_JSON];
+
+NSData *JSONData = ...;
+id JSONValue = [JSONData yajl_JSON];
+@endcode</Abstract></ReturnValue>
+			<Anchor>//api/name/yajl_JSON</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(YAJL)/yajl_JSON:</TokenIdentifier>
+			<Abstract type="html">Parse JSON (NSString or NSData or dataUsingEncoding:) with out error.</Abstract>
+			<DeclaredIn>NSObject+YAJL.h</DeclaredIn>			
+			
+			<Declaration>- (id)yajl_JSON:(NSError **)error</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>error</Name>
+					<Abstract type="html">Error to set if we failed to parse</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">JSON object
+@throws YAJLParserException If a parse error occured
+@throws YAJLParsingUnsupportedException If not NSData or doesn&apos;t respond to dataUsingEncoding:
+
+@code
+NSString *JSONString = @&quot;{&apos;foo&apos;:[&apos;bar&apos;, true]}&quot;;
+NSError *error = nil;
+[JSONString yajl_JSON:error];
+if (error) ...;
+@endcode</Abstract></ReturnValue>
+			<Anchor>//api/name/yajl_JSON:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(YAJL)/yajl_JSONWithOptions:error:</TokenIdentifier>
+			<Abstract type="html">Parse JSON (NSString or NSData or dataUsingEncoding:) with options and out error.</Abstract>
+			<DeclaredIn>NSObject+YAJL.h</DeclaredIn>			
+			
+			<Declaration>- (id)yajl_JSONWithOptions:(YAJLParserOptions)options error:(NSError **)error</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>options</Name>
+					<Abstract type="html">Parse options
+  - YAJLParserOptionsNone: No options
+  - YAJLParserOptionsAllowComments: Javascript style comments will be allowed in the input (both /&amp;amp;asterisk; &amp;amp;asterisk;/ and //)
+  - YAJLParserOptionsCheckUTF8: Invalid UTF8 strings will cause a parse error
+  - YAJLParserOptionsStrictPrecision: If YES will force strict precision and return integer overflow error</Abstract>
+				</Parameter><Parameter>
+					<Name>error</Name>
+					<Abstract type="html">Error to set if we failed to parse</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">JSON object
+@throws YAJLParserException If a parse error occured
+@throws YAJLParsingUnsupportedException If not NSData or doesn&apos;t respond to dataUsingEncoding:
+
+@code
+NSString *JSONString = @&quot;{&apos;foo&apos;:[&apos;bar&apos;, true]} // comment&quot;;
+NSError *error = nil;
+[JSONString yajl_JSONWithOptions:YAJLParserOptionsAllowComments error:error];
+if (error) ...;
+@endcode</Abstract></ReturnValue>
+			<Anchor>//api/name/yajl_JSONWithOptions:error:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

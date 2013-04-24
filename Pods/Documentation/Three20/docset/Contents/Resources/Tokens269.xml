@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UIView+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UIView(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="269"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setLeft:</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.origin.x.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat left</Declaration>
+			
+			
+			<Anchor>//api/name/left</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/left</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.origin.x.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat left</Declaration>
+			
+			
+			<Anchor>//api/name/left</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setTop:</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.origin.y</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat top</Declaration>
+			
+			
+			<Anchor>//api/name/top</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/top</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.origin.y</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat top</Declaration>
+			
+			
+			<Anchor>//api/name/top</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setRight:</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.origin.x + frame.size</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat right</Declaration>
+			
+			
+			<Anchor>//api/name/right</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/right</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.origin.x + frame.size</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat right</Declaration>
+			
+			
+			<Anchor>//api/name/right</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setBottom:</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.origin.y + frame.size</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat bottom</Declaration>
+			
+			
+			<Anchor>//api/name/bottom</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/bottom</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.origin.y + frame.size</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat bottom</Declaration>
+			
+			
+			<Anchor>//api/name/bottom</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setWidth:</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.size.width</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/width</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.size.width</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setHeight:</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.size.height</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat height</Declaration>
+			
+			
+			<Anchor>//api/name/height</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/height</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.size.height</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat height</Declaration>
+			
+			
+			<Anchor>//api/name/height</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setCenterX:</TokenIdentifier>
+			<Abstract type="html">Shortcut for center.x</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat centerX</Declaration>
+			
+			
+			<Anchor>//api/name/centerX</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/centerX</TokenIdentifier>
+			<Abstract type="html">Shortcut for center.x</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat centerX</Declaration>
+			
+			
+			<Anchor>//api/name/centerX</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setCenterY:</TokenIdentifier>
+			<Abstract type="html">Shortcut for center.y</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat centerY</Declaration>
+			
+			
+			<Anchor>//api/name/centerY</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/centerY</TokenIdentifier>
+			<Abstract type="html">Shortcut for center.y</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat centerY</Declaration>
+			
+			
+			<Anchor>//api/name/centerY</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setTtScreenX:</TokenIdentifier>
+			<Abstract type="html">Return the x coordinate on the screen.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat ttScreenX</Declaration>
+			
+			
+			<Anchor>//api/name/ttScreenX</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/ttScreenX</TokenIdentifier>
+			<Abstract type="html">Return the x coordinate on the screen.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat ttScreenX</Declaration>
+			
+			
+			<Anchor>//api/name/ttScreenX</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setTtScreenY:</TokenIdentifier>
+			<Abstract type="html">Return the y coordinate on the screen.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat ttScreenY</Declaration>
+			
+			
+			<Anchor>//api/name/ttScreenY</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/ttScreenY</TokenIdentifier>
+			<Abstract type="html">Return the y coordinate on the screen.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat ttScreenY</Declaration>
+			
+			
+			<Anchor>//api/name/ttScreenY</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setScreenViewX:</TokenIdentifier>
+			<Abstract type="html">Return the x coordinate on the screen, taking into account scroll views.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat screenViewX</Declaration>
+			
+			
+			<Anchor>//api/name/screenViewX</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/screenViewX</TokenIdentifier>
+			<Abstract type="html">Return the x coordinate on the screen, taking into account scroll views.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat screenViewX</Declaration>
+			
+			
+			<Anchor>//api/name/screenViewX</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setScreenViewY:</TokenIdentifier>
+			<Abstract type="html">Return the y coordinate on the screen, taking into account scroll views.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat screenViewY</Declaration>
+			
+			
+			<Anchor>//api/name/screenViewY</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/screenViewY</TokenIdentifier>
+			<Abstract type="html">Return the y coordinate on the screen, taking into account scroll views.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat screenViewY</Declaration>
+			
+			
+			<Anchor>//api/name/screenViewY</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setScreenFrame:</TokenIdentifier>
+			<Abstract type="html">Return the view frame on the screen, taking into account scroll views.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGRect screenFrame</Declaration>
+			
+			
+			<Anchor>//api/name/screenFrame</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/screenFrame</TokenIdentifier>
+			<Abstract type="html">Return the view frame on the screen, taking into account scroll views.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGRect screenFrame</Declaration>
+			
+			
+			<Anchor>//api/name/screenFrame</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setOrigin:</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.origin</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGPoint origin</Declaration>
+			
+			
+			<Anchor>//api/name/origin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/origin</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.origin</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGPoint origin</Declaration>
+			
+			
+			<Anchor>//api/name/origin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setSize:</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.size</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/size</TokenIdentifier>
+			<Abstract type="html">Shortcut for frame.size</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setOrientationWidth:</TokenIdentifier>
+			<Abstract type="html">Return the width in portrait or the height in landscape.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat orientationWidth</Declaration>
+			
+			
+			<Anchor>//api/name/orientationWidth</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/orientationWidth</TokenIdentifier>
+			<Abstract type="html">Return the width in portrait or the height in landscape.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat orientationWidth</Declaration>
+			
+			
+			<Anchor>//api/name/orientationWidth</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/setOrientationHeight:</TokenIdentifier>
+			<Abstract type="html">Return the height in portrait or the width in landscape.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat orientationHeight</Declaration>
+			
+			
+			<Anchor>//api/name/orientationHeight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIView(TTCategory)/orientationHeight</TokenIdentifier>
+			<Abstract type="html">Return the height in portrait or the width in landscape.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) CGFloat orientationHeight</Declaration>
+			
+			
+			<Anchor>//api/name/orientationHeight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/descendantOrSelfWithClass:</TokenIdentifier>
+			<Abstract type="html">Finds the first descendant view (including this view) that is a member of a particular class.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIView *)descendantOrSelfWithClass:(Class)cls</Declaration>
+			
+			
+			<Anchor>//api/name/descendantOrSelfWithClass:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/ancestorOrSelfWithClass:</TokenIdentifier>
+			<Abstract type="html">Finds the first ancestor view (including this view) that is a member of a particular class.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (UIView *)ancestorOrSelfWithClass:(Class)cls</Declaration>
+			
+			
+			<Anchor>//api/name/ancestorOrSelfWithClass:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/removeAllSubviews</TokenIdentifier>
+			<Abstract type="html">Removes all subviews.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeAllSubviews</Declaration>
+			
+			
+			<Anchor>//api/name/removeAllSubviews</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/simulateTapAtPoint:</TokenIdentifier>
+			<Abstract type="html">WARNING: This depends on undocumented APIs and may be fragile.  For testing only.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)simulateTapAtPoint:(CGPoint)location</Declaration>
+			
+			
+			<Anchor>//api/name/simulateTapAtPoint:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/offsetFromView:</TokenIdentifier>
+			<Abstract type="html">Calculates the offset of this view from another view in screen coordinates.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (CGPoint)offsetFromView:(UIView *)otherView</Declaration>
+			
+			
+			<Anchor>//api/name/offsetFromView:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/frameWithKeyboardSubtracted:</TokenIdentifier>
+			<Abstract type="html">Calculates the frame of this view with parts that intersect with the keyboard subtracted.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (CGRect)frameWithKeyboardSubtracted:(CGFloat)plusHeight</Declaration>
+			
+			
+			<Anchor>//api/name/frameWithKeyboardSubtracted:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/presentAsKeyboardInView:</TokenIdentifier>
+			<Abstract type="html">Shows the view in a window at the bottom of the screen.</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)presentAsKeyboardInView:(UIView *)containingView</Declaration>
+			
+			
+			<Anchor>//api/name/presentAsKeyboardInView:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIView(TTCategory)/dismissAsKeyboard:</TokenIdentifier>
+			<Abstract type="html">Hides a view that was showing in a window at the bottom of the screen (via presentAsKeyboard).</Abstract>
+			<DeclaredIn>UIViewAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (void)dismissAsKeyboard:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/dismissAsKeyboard:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

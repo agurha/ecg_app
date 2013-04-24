@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTRequestLoader.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTRequestLoader</TokenIdentifier>
+			<Abstract type="html">The loader manages a set of TTURLRequests and makes the necessary callbacks for each.
+It implements the NSURLConnectionDelegate protocol and calls the required operations on the
+queue as the protocol methods are invoked.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>
+			
+			<NodeRef refid="105"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/setRequests:</TokenIdentifier>
+			<Abstract type="html">The list of TTURLRequests currently attached to this loader.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *requests</Declaration>
+			
+			
+			<Anchor>//api/name/requests</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRequestLoader/requests</TokenIdentifier>
+			<Abstract type="html">The list of TTURLRequests currently attached to this loader.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *requests</Declaration>
+			
+			
+			<Anchor>//api/name/requests</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/setUrlPath:</TokenIdentifier>
+			<Abstract type="html">The common urlPath shared by every request.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/urlPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRequestLoader/urlPath</TokenIdentifier>
+			<Abstract type="html">The common urlPath shared by every request.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/urlPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/setCacheKey:</TokenIdentifier>
+			<Abstract type="html">The common cacheKey shared by every request.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *cacheKey</Declaration>
+			
+			
+			<Anchor>//api/name/cacheKey</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRequestLoader/cacheKey</TokenIdentifier>
+			<Abstract type="html">The common cacheKey shared by every request.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *cacheKey</Declaration>
+			
+			
+			<Anchor>//api/name/cacheKey</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/setCachePolicy:</TokenIdentifier>
+			<Abstract type="html">The common cache policy shared by every request.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTURLRequestCachePolicy cachePolicy</Declaration>
+			
+			
+			<Anchor>//api/name/cachePolicy</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRequestLoader/cachePolicy</TokenIdentifier>
+			<Abstract type="html">The common cache policy shared by every request.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTURLRequestCachePolicy cachePolicy</Declaration>
+			
+			
+			<Anchor>//api/name/cachePolicy</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/setCacheExpirationAge:</TokenIdentifier>
+			<Abstract type="html">The common cache expiration age shared by ever request.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSTimeInterval cacheExpirationAge</Declaration>
+			
+			
+			<Anchor>//api/name/cacheExpirationAge</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRequestLoader/cacheExpirationAge</TokenIdentifier>
+			<Abstract type="html">The common cache expiration age shared by ever request.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSTimeInterval cacheExpirationAge</Declaration>
+			
+			
+			<Anchor>//api/name/cacheExpirationAge</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/setIsLoading:</TokenIdentifier>
+			<Abstract type="html">Whether or not any of the requests in this loader are loading.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isLoading</Declaration>
+			
+			
+			<Anchor>//api/name/isLoading</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRequestLoader/isLoading</TokenIdentifier>
+			<Abstract type="html">Whether or not any of the requests in this loader are loading.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isLoading</Declaration>
+			
+			
+			<Anchor>//api/name/isLoading</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/set__TTDEPRECATED_METHOD:</TokenIdentifier>
+			<Abstract type="html">Deprecated due to name ambiguity. Use urlPath instead.
+Remove after May 6, 2010.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *__TTDEPRECATED_METHOD</Declaration>
+			
+			
+			<Anchor>//api/name/__TTDEPRECATED_METHOD</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTRequestLoader/__TTDEPRECATED_METHOD</TokenIdentifier>
+			<Abstract type="html">Deprecated due to name ambiguity. Use urlPath instead.
+Remove after May 6, 2010.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *__TTDEPRECATED_METHOD</Declaration>
+			
+			
+			<Anchor>//api/name/__TTDEPRECATED_METHOD</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/initForRequest:queue:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (id)initForRequest:(TTURLRequest *)request queue:(TTURLRequestQueue *)queue</Declaration>
+			
+			
+			<Anchor>//api/name/initForRequest:queue:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/addRequest:</TokenIdentifier>
+			<Abstract type="html">Duplication is possible due to the use of an NSArray for the request list.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (void)addRequest:(TTURLRequest *)request</Declaration>
+			
+			
+			<Anchor>//api/name/addRequest:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/removeRequest:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeRequest:(TTURLRequest *)request</Declaration>
+			
+			
+			<Anchor>//api/name/removeRequest:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/load:</TokenIdentifier>
+			<Abstract type="html">If the loader isn&apos;t already active, create the NSURLRequest from the first TTURLRequest added
+to this loader and fire it off.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (void)load:(NSURL *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/load:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/loadSynchronously:</TokenIdentifier>
+			<Abstract type="html">As with load:, will create the NSURLRequest from the first TTURLRequest added to the loader.
+Unlike load:, this method will not return until the request has been fully completed.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (void)loadSynchronously:(NSURL *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/loadSynchronously:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/cancel:</TokenIdentifier>
+			<Abstract type="html">Cancel only the given request.</Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)cancel:(TTURLRequest *)request</Declaration>
+			
+			<ReturnValue><Abstract type="html">NO   If there are no requests left.
+YES  If there are any requests left.</Abstract></ReturnValue>
+			<Anchor>//api/name/cancel:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/processResponse:data:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (NSError *)processResponse:(NSHTTPURLResponse *)response data:(id)data</Declaration>
+			
+			
+			<Anchor>//api/name/processResponse:data:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/dispatchError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (void)dispatchError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/dispatchError:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/dispatchLoaded:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (void)dispatchLoaded:(NSDate *)timestamp</Declaration>
+			
+			
+			<Anchor>//api/name/dispatchLoaded:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/dispatchAuthenticationChallenge:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (void)dispatchAuthenticationChallenge:(NSURLAuthenticationChallenge *)challenge</Declaration>
+			
+			
+			<Anchor>//api/name/dispatchAuthenticationChallenge:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTRequestLoader/cancel</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTRequestLoader.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancel</Declaration>
+			
+			
+			<Anchor>//api/name/cancel</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

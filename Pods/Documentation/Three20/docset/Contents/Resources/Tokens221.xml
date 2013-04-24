@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLNavigatorPattern.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLNavigatorPattern</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>
+			
+			<NodeRef refid="221"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/setTargetClass:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) Class targetClass</Declaration>
+			
+			
+			<Anchor>//api/name/targetClass</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLNavigatorPattern/targetClass</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) Class targetClass</Declaration>
+			
+			
+			<Anchor>//api/name/targetClass</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/setTargetObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id targetObject</Declaration>
+			
+			
+			<Anchor>//api/name/targetObject</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLNavigatorPattern/targetObject</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) id targetObject</Declaration>
+			
+			
+			<Anchor>//api/name/targetObject</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/setNavigationMode:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTNavigationMode navigationMode</Declaration>
+			
+			
+			<Anchor>//api/name/navigationMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLNavigatorPattern/navigationMode</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTNavigationMode navigationMode</Declaration>
+			
+			
+			<Anchor>//api/name/navigationMode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/setParentURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *parentURL</Declaration>
+			
+			
+			<Anchor>//api/name/parentURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLNavigatorPattern/parentURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *parentURL</Declaration>
+			
+			
+			<Anchor>//api/name/parentURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/setTransition:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) NSInteger transition</Declaration>
+			
+			
+			<Anchor>//api/name/transition</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLNavigatorPattern/transition</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) NSInteger transition</Declaration>
+			
+			
+			<Anchor>//api/name/transition</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/setArgumentCount:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) NSInteger argumentCount</Declaration>
+			
+			
+			<Anchor>//api/name/argumentCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLNavigatorPattern/argumentCount</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) NSInteger argumentCount</Declaration>
+			
+			
+			<Anchor>//api/name/argumentCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/setIsUniversal:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isUniversal</Declaration>
+			
+			
+			<Anchor>//api/name/isUniversal</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLNavigatorPattern/isUniversal</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isUniversal</Declaration>
+			
+			
+			<Anchor>//api/name/isUniversal</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/setIsFragment:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isFragment</Declaration>
+			
+			
+			<Anchor>//api/name/isFragment</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLNavigatorPattern/isFragment</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isFragment</Declaration>
+			
+			
+			<Anchor>//api/name/isFragment</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/initWithTarget:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithTarget:(id)target</Declaration>
+			
+			
+			<Anchor>//api/name/initWithTarget:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/initWithTarget:mode:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithTarget:(id)target mode:(TTNavigationMode)navigationMode</Declaration>
+			
+			
+			<Anchor>//api/name/initWithTarget:mode:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/compile</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>- (void)compile</Declaration>
+			
+			
+			<Anchor>//api/name/compile</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/matchURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)matchURL:(NSURL *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/matchURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/invoke:withURL:query:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>- (id)invoke:(id)target withURL:(NSURL *)URL query:(NSDictionary *)query</Declaration>
+			
+			
+			<Anchor>//api/name/invoke:withURL:query:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLNavigatorPattern/createObjectFromURL:query:</TokenIdentifier>
+			<Abstract type="html">either instantiates an object or delegates object creation
+depending on current configuration</Abstract>
+			<DeclaredIn>TTURLNavigatorPattern.h</DeclaredIn>			
+			
+			<Declaration>- (id)createObjectFromURL:(NSURL *)URL query:(NSDictionary *)query</Declaration>
+			
+			<ReturnValue><Abstract type="html">the newly created object or nil if something went wrong</Abstract></ReturnValue>
+			<Anchor>//api/name/createObjectFromURL:query:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

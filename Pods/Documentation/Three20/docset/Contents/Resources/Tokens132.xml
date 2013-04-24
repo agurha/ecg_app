@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTStyledImageFrame.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTStyledImageFrame</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledImageFrame.h</DeclaredIn>
+			
+			<NodeRef refid="132"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledImageFrame/setImageNode:</TokenIdentifier>
+			<Abstract type="html">The node represented by the frame.</Abstract>
+			<DeclaredIn>TTStyledImageFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTStyledImageNode *imageNode</Declaration>
+			
+			
+			<Anchor>//api/name/imageNode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledImageFrame/imageNode</TokenIdentifier>
+			<Abstract type="html">The node represented by the frame.</Abstract>
+			<DeclaredIn>TTStyledImageFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTStyledImageNode *imageNode</Declaration>
+			
+			
+			<Anchor>//api/name/imageNode</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledImageFrame/setStyle:</TokenIdentifier>
+			<Abstract type="html">The style used to render the frame;</Abstract>
+			<DeclaredIn>TTStyledImageFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *style</Declaration>
+			
+			
+			<Anchor>//api/name/style</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTStyledImageFrame/style</TokenIdentifier>
+			<Abstract type="html">The style used to render the frame;</Abstract>
+			<DeclaredIn>TTStyledImageFrame.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *style</Declaration>
+			
+			
+			<Anchor>//api/name/style</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTStyledImageFrame/initWithElement:node:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTStyledImageFrame.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithElement:(TTStyledElement *)element node:(TTStyledImageNode *)node</Declaration>
+			
+			
+			<Anchor>//api/name/initWithElement:node:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

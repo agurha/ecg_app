@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTSearchDisplayController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTSearchDisplayController</TokenIdentifier>
+			<Abstract type="html">Shows search results using a TTTableViewController.</Abstract>
+			<DeclaredIn>TTSearchDisplayController.h</DeclaredIn>
+			
+			<NodeRef refid="111"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchDisplayController/setSearchResultsViewController:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchDisplayController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTableViewController *searchResultsViewController</Declaration>
+			
+			
+			<Anchor>//api/name/searchResultsViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchDisplayController/searchResultsViewController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchDisplayController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTTableViewController *searchResultsViewController</Declaration>
+			
+			
+			<Anchor>//api/name/searchResultsViewController</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSearchDisplayController/setPausesBeforeSearching:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchDisplayController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL pausesBeforeSearching</Declaration>
+			
+			
+			<Anchor>//api/name/pausesBeforeSearching</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSearchDisplayController/pausesBeforeSearching</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSearchDisplayController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL pausesBeforeSearching</Declaration>
+			
+			
+			<Anchor>//api/name/pausesBeforeSearching</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

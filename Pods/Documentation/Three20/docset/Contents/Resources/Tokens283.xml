@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTDataPopulatorDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTDataPopulatorDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDataPopulatorDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="283"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTDataPopulatorDelegate/tryToConvert:ofClass:toClass:</TokenIdentifier>
+			<Abstract type="html">When the Data Populator can&apos;t automatically convert some specific type. He will call this method
+and let you extend the class converting you specific type.</Abstract>
+			<DeclaredIn>TTDataPopulatorDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (id)tryToConvert:(id)object ofClass:(Class)objectClass toClass:(Class)convertToClass</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>convertToClass</Name>
+					<Abstract type="html">is the class that we need to receive whe converted.</Abstract>
+				</Parameter><Parameter>
+					<Name>firstObjectClass</Name>
+					<Abstract type="html">is the class of the original object.</Abstract>
+				</Parameter><Parameter>
+					<Name>firstObject</Name>
+					<Abstract type="html">is original object that we need to convert.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">Should return converted object or &lt;tt&gt;nil&lt;/tt&gt; if can&apos;t convert.</Abstract></ReturnValue>
+			<Anchor>//api/name/tryToConvert:ofClass:toClass:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTBaseViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTBaseViewController</TokenIdentifier>
+			<Abstract type="html">A view controller with some useful additions.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>
+			
+			<NodeRef refid="38"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseViewController/setNavigationBarStyle:</TokenIdentifier>
+			<Abstract type="html">The style of the navigation bar when this view controller is pushed onto
+a navigation controller.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIBarStyle navigationBarStyle</Declaration>
+			
+			
+			<Anchor>//api/name/navigationBarStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseViewController/navigationBarStyle</TokenIdentifier>
+			<Abstract type="html">The style of the navigation bar when this view controller is pushed onto
+a navigation controller.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIBarStyle navigationBarStyle</Declaration>
+			
+			
+			<Anchor>//api/name/navigationBarStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseViewController/setNavigationBarTintColor:</TokenIdentifier>
+			<Abstract type="html">The color of the navigation bar when this view controller is pushed onto
+a navigation controller.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *navigationBarTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/navigationBarTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseViewController/navigationBarTintColor</TokenIdentifier>
+			<Abstract type="html">The color of the navigation bar when this view controller is pushed onto
+a navigation controller.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *navigationBarTintColor</Declaration>
+			
+			
+			<Anchor>//api/name/navigationBarTintColor</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseViewController/setStatusBarStyle:</TokenIdentifier>
+			<Abstract type="html">The style of the status bar when this view controller is appearing.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIStatusBarStyle statusBarStyle</Declaration>
+			
+			
+			<Anchor>//api/name/statusBarStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseViewController/statusBarStyle</TokenIdentifier>
+			<Abstract type="html">The style of the status bar when this view controller is appearing.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) UIStatusBarStyle statusBarStyle</Declaration>
+			
+			
+			<Anchor>//api/name/statusBarStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseViewController/setHasViewAppeared:</TokenIdentifier>
+			<Abstract type="html">The view has appeared at least once and hasn&apos;t been removed due to a memory warning.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL hasViewAppeared</Declaration>
+			
+			
+			<Anchor>//api/name/hasViewAppeared</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseViewController/hasViewAppeared</TokenIdentifier>
+			<Abstract type="html">The view has appeared at least once and hasn&apos;t been removed due to a memory warning.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL hasViewAppeared</Declaration>
+			
+			
+			<Anchor>//api/name/hasViewAppeared</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseViewController/setIsViewAppearing:</TokenIdentifier>
+			<Abstract type="html">The view is about to appear and has not appeared yet.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isViewAppearing</Declaration>
+			
+			
+			<Anchor>//api/name/isViewAppearing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseViewController/isViewAppearing</TokenIdentifier>
+			<Abstract type="html">The view is about to appear and has not appeared yet.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) BOOL isViewAppearing</Declaration>
+			
+			
+			<Anchor>//api/name/isViewAppearing</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseViewController/setAutoresizesForKeyboard:</TokenIdentifier>
+			<Abstract type="html">Determines if the view will be resized automatically to fit the keyboard.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL autoresizesForKeyboard</Declaration>
+			
+			
+			<Anchor>//api/name/autoresizesForKeyboard</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTBaseViewController/autoresizesForKeyboard</TokenIdentifier>
+			<Abstract type="html">Determines if the view will be resized automatically to fit the keyboard.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL autoresizesForKeyboard</Declaration>
+			
+			
+			<Anchor>//api/name/autoresizesForKeyboard</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseViewController/keyboardWillAppear:withBounds:</TokenIdentifier>
+			<Abstract type="html">Sent to the controller before the keyboard slides in.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)keyboardWillAppear:(BOOL)animated withBounds:(CGRect)bounds</Declaration>
+			
+			
+			<Anchor>//api/name/keyboardWillAppear:withBounds:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseViewController/keyboardWillDisappear:withBounds:</TokenIdentifier>
+			<Abstract type="html">Sent to the controller before the keyboard slides out.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)keyboardWillDisappear:(BOOL)animated withBounds:(CGRect)bounds</Declaration>
+			
+			
+			<Anchor>//api/name/keyboardWillDisappear:withBounds:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseViewController/keyboardDidAppear:withBounds:</TokenIdentifier>
+			<Abstract type="html">Sent to the controller after the keyboard has slid in.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)keyboardDidAppear:(BOOL)animated withBounds:(CGRect)bounds</Declaration>
+			
+			
+			<Anchor>//api/name/keyboardDidAppear:withBounds:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseViewController/keyboardDidDisappear:withBounds:</TokenIdentifier>
+			<Abstract type="html">Sent to the controller after the keyboard has slid out.</Abstract>
+			<DeclaredIn>TTBaseViewController.h</DeclaredIn>			
+			
+			<Declaration>- (void)keyboardDidDisappear:(BOOL)animated withBounds:(CGRect)bounds</Declaration>
+			
+			
+			<Anchor>//api/name/keyboardDidDisappear:withBounds:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableImageItem.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableImageItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>
+			
+			<NodeRef refid="166"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableImageItem/setImageURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/imageURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableImageItem/imageURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/imageURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableImageItem/setDefaultImage:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *defaultImage</Declaration>
+			
+			
+			<Anchor>//api/name/defaultImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableImageItem/defaultImage</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIImage *defaultImage</Declaration>
+			
+			
+			<Anchor>//api/name/defaultImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableImageItem/setImageStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *imageStyle</Declaration>
+			
+			
+			<Anchor>//api/name/imageStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableImageItem/imageStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *imageStyle</Declaration>
+			
+			
+			<Anchor>//api/name/imageStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableImageItem/itemWithText:imageURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text imageURL:(NSString *)imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:imageURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableImageItem/itemWithText:imageURL:URL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text imageURL:(NSString *)imageURL URL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:imageURL:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableImageItem/itemWithText:imageURL:defaultImage:URL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text imageURL:(NSString *)imageURL defaultImage:(UIImage *)defaultImage URL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:imageURL:defaultImage:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableImageItem/itemWithText:imageURL:defaultImage:imageStyle:URL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableImageItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithText:(NSString *)text imageURL:(NSString *)imageURL defaultImage:(UIImage *)defaultImage imageStyle:(TTStyle *)imageStyle URL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithText:imageURL:defaultImage:imageStyle:URL:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

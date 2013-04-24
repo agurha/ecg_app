@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableMoreButton.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableMoreButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMoreButton.h</DeclaredIn>
+			
+			<NodeRef refid="175"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableMoreButton/setIsLoading:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMoreButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL isLoading</Declaration>
+			
+			
+			<Anchor>//api/name/isLoading</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableMoreButton/isLoading</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMoreButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL isLoading</Declaration>
+			
+			
+			<Anchor>//api/name/isLoading</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableMoreButton/setModel:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMoreButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTModel&gt; model</Declaration>
+			
+			
+			<Anchor>//api/name/model</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableMoreButton/model</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMoreButton.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTModel&gt; model</Declaration>
+			
+			
+			<Anchor>//api/name/model</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

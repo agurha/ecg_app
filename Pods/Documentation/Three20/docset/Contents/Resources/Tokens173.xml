@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableMessageItem.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableMessageItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>
+			
+			<NodeRef refid="173"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableMessageItem/setTitle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableMessageItem/title</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *title</Declaration>
+			
+			
+			<Anchor>//api/name/title</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableMessageItem/setCaption:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *caption</Declaration>
+			
+			
+			<Anchor>//api/name/caption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableMessageItem/caption</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *caption</Declaration>
+			
+			
+			<Anchor>//api/name/caption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableMessageItem/setTimestamp:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSDate *timestamp</Declaration>
+			
+			
+			<Anchor>//api/name/timestamp</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableMessageItem/timestamp</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) NSDate *timestamp</Declaration>
+			
+			
+			<Anchor>//api/name/timestamp</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableMessageItem/setImageURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/imageURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableMessageItem/imageURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *imageURL</Declaration>
+			
+			
+			<Anchor>//api/name/imageURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableMessageItem/itemWithTitle:caption:text:timestamp:URL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithTitle:(NSString *)title caption:(NSString *)caption text:(NSString *)text timestamp:(NSDate *)timestamp URL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithTitle:caption:text:timestamp:URL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableMessageItem/itemWithTitle:caption:text:timestamp:imageURL:URL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableMessageItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithTitle:(NSString *)title caption:(NSString *)caption text:(NSString *)text timestamp:(NSDate *)timestamp imageURL:(NSString *)imageURL URL:(NSString *)URL</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithTitle:caption:text:timestamp:imageURL:URL:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

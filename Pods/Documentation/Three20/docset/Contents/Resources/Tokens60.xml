@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTExtensionsController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTExtensionsController</TokenIdentifier>
+			<Abstract type="html">A list of all available, loaded, and failed extensions. This controller is used in
+conjunction with the TTExtensionLoader. It is intended to provide helpful information
+about the extensions linked in the application. It can also be used as a means of
+crediting the extensions whose licenses require it.</Abstract>
+			<DeclaredIn>TTExtensionsController.h</DeclaredIn>
+			
+	<RelatedTokens>
+		<TokenIdentifier>//apple_ref/occ/cl/TTExtensionLoader</TokenIdentifier>
+		
+	</RelatedTokens>
+	
+			<NodeRef refid="60"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTExtensionsController/registerUrlPathsWithNavigator:prefix:</TokenIdentifier>
+			<Abstract type="html">Registers two URLs with the given navigator (e.g. with a prefix of @&quot;tt://&quot;)</Abstract>
+			<DeclaredIn>TTExtensionsController.h</DeclaredIn>			
+			
+			<Declaration>+ (void)registerUrlPathsWithNavigator:(TTNavigator *)navigator prefix:(NSString *)prefix</Declaration>
+			
+			
+			<Anchor>//api/name/registerUrlPathsWithNavigator:prefix:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTCSSRuleSet.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTCSSRuleSet</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>
+			
+			<NodeRef refid="46"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setSelector:</TokenIdentifier>
+			<Abstract type="html">The identifier for this rule set. Also knowed as &lt;tt&gt;selector&lt;/tt&gt;</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *selector</Declaration>
+			
+			
+			<Anchor>//api/name/selector</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/selector</TokenIdentifier>
+			<Abstract type="html">The identifier for this rule set. Also knowed as &lt;tt&gt;selector&lt;/tt&gt;</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *selector</Declaration>
+			
+			
+			<Anchor>//api/name/selector</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setFont_family:</TokenIdentifier>
+			<Abstract type="html">A font family name only specifies a name given to a set of font faces,
+it does not specify an individual face.
+You can call &lt;tt&gt;[UIFont familyNames]&lt;/tt&gt; to retrieve a list of
+available fonts on your system. Font family name is case-sensitive,
+make sure to inform correctly.
+See CSS3 Font Family
+for more information.&lt;br&gt;
+Default value is the first &lt;b&gt;Default Font Family&lt;/b&gt;.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *font_family</Declaration>
+			
+			
+			<Anchor>//api/name/font_family</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/font_family</TokenIdentifier>
+			<Abstract type="html">A font family name only specifies a name given to a set of font faces,
+it does not specify an individual face.
+You can call &lt;tt&gt;[UIFont familyNames]&lt;/tt&gt; to retrieve a list of
+available fonts on your system. Font family name is case-sensitive,
+make sure to inform correctly.
+See CSS3 Font Family
+for more information.&lt;br&gt;
+Default value is the first &lt;b&gt;Default Font Family&lt;/b&gt;.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *font_family</Declaration>
+			
+			
+			<Anchor>//api/name/font_family</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setFont_weight:</TokenIdentifier>
+			<Abstract type="html">The ‘font-weight’ property specifies weight of glyphs in the font.
+In iOS each font has different font weight descriptions (such as Medium, Light, Oblique, etc.).
+You can call &lt;tt&gt;[UIFont familyNames]&lt;/tt&gt; to retrieve a list of available fonts on your system.
+Default value is &lt;tt&gt;nil&lt;/tt&gt;.&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Example:&lt;/b&gt;&lt;br&gt;
+To use the font &lt;tt&gt;Helvetica-BoldOblique&lt;/tt&gt; you should
+inform &lt;tt&gt;BoldOblique&lt;/tt&gt; as font-weight and &lt;tt&gt;Helvetica&lt;/tt&gt; as font_family.
+&lt;br&gt;
+Font weight name is case-sensitive, make sure to inform correctly.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *font_weight</Declaration>
+			
+			
+			<Anchor>//api/name/font_weight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/font_weight</TokenIdentifier>
+			<Abstract type="html">The ‘font-weight’ property specifies weight of glyphs in the font.
+In iOS each font has different font weight descriptions (such as Medium, Light, Oblique, etc.).
+You can call &lt;tt&gt;[UIFont familyNames]&lt;/tt&gt; to retrieve a list of available fonts on your system.
+Default value is &lt;tt&gt;nil&lt;/tt&gt;.&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Example:&lt;/b&gt;&lt;br&gt;
+To use the font &lt;tt&gt;Helvetica-BoldOblique&lt;/tt&gt; you should
+inform &lt;tt&gt;BoldOblique&lt;/tt&gt; as font-weight and &lt;tt&gt;Helvetica&lt;/tt&gt; as font_family.
+&lt;br&gt;
+Font weight name is case-sensitive, make sure to inform correctly.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *font_weight</Declaration>
+			
+			
+			<Anchor>//api/name/font_weight</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setFont_size:</TokenIdentifier>
+			<Abstract type="html">This property indicates the desired height of glyphs from the font.
+This value is always interpreted in points, regardless of what you specify.
+This is due to the tricky nature of varying DPI on the various iPhone OS devices.
+Default value is the &lt;b&gt;Default System Font Size&lt;/b&gt; (&lt;tt&gt;[UIFont systemFontSize]&lt;/tt&gt;).</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSNumber *font_size</Declaration>
+			
+			
+			<Anchor>//api/name/font_size</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/font_size</TokenIdentifier>
+			<Abstract type="html">This property indicates the desired height of glyphs from the font.
+This value is always interpreted in points, regardless of what you specify.
+This is due to the tricky nature of varying DPI on the various iPhone OS devices.
+Default value is the &lt;b&gt;Default System Font Size&lt;/b&gt; (&lt;tt&gt;[UIFont systemFontSize]&lt;/tt&gt;).</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSNumber *font_size</Declaration>
+			
+			
+			<Anchor>//api/name/font_size</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setText_align:</TokenIdentifier>
+			<Abstract type="html">This property describes how inline contents of a block are horizontally
+aligned. Values have the following meanings:&lt;br&gt;
+		- &lt;tt&gt;left&lt;/tt&gt;: Align text along the left edge.&lt;br&gt;
+		- &lt;tt&gt;center&lt;/tt&gt;: Align text equally along both sides of the center line.&lt;br&gt;
+		- &lt;tt&gt;right&lt;/tt&gt;: Align text along the right edge.&lt;br&gt;
+&lt;br&gt;
+Use the textAlign method to retrieve an iOS formatted UITextAlignment
+based on this values.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *text_align</Declaration>
+			
+			
+			<Anchor>//api/name/text_align</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/text_align</TokenIdentifier>
+			<Abstract type="html">This property describes how inline contents of a block are horizontally
+aligned. Values have the following meanings:&lt;br&gt;
+		- &lt;tt&gt;left&lt;/tt&gt;: Align text along the left edge.&lt;br&gt;
+		- &lt;tt&gt;center&lt;/tt&gt;: Align text equally along both sides of the center line.&lt;br&gt;
+		- &lt;tt&gt;right&lt;/tt&gt;: Align text along the right edge.&lt;br&gt;
+&lt;br&gt;
+Use the textAlign method to retrieve an iOS formatted UITextAlignment
+based on this values.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *text_align</Declaration>
+			
+			
+			<Anchor>//api/name/text_align</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setWidth:</TokenIdentifier>
+			<Abstract type="html">This property specifies the size of an element’s rendering box.
+Possible Values:&lt;br&gt;
+- &lt;tt&gt;auto&lt;/tt&gt;: The width is determinant on the values of other properties.
+- &lt;tt&gt;length&lt;/tt&gt;: Refers to an absolute measurement for the computed
+element box width. Negative values are not allowed.
+- &lt;tt&gt;percentage&lt;/tt&gt;: Refers to a percentage of the width of the containing
+element block.&lt;br&gt;
+Examples:&lt;br&gt;
+&lt;tt&gt;&quot;75px&quot;, &quot;50%&quot;&lt;/tt&gt;</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/width</TokenIdentifier>
+			<Abstract type="html">This property specifies the size of an element’s rendering box.
+Possible Values:&lt;br&gt;
+- &lt;tt&gt;auto&lt;/tt&gt;: The width is determinant on the values of other properties.
+- &lt;tt&gt;length&lt;/tt&gt;: Refers to an absolute measurement for the computed
+element box width. Negative values are not allowed.
+- &lt;tt&gt;percentage&lt;/tt&gt;: Refers to a percentage of the width of the containing
+element block.&lt;br&gt;
+Examples:&lt;br&gt;
+&lt;tt&gt;&quot;75px&quot;, &quot;50%&quot;&lt;/tt&gt;</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setHeight:</TokenIdentifier>
+			<Abstract type="html">/copydef width</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *height</Declaration>
+			
+			
+			<Anchor>//api/name/height</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/height</TokenIdentifier>
+			<Abstract type="html">/copydef width</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *height</Declaration>
+			
+			
+			<Anchor>//api/name/height</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setTop:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *top</Declaration>
+			
+			
+			<Anchor>//api/name/top</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/top</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *top</Declaration>
+			
+			
+			<Anchor>//api/name/top</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setLeft:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *left</Declaration>
+			
+			
+			<Anchor>//api/name/left</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/left</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *left</Declaration>
+			
+			
+			<Anchor>//api/name/left</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setRight:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *right</Declaration>
+			
+			
+			<Anchor>//api/name/right</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/right</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *right</Declaration>
+			
+			
+			<Anchor>//api/name/right</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setBottom:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *bottom</Declaration>
+			
+			
+			<Anchor>//api/name/bottom</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/bottom</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *bottom</Declaration>
+			
+			
+			<Anchor>//api/name/bottom</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setVisibility:</TokenIdentifier>
+			<Abstract type="html">The visibility property specifies whether or not an element is visible.
+Possible Values:&lt;br&gt;
+- &lt;tt&gt;visible&lt;/tt&gt;: The element is visible. &lt;b&gt;This is default.&lt;/b&gt;
+- &lt;tt&gt;hidden&lt;/tt&gt;: The element is invisible.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *visibility</Declaration>
+			
+			
+			<Anchor>//api/name/visibility</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/visibility</TokenIdentifier>
+			<Abstract type="html">The visibility property specifies whether or not an element is visible.
+Possible Values:&lt;br&gt;
+- &lt;tt&gt;visible&lt;/tt&gt;: The element is visible. &lt;b&gt;This is default.&lt;/b&gt;
+- &lt;tt&gt;hidden&lt;/tt&gt;: The element is invisible.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *visibility</Declaration>
+			
+			
+			<Anchor>//api/name/visibility</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setText_shadow:</TokenIdentifier>
+			<Abstract type="html">An TTCSSTextShadowModel object that define a text shadow properties.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (retain) TTCSSTextShadowModel *text_shadow</Declaration>
+			
+			
+			<Anchor>//api/name/text_shadow</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/text_shadow</TokenIdentifier>
+			<Abstract type="html">An TTCSSTextShadowModel object that define a text shadow properties.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (retain) TTCSSTextShadowModel *text_shadow</Declaration>
+			
+			
+			<Anchor>//api/name/text_shadow</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setText_shadow_opacity:</TokenIdentifier>
+			<Abstract type="html">Specifies the opacity of the receiver’s text shadow.
+The default value is 0.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSNumber *text_shadow_opacity</Declaration>
+			
+			
+			<Anchor>//api/name/text_shadow_opacity</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/text_shadow_opacity</TokenIdentifier>
+			<Abstract type="html">Specifies the opacity of the receiver’s text shadow.
+The default value is 0.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSNumber *text_shadow_opacity</Declaration>
+			
+			
+			<Anchor>//api/name/text_shadow_opacity</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setColor:</TokenIdentifier>
+			<Abstract type="html">This property describes the foreground color of an element.
+Default value is a transparent color.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (retain) id color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/color</TokenIdentifier>
+			<Abstract type="html">This property describes the foreground color of an element.
+Default value is a transparent color.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (retain) id color</Declaration>
+			
+			
+			<Anchor>//api/name/color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setBackground_color:</TokenIdentifier>
+			<Abstract type="html">This property describes the background color of an element.
+Default value is a transparent color.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (retain) id background_color</Declaration>
+			
+			
+			<Anchor>//api/name/background_color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/background_color</TokenIdentifier>
+			<Abstract type="html">This property describes the background color of an element.
+Default value is a transparent color.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (retain) id background_color</Declaration>
+			
+			
+			<Anchor>//api/name/background_color</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setBackground_image:</TokenIdentifier>
+			<Abstract type="html">This property sets the background image(s) of an element.
+Default value is &lt;tt&gt;nil&lt;/tt&gt;.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *background_image</Declaration>
+			
+			
+			<Anchor>//api/name/background_image</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/background_image</TokenIdentifier>
+			<Abstract type="html">This property sets the background image(s) of an element.
+Default value is &lt;tt&gt;nil&lt;/tt&gt;.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *background_image</Declaration>
+			
+			
+			<Anchor>//api/name/background_image</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setVertical_align:</TokenIdentifier>
+			<Abstract type="html">This property sets the vertical alignment of an element.
+Values have the following meanings:&lt;br&gt;
+		- &lt;tt&gt;top&lt;/tt&gt;: The top of the element is aligned with the top of the
+tallest element on the line.&lt;br&gt;
+		- &lt;tt&gt;middle&lt;/tt&gt;: The element is placed in the middle of the parent element.&lt;br&gt;
+		- &lt;tt&gt;bottom&lt;/tt&gt;: The bottom of the element is aligned with the lowest element on the line.&lt;br&gt;
+&lt;br&gt;
+Use the contentVerticalAlignment method to retrieve an iOS formatted
+UIControlContentVerticalAlignment based on this values.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *vertical_align</Declaration>
+			
+			
+			<Anchor>//api/name/vertical_align</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/vertical_align</TokenIdentifier>
+			<Abstract type="html">This property sets the vertical alignment of an element.
+Values have the following meanings:&lt;br&gt;
+		- &lt;tt&gt;top&lt;/tt&gt;: The top of the element is aligned with the top of the
+tallest element on the line.&lt;br&gt;
+		- &lt;tt&gt;middle&lt;/tt&gt;: The element is placed in the middle of the parent element.&lt;br&gt;
+		- &lt;tt&gt;bottom&lt;/tt&gt;: The bottom of the element is aligned with the lowest element on the line.&lt;br&gt;
+&lt;br&gt;
+Use the contentVerticalAlignment method to retrieve an iOS formatted
+UIControlContentVerticalAlignment based on this values.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *vertical_align</Declaration>
+			
+			
+			<Anchor>//api/name/vertical_align</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setMargin_left:</TokenIdentifier>
+			<Abstract type="html">This property specifies the left margin of an element.
+Possible Values:&lt;br&gt;
+- &lt;tt&gt;auto&lt;/tt&gt;: The left margin is calculated automatically.
+- &lt;tt&gt;length&lt;/tt&gt;: Specifies a fixed left margin in px.
+- &lt;tt&gt;percentage&lt;/tt&gt;: Specifies a left margin in percent.
+Examples:&lt;br&gt;
+&lt;tt&gt;&quot;75px&quot;, &quot;50%&quot;&lt;/tt&gt;</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *margin_left</Declaration>
+			
+			
+			<Anchor>//api/name/margin_left</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/margin_left</TokenIdentifier>
+			<Abstract type="html">This property specifies the left margin of an element.
+Possible Values:&lt;br&gt;
+- &lt;tt&gt;auto&lt;/tt&gt;: The left margin is calculated automatically.
+- &lt;tt&gt;length&lt;/tt&gt;: Specifies a fixed left margin in px.
+- &lt;tt&gt;percentage&lt;/tt&gt;: Specifies a left margin in percent.
+Examples:&lt;br&gt;
+&lt;tt&gt;&quot;75px&quot;, &quot;50%&quot;&lt;/tt&gt;</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *margin_left</Declaration>
+			
+			
+			<Anchor>//api/name/margin_left</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/setMargin_right:</TokenIdentifier>
+			<Abstract type="html">This property specifies the right margin of an element.
+Possible Values:&lt;br&gt;
+- &lt;tt&gt;auto&lt;/tt&gt;: The right margin is calculated automatically.
+- &lt;tt&gt;length&lt;/tt&gt;: Specifies a fixed right margin in px.
+- &lt;tt&gt;percentage&lt;/tt&gt;: Specifies a left margin in percent.
+Examples:&lt;br&gt;
+&lt;tt&gt;&quot;75px&quot;, &quot;50%&quot;&lt;/tt&gt;</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *margin_right</Declaration>
+			
+			
+			<Anchor>//api/name/margin_right</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTCSSRuleSet/margin_right</TokenIdentifier>
+			<Abstract type="html">This property specifies the right margin of an element.
+Possible Values:&lt;br&gt;
+- &lt;tt&gt;auto&lt;/tt&gt;: The right margin is calculated automatically.
+- &lt;tt&gt;length&lt;/tt&gt;: Specifies a fixed right margin in px.
+- &lt;tt&gt;percentage&lt;/tt&gt;: Specifies a left margin in percent.
+Examples:&lt;br&gt;
+&lt;tt&gt;&quot;75px&quot;, &quot;50%&quot;&lt;/tt&gt;</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>@property (copy) NSString *margin_right</Declaration>
+			
+			
+			<Anchor>//api/name/margin_right</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTCSSRuleSet/initWithSelectorName:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>+ (id)initWithSelectorName:(NSString *)anRuleSetName</Declaration>
+			
+			
+			<Anchor>//api/name/initWithSelectorName:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/font</TokenIdentifier>
+			<Abstract type="html">Return an formatted UIFont object based on the defined properties.
+Will return &lt;tt&gt;nil&lt;/tt&gt; if can&apos;t format.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>- (UIFont *)font</Declaration>
+			
+			
+			<Anchor>//api/name/font</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/textAlign</TokenIdentifier>
+			<Abstract type="html">Return an formatted UITextAlignment based on the defined &lt;tt&gt;&apos;text_align&apos;&lt;/tt&gt; property.
+If isn&apos;t setted return default left alignment.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>- (UITextAlignment)textAlign</Declaration>
+			
+			
+			<Anchor>//api/name/textAlign</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/size</TokenIdentifier>
+			<Abstract type="html">Return an formatted CGSize based on the defined &lt;tt&gt;&apos;width&apos;&lt;/tt&gt;
+and &lt;tt&gt;&apos;height&apos;&lt;/tt&gt; properties.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>- (CGSize)size</Declaration>
+			
+			
+			<Anchor>//api/name/size</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/origin</TokenIdentifier>
+			<Abstract type="html">Return an formatted CGPoint based on the defined &lt;tt&gt;&apos;top&apos;&lt;/tt&gt;
+and &lt;tt&gt;&apos;left&apos;&lt;/tt&gt; properties.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>- (CGPoint)origin</Declaration>
+			
+			
+			<Anchor>//api/name/origin</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/hidden</TokenIdentifier>
+			<Abstract type="html">Return an Boolean value that determines whether the receiver is hidden based
+on the &lt;tt&gt;&apos;visibility&apos;&lt;/tt&gt; property.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)hidden</Declaration>
+			
+			
+			<Anchor>//api/name/hidden</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/contentVerticalAlignment</TokenIdentifier>
+			<Abstract type="html">Return an formatted UIControlContentVerticalAlignment based on the defined
+&lt;tt&gt;&apos;vertical_align&apos;&lt;/tt&gt; property. If isn&apos;t setted return default top alignment.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>- (UIControlContentVerticalAlignment)contentVerticalAlignment</Declaration>
+			
+			
+			<Anchor>//api/name/contentVerticalAlignment</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTCSSRuleSet/contentHorizontalAlignment</TokenIdentifier>
+			<Abstract type="html">Return an formatted UIControlContentHorizontalAlignment based on the defined
+&lt;tt&gt;&apos;margin-left&apos;&lt;/tt&gt; and &lt;tt&gt;margin-right&lt;/tt&gt; properties.
+If isn&apos;t setted return default left alignment.</Abstract>
+			<DeclaredIn>TTCSSRuleSet.h</DeclaredIn>			
+			
+			<Declaration>- (UIControlContentHorizontalAlignment)contentHorizontalAlignment</Declaration>
+			
+			
+			<Anchor>//api/name/contentHorizontalAlignment</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

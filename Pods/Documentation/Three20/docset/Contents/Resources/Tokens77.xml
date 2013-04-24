@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTLinearGradientBorderStyle.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTLinearGradientBorderStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>
+			
+			<NodeRef refid="77"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLinearGradientBorderStyle/setColor1:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color1</Declaration>
+			
+			
+			<Anchor>//api/name/color1</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLinearGradientBorderStyle/color1</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color1</Declaration>
+			
+			
+			<Anchor>//api/name/color1</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLinearGradientBorderStyle/setColor2:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color2</Declaration>
+			
+			
+			<Anchor>//api/name/color2</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLinearGradientBorderStyle/color2</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIColor *color2</Declaration>
+			
+			
+			<Anchor>//api/name/color2</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLinearGradientBorderStyle/setLocation1:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat location1</Declaration>
+			
+			
+			<Anchor>//api/name/location1</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLinearGradientBorderStyle/location1</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat location1</Declaration>
+			
+			
+			<Anchor>//api/name/location1</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLinearGradientBorderStyle/setLocation2:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat location2</Declaration>
+			
+			
+			<Anchor>//api/name/location2</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLinearGradientBorderStyle/location2</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat location2</Declaration>
+			
+			
+			<Anchor>//api/name/location2</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTLinearGradientBorderStyle/setWidth:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTLinearGradientBorderStyle/width</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat width</Declaration>
+			
+			
+			<Anchor>//api/name/width</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTLinearGradientBorderStyle/styleWithColor1:color2:width:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTLinearGradientBorderStyle *)styleWithColor1:(UIColor *)color1 color2:(UIColor *)color2 width:(CGFloat)width next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithColor1:color2:width:next:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTLinearGradientBorderStyle/styleWithColor1:location1:color2:location2:width:next:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTLinearGradientBorderStyle.h</DeclaredIn>			
+			
+			<Declaration>+ (TTLinearGradientBorderStyle *)styleWithColor1:(UIColor *)color1 location1:(CGFloat)location1 color2:(UIColor *)color2 location2:(CGFloat)location2 width:(CGFloat)width next:(TTStyle *)next</Declaration>
+			
+			
+			<Anchor>//api/name/styleWithColor1:location1:color2:location2:width:next:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTYouTubeView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTYouTubeView</TokenIdentifier>
+			<Abstract type="html">A web view that displays a YouTube video.</Abstract>
+			<DeclaredIn>TTYouTubeView.h</DeclaredIn>
+			
+			<NodeRef refid="235"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTYouTubeView/setUrlPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTYouTubeView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/urlPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTYouTubeView/urlPath</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTYouTubeView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/urlPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTYouTubeView/initWithURLPath:</TokenIdentifier>
+			<Abstract type="html">Initialize with a YouTube video URL.
+For example: http://www.youtube.com/watch?v=g8thp78oXsg</Abstract>
+			<DeclaredIn>TTYouTubeView.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithURLPath:(NSString *)urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/initWithURLPath:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

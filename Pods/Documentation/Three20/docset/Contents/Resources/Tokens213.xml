@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTURLAction.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTURLAction</TokenIdentifier>
+			<Abstract type="html">This object bundles up a set of parameters and ships them off
+to TTBasicNavigator&apos;s openURLAction method. This object is designed with the chaining principle
+in mind. Once you&apos;ve created a TTURLAction object, you can apply any other property to the
+object via the apply* methods. Each of these methods returns self, allowing you to chain them.</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>
+			
+			<NodeRef refid="213"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/setUrlPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/urlPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLAction/urlPath</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/urlPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/setParentURLPath:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *parentURLPath</Declaration>
+			
+			
+			<Anchor>//api/name/parentURLPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLAction/parentURLPath</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *parentURLPath</Declaration>
+			
+			
+			<Anchor>//api/name/parentURLPath</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/setQuery:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSDictionary *query</Declaration>
+			
+			
+			<Anchor>//api/name/query</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLAction/query</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSDictionary *query</Declaration>
+			
+			
+			<Anchor>//api/name/query</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/setState:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSDictionary *state</Declaration>
+			
+			
+			<Anchor>//api/name/state</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLAction/state</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSDictionary *state</Declaration>
+			
+			
+			<Anchor>//api/name/state</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/setAnimated:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL animated</Declaration>
+			
+			
+			<Anchor>//api/name/animated</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLAction/animated</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL animated</Declaration>
+			
+			
+			<Anchor>//api/name/animated</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/setWithDelay:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL withDelay</Declaration>
+			
+			
+			<Anchor>//api/name/withDelay</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLAction/withDelay</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL withDelay</Declaration>
+			
+			
+			<Anchor>//api/name/withDelay</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/setSourceRect:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) CGRect sourceRect</Declaration>
+			
+			
+			<Anchor>//api/name/sourceRect</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLAction/sourceRect</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) CGRect sourceRect</Declaration>
+			
+			
+			<Anchor>//api/name/sourceRect</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/setSourceView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *sourceView</Declaration>
+			
+			
+			<Anchor>//api/name/sourceView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLAction/sourceView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIView *sourceView</Declaration>
+			
+			
+			<Anchor>//api/name/sourceView</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/setSourceButton:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIBarButtonItem *sourceButton</Declaration>
+			
+			
+			<Anchor>//api/name/sourceButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLAction/sourceButton</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIBarButtonItem *sourceButton</Declaration>
+			
+			
+			<Anchor>//api/name/sourceButton</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/setTransition:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) UIViewAnimationTransition transition</Declaration>
+			
+			
+			<Anchor>//api/name/transition</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTURLAction/transition</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) UIViewAnimationTransition transition</Declaration>
+			
+			
+			<Anchor>//api/name/transition</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTURLAction/action</TokenIdentifier>
+			<Abstract type="html">Create an autoreleased TTURLAction object.</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>+ (id)action</Declaration>
+			
+			
+			<Anchor>//api/name/action</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTURLAction/actionWithURLPath:</TokenIdentifier>
+			<Abstract type="html">Create an autoreleased TTURLAction object with a URL path.</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>+ (id)actionWithURLPath:(NSString *)urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/actionWithURLPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/initWithURLPath:</TokenIdentifier>
+			<Abstract type="html">Initialize a TTURLAction object with a URL path.</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithURLPath:(NSString *)urlPath</Declaration>
+			
+			
+			<Anchor>//api/name/initWithURLPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/init</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (id)init</Declaration>
+			
+			
+			<Anchor>//api/name/init</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/applyParentURLPath:</TokenIdentifier>
+			<Abstract type="html">@default nil</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (TTURLAction *)applyParentURLPath:(NSString *)parentURLPath</Declaration>
+			
+			
+			<Anchor>//api/name/applyParentURLPath:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/applyQuery:</TokenIdentifier>
+			<Abstract type="html">@default nil</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (TTURLAction *)applyQuery:(NSDictionary *)query</Declaration>
+			
+			
+			<Anchor>//api/name/applyQuery:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/applyState:</TokenIdentifier>
+			<Abstract type="html">@default nil</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (TTURLAction *)applyState:(NSDictionary *)state</Declaration>
+			
+			
+			<Anchor>//api/name/applyState:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/applyAnimated:</TokenIdentifier>
+			<Abstract type="html">@default NO</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (TTURLAction *)applyAnimated:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/applyAnimated:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/applyWithDelay:</TokenIdentifier>
+			<Abstract type="html">@default NO</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (TTURLAction *)applyWithDelay:(BOOL)withDelay</Declaration>
+			
+			
+			<Anchor>//api/name/applyWithDelay:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/applySourceRect:</TokenIdentifier>
+			<Abstract type="html">@default CGRectZero</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (TTURLAction *)applySourceRect:(CGRect)sourceRect</Declaration>
+			
+			
+			<Anchor>//api/name/applySourceRect:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/applySourceView:</TokenIdentifier>
+			<Abstract type="html">@default nil</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (TTURLAction *)applySourceView:(UIView *)sourceView</Declaration>
+			
+			
+			<Anchor>//api/name/applySourceView:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/applySourceButton:</TokenIdentifier>
+			<Abstract type="html">@default nil</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (TTURLAction *)applySourceButton:(UIBarButtonItem *)sourceButton</Declaration>
+			
+			
+			<Anchor>//api/name/applySourceButton:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTURLAction/applyTransition:</TokenIdentifier>
+			<Abstract type="html">@default UIViewAnimationTransitionNone</Abstract>
+			<DeclaredIn>TTURLAction.h</DeclaredIn>			
+			
+			<Declaration>- (TTURLAction *)applyTransition:(UIViewAnimationTransition)transition</Declaration>
+			
+			
+			<Anchor>//api/name/applyTransition:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSObject+TTCategory.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSObject(TTCategory)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UINSObjectAdditions.h</DeclaredIn>
+			
+			<NodeRef refid="253"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(TTCategory)/setURLValue:</TokenIdentifier>
+			<Abstract type="html">Converts the object to a URL using TTURLMap.</Abstract>
+			<DeclaredIn>UINSObjectAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *URLValue</Declaration>
+			
+			
+			<Anchor>//api/name/URLValue</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/NSObject(TTCategory)/URLValue</TokenIdentifier>
+			<Abstract type="html">Converts the object to a URL using TTURLMap.</Abstract>
+			<DeclaredIn>UINSObjectAdditions.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *URLValue</Declaration>
+			
+			
+			<Anchor>//api/name/URLValue</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(TTCategory)/URLValueWithName:</TokenIdentifier>
+			<Abstract type="html">Converts the object to a specially-named URL using TTURLMap.</Abstract>
+			<DeclaredIn>UINSObjectAdditions.h</DeclaredIn>			
+			
+			<Declaration>- (NSString *)URLValueWithName:(NSString *)name</Declaration>
+			
+			
+			<Anchor>//api/name/URLValueWithName:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

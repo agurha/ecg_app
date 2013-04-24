@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTBaseNavigationController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTBaseNavigationController</TokenIdentifier>
+			<Abstract type="html">The base navigation view controller that overrides popViewControllerAnimated and provides
+inverse animations when popping a view controller.</Abstract>
+			<DeclaredIn>TTBaseNavigationController.h</DeclaredIn>
+			
+			<NodeRef refid="36"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigationController/pushAnimationDidStop</TokenIdentifier>
+			<Abstract type="html">TODO: Move this to a private category header.</Abstract>
+			<DeclaredIn>TTBaseNavigationController.h</DeclaredIn>			
+			
+			<Declaration>- (void)pushAnimationDidStop</Declaration>
+			
+			
+			<Anchor>//api/name/pushAnimationDidStop</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigationController/pushViewController:animatedWithTransition:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTBaseNavigationController.h</DeclaredIn>			
+			
+			<Declaration>- (void)pushViewController:(UIViewController *)controller animatedWithTransition:(UIViewAnimationTransition)transition</Declaration>
+			
+			
+			<Anchor>//api/name/pushViewController:animatedWithTransition:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTBaseNavigationController/popViewControllerAnimatedWithTransition:</TokenIdentifier>
+			<Abstract type="html">Pops a view controller with a transition other than the standard sliding animation.</Abstract>
+			<DeclaredIn>TTBaseNavigationController.h</DeclaredIn>			
+			
+			<Declaration>- (UIViewController *)popViewControllerAnimatedWithTransition:(UIViewAnimationTransition)transition</Declaration>
+			
+			
+			<Anchor>//api/name/popViewControllerAnimatedWithTransition:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

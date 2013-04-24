@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/TTMessageControllerDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/TTMessageControllerDelegate</TokenIdentifier>
+			<Abstract type="html">A protocol for the object that implements the backend logic for the
+TTMessageController. This object is responsible for delivering the message
+that was composed in the view controller when the user chooses the send option.
+It receive a message when the user cancels the creation of a message or when
+they press the plus icon in a recipient field.</Abstract>
+			<DeclaredIn>TTMessageControllerDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="286"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTMessageControllerDelegate/composeController:didSendFields:</TokenIdentifier>
+			<Abstract type="html">Received when the user touches the send button, indicating they wish to send
+their message. Implementations should send the message represented by the
+supplied fields. The fields array contains subclasses of TTMessageField. Its
+last object is the body of the message, contained within a TTMessageTextField.</Abstract>
+			<DeclaredIn>TTMessageControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)composeController:(TTMessageController *)controller didSendFields:(NSArray *)fields</Declaration>
+			
+			
+			<Anchor>//api/name/composeController:didSendFields:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTMessageControllerDelegate/composeControllerWillCancel:</TokenIdentifier>
+			<Abstract type="html">Received when the user has chosen to cancel creating their message. Upon
+returning, the TTMessageController will be dismissed. Implementations
+can use this callback to cleanup any resources.</Abstract>
+			<DeclaredIn>TTMessageControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)composeControllerWillCancel:(TTMessageController *)controller</Declaration>
+			
+			
+			<Anchor>//api/name/composeControllerWillCancel:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/TTMessageControllerDelegate/composeControllerShowRecipientPicker:</TokenIdentifier>
+			<Abstract type="html">Received in response to the user touching a contact add button. This method
+should prepare and present a view for the user to choose a contact. Upon
+choosing a contact, that contact should be added to the field.</Abstract>
+			<DeclaredIn>TTMessageControllerDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)composeControllerShowRecipientPicker:(TTMessageController *)controller</Declaration>
+			
+			
+			<Anchor>//api/name/composeControllerShowRecipientPicker:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

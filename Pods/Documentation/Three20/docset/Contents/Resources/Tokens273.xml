@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/UIViewController+TTNavigator.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/UIViewController(TTNavigator)</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>UIViewController+TTNavigator.h</DeclaredIn>
+			
+			<NodeRef refid="273"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTNavigator)/initWithNavigatorURL:query:</TokenIdentifier>
+			<Abstract type="html">The default initializer sent to view controllers opened through TTNavigator.</Abstract>
+			<DeclaredIn>UIViewController+TTNavigator.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithNavigatorURL:(NSURL *)URL query:(NSDictionary *)query</Declaration>
+			
+			
+			<Anchor>//api/name/initWithNavigatorURL:query:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTNavigator)/setNavigatorURL:</TokenIdentifier>
+			<Abstract type="html">The current URL that this view controller represents.</Abstract>
+			<DeclaredIn>UIViewController+TTNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *navigatorURL</Declaration>
+			
+			
+			<Anchor>//api/name/navigatorURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIViewController(TTNavigator)/navigatorURL</TokenIdentifier>
+			<Abstract type="html">The current URL that this view controller represents.</Abstract>
+			<DeclaredIn>UIViewController+TTNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSString *navigatorURL</Declaration>
+			
+			
+			<Anchor>//api/name/navigatorURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTNavigator)/setOriginalNavigatorURL:</TokenIdentifier>
+			<Abstract type="html">The URL that was used to load this controller through TTNavigator.</Abstract>
+			<DeclaredIn>UIViewController+TTNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *originalNavigatorURL</Declaration>
+			
+			
+			<Anchor>//api/name/originalNavigatorURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIViewController(TTNavigator)/originalNavigatorURL</TokenIdentifier>
+			<Abstract type="html">The URL that was used to load this controller through TTNavigator.</Abstract>
+			<DeclaredIn>UIViewController+TTNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *originalNavigatorURL</Declaration>
+			
+			
+			<Anchor>//api/name/originalNavigatorURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTNavigator)/setFrozenState:</TokenIdentifier>
+			<Abstract type="html">A temporary holding place for persisted view state waiting to be restored.</Abstract>
+			<DeclaredIn>UIViewController+TTNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSDictionary *frozenState</Declaration>
+			
+			
+			<Anchor>//api/name/frozenState</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfp/UIViewController(TTNavigator)/frozenState</TokenIdentifier>
+			<Abstract type="html">A temporary holding place for persisted view state waiting to be restored.</Abstract>
+			<DeclaredIn>UIViewController+TTNavigator.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSDictionary *frozenState</Declaration>
+			
+			
+			<Anchor>//api/name/frozenState</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/UIViewController(TTNavigator)/doNavigatorGarbageCollection</TokenIdentifier>
+			<Abstract type="html">Forcefully initiates garbage collection. You may call this in your didReceiveMemoryWarning
+message if you are worried about garbage collection memory consumption.</Abstract>
+			<DeclaredIn>UIViewController+TTNavigator.h</DeclaredIn>			
+			
+			<Declaration>+ (void)doNavigatorGarbageCollection</Declaration>
+			
+			
+			<Anchor>//api/name/doNavigatorGarbageCollection</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

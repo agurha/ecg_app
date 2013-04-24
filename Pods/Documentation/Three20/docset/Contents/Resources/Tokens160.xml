@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableControlItem.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableControlItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlItem.h</DeclaredIn>
+			
+			<NodeRef refid="160"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableControlItem/setCaption:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *caption</Declaration>
+			
+			
+			<Anchor>//api/name/caption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableControlItem/caption</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *caption</Declaration>
+			
+			
+			<Anchor>//api/name/caption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableControlItem/setControl:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIControl *control</Declaration>
+			
+			
+			<Anchor>//api/name/control</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableControlItem/control</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlItem.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIControl *control</Declaration>
+			
+			
+			<Anchor>//api/name/control</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTTableControlItem/itemWithCaption:control:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableControlItem.h</DeclaredIn>			
+			
+			<Declaration>+ (id)itemWithCaption:(NSString *)caption control:(UIControl *)control</Declaration>
+			
+			
+			<Anchor>//api/name/itemWithCaption:control:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

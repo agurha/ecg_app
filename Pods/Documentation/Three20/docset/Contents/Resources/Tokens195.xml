@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableViewDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableViewDelegate</TokenIdentifier>
+			<Abstract type="html">A default table view delegate implementation.</Abstract>
+			<DeclaredIn>TTTableViewDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="195"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewDelegate/initWithController:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithController:(TTTableViewController *)controller</Declaration>
+			
+			
+			<Anchor>//api/name/initWithController:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableViewDelegate/setController:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTTableViewController *controller</Declaration>
+			
+			
+			<Anchor>//api/name/controller</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableViewDelegate/controller</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableViewDelegate.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) TTTableViewController *controller</Declaration>
+			
+			
+			<Anchor>//api/name/controller</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

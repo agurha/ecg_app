@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTPhotoView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTPhotoView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>
+			
+			<NodeRef refid="96"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoView/setPhoto:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhoto&gt; photo</Declaration>
+			
+			
+			<Anchor>//api/name/photo</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPhotoView/photo</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) id&lt;TTPhoto&gt; photo</Declaration>
+			
+			
+			<Anchor>//api/name/photo</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoView/setCaptionStyle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *captionStyle</Declaration>
+			
+			
+			<Anchor>//api/name/captionStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPhotoView/captionStyle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) TTStyle *captionStyle</Declaration>
+			
+			
+			<Anchor>//api/name/captionStyle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoView/setHidesExtras:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL hidesExtras</Declaration>
+			
+			
+			<Anchor>//api/name/hidesExtras</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPhotoView/hidesExtras</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL hidesExtras</Declaration>
+			
+			
+			<Anchor>//api/name/hidesExtras</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoView/setHidesCaption:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL hidesCaption</Declaration>
+			
+			
+			<Anchor>//api/name/hidesCaption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPhotoView/hidesCaption</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) BOOL hidesCaption</Declaration>
+			
+			
+			<Anchor>//api/name/hidesCaption</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoView/loadPreview:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)loadPreview:(BOOL)fromNetwork</Declaration>
+			
+			
+			<Anchor>//api/name/loadPreview:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoView/loadImage</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>- (void)loadImage</Declaration>
+			
+			
+			<Anchor>//api/name/loadImage</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoView/showProgress:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>- (void)showProgress:(CGFloat)progress</Declaration>
+			
+			
+			<Anchor>//api/name/showProgress:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPhotoView/showStatus:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPhotoView.h</DeclaredIn>			
+			
+			<Declaration>- (void)showStatus:(NSString *)text</Declaration>
+			
+			
+			<Anchor>//api/name/showStatus:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

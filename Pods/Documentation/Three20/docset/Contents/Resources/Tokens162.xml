@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableFooterInfiniteScrollView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableFooterInfiniteScrollView</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableFooterInfiniteScrollView.h</DeclaredIn>
+			
+			<NodeRef refid="162"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableFooterInfiniteScrollView/setIndicator:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableFooterInfiniteScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIActivityIndicatorView *indicator</Declaration>
+			
+			
+			<Anchor>//api/name/indicator</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTTableFooterInfiniteScrollView/indicator</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableFooterInfiniteScrollView.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, retain) UIActivityIndicatorView *indicator</Declaration>
+			
+			
+			<Anchor>//api/name/indicator</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTTableFooterInfiniteScrollView/setLoading:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableFooterInfiniteScrollView.h</DeclaredIn>			
+			
+			<Declaration>- (void)setLoading:(BOOL)loading</Declaration>
+			
+			
+			<Anchor>//api/name/setLoading:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

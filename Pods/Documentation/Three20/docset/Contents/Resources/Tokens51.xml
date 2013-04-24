@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTDataPopulator.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTDataPopulator</TokenIdentifier>
+			<Abstract type="html">\nosubgrouping
+TTDataPopulator is used to populate Model Objects with Data contained in dictionaries.
+This is a little versio of this class with a small subset of useful methods to
+use with &apos;TTCSS&apos; Classes. See JUMP Framework to retrieve the full version.</Abstract>
+			<DeclaredIn>TTDataPopulator.h</DeclaredIn>
+			
+			<NodeRef refid="51"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTDataPopulator/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDataPopulator.h</DeclaredIn>			
+			
+			<Declaration>@property (assign) id&lt;TTDataPopulatorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTDataPopulator/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTDataPopulator.h</DeclaredIn>			
+			
+			<Declaration>@property (assign) id&lt;TTDataPopulatorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTDataPopulator/populateObject:withData:usingMap:</TokenIdentifier>
+			<Abstract type="html">Populate the informed object with data.</Abstract>
+			<DeclaredIn>TTDataPopulator.h</DeclaredIn>			
+			
+			<Declaration>+ (id)populateObject:(id)anObject withData:(NSDictionary *)anDictionary usingMap:(NSDictionary *)anMap</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>anObject</Name>
+					<Abstract type="html">The object to populate.</Abstract>
+				</Parameter><Parameter>
+					<Name>withData</Name>
+					<Abstract type="html">An &lt;tt&gt;NSDictionary&lt;/tt&gt; with data.</Abstract>
+				</Parameter><Parameter>
+					<Name>usingMap</Name>
+					<Abstract type="html">An &lt;tt&gt;NSDictionary&lt;/tt&gt; that represent an map that describe
+how to populate the object.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/populateObject:withData:usingMap:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTDataPopulator/populateObject:withData:usingMap:withDelegate:</TokenIdentifier>
+			<Abstract type="html">Populate the informed object with data.</Abstract>
+			<DeclaredIn>TTDataPopulator.h</DeclaredIn>			
+			
+			<Declaration>+ (id)populateObject:(id)anObject withData:(NSDictionary *)anDictionary usingMap:(NSDictionary *)anMap withDelegate:(id&lt;TTDataPopulatorDelegate&gt;)anDelegate</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>anObject</Name>
+					<Abstract type="html">The object to populate.</Abstract>
+				</Parameter><Parameter>
+					<Name>anDelegate</Name>
+					<Abstract type="html">to extend the TTDataPopulator class. See TTDataPopulatorDelegate
+documentation for more information.</Abstract>
+				</Parameter><Parameter>
+					<Name>usingMap</Name>
+					<Abstract type="html">An &lt;tt&gt;NSDictionary&lt;/tt&gt; that represent an map that describe
+how to populate the object.</Abstract>
+				</Parameter><Parameter>
+					<Name>withData</Name>
+					<Abstract type="html">An &lt;tt&gt;NSDictionary&lt;/tt&gt; with data.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/populateObject:withData:usingMap:withDelegate:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

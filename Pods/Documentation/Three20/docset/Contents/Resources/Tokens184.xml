@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTTableSubtextItem.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTTableSubtextItem</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTTableSubtextItem.h</DeclaredIn>
+			
+			<NodeRef refid="184"/>
+		</Token>
+		
+		
+	</File>
+</Tokens>

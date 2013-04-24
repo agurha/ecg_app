@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/YAJL_GTMBase64.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/YAJL_GTMBase64</TokenIdentifier>
+			<Abstract type="html">The webSafe methods use different character set and also the results aren&apos;t
+always padded to a multiple of 4 characters.  This is done so the resulting
+data can be used in urls and url query arguments without needing any
+encoding.  You must use the webSafe* methods together, the data does not
+interop with the RFC methods.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>
+			
+			<NodeRef refid="241"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/encodeData:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSData with the encoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSData *)encodeData:(NSData *)data</Declaration>
+			
+			
+			<Anchor>//api/name/encodeData:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/decodeData:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSData with the decoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSData *)decodeData:(NSData *)data</Declaration>
+			
+			
+			<Anchor>//api/name/decodeData:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/encodeBytes:length:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSData with the encoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSData *)encodeBytes:(const void *)bytes length:(NSUInteger)length</Declaration>
+			
+			
+			<Anchor>//api/name/encodeBytes:length:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/decodeBytes:length:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSData with the encoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSData *)decodeBytes:(const void *)bytes length:(NSUInteger)length</Declaration>
+			
+			
+			<Anchor>//api/name/decodeBytes:length:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/stringByEncodingData:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSString with the encoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSString *)stringByEncodingData:(NSData *)data</Declaration>
+			
+			
+			<Anchor>//api/name/stringByEncodingData:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/stringByEncodingBytes:length:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSString with the encoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSString *)stringByEncodingBytes:(const void *)bytes length:(NSUInteger)length</Declaration>
+			
+			
+			<Anchor>//api/name/stringByEncodingBytes:length:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/decodeString:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSData with the decoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSData *)decodeString:(NSString *)string</Declaration>
+			
+			
+			<Anchor>//api/name/decodeString:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/webSafeEncodeData:padded:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSData with the encoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSData *)webSafeEncodeData:(NSData *)data padded:(BOOL)padded</Declaration>
+			
+			
+			<Anchor>//api/name/webSafeEncodeData:padded:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/webSafeDecodeData:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSData with the decoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSData *)webSafeDecodeData:(NSData *)data</Declaration>
+			
+			
+			<Anchor>//api/name/webSafeDecodeData:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/webSafeEncodeBytes:length:padded:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSData with the encoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSData *)webSafeEncodeBytes:(const void *)bytes length:(NSUInteger)length padded:(BOOL)padded</Declaration>
+			
+			
+			<Anchor>//api/name/webSafeEncodeBytes:length:padded:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/webSafeDecodeBytes:length:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSData with the encoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSData *)webSafeDecodeBytes:(const void *)bytes length:(NSUInteger)length</Declaration>
+			
+			
+			<Anchor>//api/name/webSafeDecodeBytes:length:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/stringByWebSafeEncodingData:padded:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSString with the encoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSString *)stringByWebSafeEncodingData:(NSData *)data padded:(BOOL)padded</Declaration>
+			
+			
+			<Anchor>//api/name/stringByWebSafeEncodingData:padded:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/stringByWebSafeEncodingBytes:length:padded:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSString with the encoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSString *)stringByWebSafeEncodingBytes:(const void *)bytes length:(NSUInteger)length padded:(BOOL)padded</Declaration>
+			
+			
+			<Anchor>//api/name/stringByWebSafeEncodingBytes:length:padded:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/YAJL_GTMBase64/webSafeDecodeString:</TokenIdentifier>
+			<Abstract type="html">Returns:
+   A new autoreleased NSData with the decoded payload.  nil for any error.</Abstract>
+			<DeclaredIn>GTMBase64.h</DeclaredIn>			
+			
+			<Declaration>+ (NSData *)webSafeDecodeString:(NSString *)string</Declaration>
+			
+			
+			<Anchor>//api/name/webSafeDecodeString:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTPickerTextField.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTPickerTextField</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>
+			
+			<NodeRef refid="98"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPickerTextField/setCellViews:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *cellViews</Declaration>
+			
+			
+			<Anchor>//api/name/cellViews</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPickerTextField/cellViews</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *cellViews</Declaration>
+			
+			
+			<Anchor>//api/name/cellViews</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPickerTextField/setCells:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *cells</Declaration>
+			
+			
+			<Anchor>//api/name/cells</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPickerTextField/cells</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *cells</Declaration>
+			
+			
+			<Anchor>//api/name/cells</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPickerTextField/setSelectedCell:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) TTPickerViewCell *selectedCell</Declaration>
+			
+			
+			<Anchor>//api/name/selectedCell</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPickerTextField/selectedCell</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) TTPickerViewCell *selectedCell</Declaration>
+			
+			
+			<Anchor>//api/name/selectedCell</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPickerTextField/setLineCount:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) int lineCount</Declaration>
+			
+			
+			<Anchor>//api/name/lineCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTPickerTextField/lineCount</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) int lineCount</Declaration>
+			
+			
+			<Anchor>//api/name/lineCount</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPickerTextField/addCellWithObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>- (void)addCellWithObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/addCellWithObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPickerTextField/removeCellWithObject:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeCellWithObject:(id)object</Declaration>
+			
+			
+			<Anchor>//api/name/removeCellWithObject:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPickerTextField/removeAllCells</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeAllCells</Declaration>
+			
+			
+			<Anchor>//api/name/removeAllCells</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPickerTextField/removeSelectedCell</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>- (void)removeSelectedCell</Declaration>
+			
+			
+			<Anchor>//api/name/removeSelectedCell</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPickerTextField/scrollToVisibleLine:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollToVisibleLine:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/scrollToVisibleLine:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTPickerTextField/scrollToEditingLine:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTPickerTextField.h</DeclaredIn>			
+			
+			<Declaration>- (void)scrollToEditingLine:(BOOL)animated</Declaration>
+			
+			
+			<Anchor>//api/name/scrollToEditingLine:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/TTSpeechBubbleShape.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/TTSpeechBubbleShape</TokenIdentifier>
+			<Abstract type="html">The shape that defines a rectangular shape with a pointer.</Abstract>
+			<DeclaredIn>TTSpeechBubbleShape.h</DeclaredIn>
+			
+			<NodeRef refid="121"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSpeechBubbleShape/setRadius:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSpeechBubbleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat radius</Declaration>
+			
+			
+			<Anchor>//api/name/radius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSpeechBubbleShape/radius</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSpeechBubbleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat radius</Declaration>
+			
+			
+			<Anchor>//api/name/radius</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSpeechBubbleShape/setPointLocation:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSpeechBubbleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat pointLocation</Declaration>
+			
+			
+			<Anchor>//api/name/pointLocation</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSpeechBubbleShape/pointLocation</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSpeechBubbleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat pointLocation</Declaration>
+			
+			
+			<Anchor>//api/name/pointLocation</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSpeechBubbleShape/setPointAngle:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSpeechBubbleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat pointAngle</Declaration>
+			
+			
+			<Anchor>//api/name/pointAngle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSpeechBubbleShape/pointAngle</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSpeechBubbleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGFloat pointAngle</Declaration>
+			
+			
+			<Anchor>//api/name/pointAngle</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/TTSpeechBubbleShape/setPointSize:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSpeechBubbleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize pointSize</Declaration>
+			
+			
+			<Anchor>//api/name/pointSize</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/TTSpeechBubbleShape/pointSize</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>TTSpeechBubbleShape.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic) CGSize pointSize</Declaration>
+			
+			
+			<Anchor>//api/name/pointSize</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/TTSpeechBubbleShape/shapeWithRadius:pointLocation:pointAngle:pointSize:</TokenIdentifier>
+			<Abstract type="html">The shape that defines a rectangular shape with a pointer.
+Radius - number of pixels for the rounded corners
+pointLocation - location of the point where the top edge starts at 45, the right edge at 135,
+the bottom edge at 225 and the left edge at 315.
+pointAngle - not fgunctional yet. Make this equal to pointLocation in order to point it in the
+right direction.
+pointSize - the square in which the pointer will be defined, should be narrower or less high than
+the shape minus the radiuses.</Abstract>
+			<DeclaredIn>TTSpeechBubbleShape.h</DeclaredIn>			
+			
+			<Declaration>+ (TTSpeechBubbleShape *)shapeWithRadius:(CGFloat)radius pointLocation:(CGFloat)pointLocation pointAngle:(CGFloat)pointAngle pointSize:(CGSize)pointSize</Declaration>
+			
+			
+			<Anchor>//api/name/shapeWithRadius:pointLocation:pointAngle:pointSize:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>
